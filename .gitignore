@@ -28,6 +28,7 @@ config.json
 # Ignore specific files or directories
 item_logs/
 python_scripts/
+final_price.txt
 
 # Ignore all files in a directory named temp
 temp/*

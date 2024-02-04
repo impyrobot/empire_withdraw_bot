@@ -4,10 +4,22 @@ const axios = require('axios');
 const http = require('http');
 const url = require('url');
 const fs = require('fs');
+const logFilePath = 'final_price.txt'; // Path to your log file
+
+// main.js
+const api = require('./api');
+
+// Use the imported functions
+api.getBalance().then(() => {
+    console.log("Fetched balance successfully.");
+}).catch((error) => {
+    console.error("Error fetching balance:", error);
+});
 
 
-// Replace "YOUR API KEY HERE" with your API key
 const csgoempireApiKey = process.env.CSGOEMPIRE_API_KEY;
+// Set the authorization header globally
+axios.defaults.headers.common['Authorization'] = `Bearer ${csgoempireApiKey}`;
 
 // Replace domain to '.gg' if '.com' is blocked
 const domain = "csgoempire.com"
@@ -36,12 +48,12 @@ fs.readFile('blacklist.txt', 'utf8', (err, data) => {
 
 let filteredItemStorage = [];
 
-const reccomenedPrice= -6;
+const reccomenedPrice= 0;
 
 filters = {
-    // price_max: 999999,
     price_min: 1000,
-    price_max: 50000,
+    // price_max: 50000,
+    price_max: 999999,
     wear_max: 0.38,
     is_commodity: false,
 }
@@ -135,15 +147,29 @@ async function initSocket() {
             
                 // Normalize data to always be an array
                 const updated_items = Array.isArray(data) ? data : [data];
-                
+
+            
                 updated_items.forEach(item => {
-                    // Directly check and log if the item exists in 'filteredItemStorage'
-                    const storageItem = filteredItemStorage.find(storageItem => storageItem.id === item.id);
-                    if (storageItem) {
-                        logItem(item, timestamp, 'ITEM_UPDATED');
+                    // Find the item in the storage
+                    const storageItemIndex = filteredItemStorage.findIndex(storageItem => storageItem.id === item.id);
+            
+                    if (storageItemIndex !== -1) {
+                    
+                        // If the item exists in 'filteredItemStorage' and the update contains valid price data, update it
+                        if (typeof item.auction_highest_bid !== 'undefined' && item.auction_highest_bid !== null) {
+                            
+                            filteredItemStorage[storageItemIndex].purchase_price = item.auction_highest_bid;
+                            filteredItemStorage[storageItemIndex].above_recommended_price = item.above_recommended_price;
+
+                            // Assuming logItem is a function for logging, you might want to adjust its usage according to your implementation
+                            logItem(filteredItemStorage[storageItemIndex], timestamp, 'ITEM_UPDATED');
+                        }
+            
+
                     }
                 });
             });
+            
             
             socket.on('deleted_item', (data) => {
 
@@ -158,7 +184,7 @@ async function initSocket() {
                     const isDeletedItemInStorage = filteredItemStorage.some(item => item.id === id);
                     
                     if (isDeletedItemInStorage) {
-                        // If an item with the matching ID is found in filteredItemStorage, print it with a red color
+                        logDeletedItemInfo(id);
                         console.log('\x1b[31m%s\x1b[0m', `ITEM DELETED: ${timestamp}, ${id}`);
                     }
                 });
@@ -186,7 +212,7 @@ function logItem(item, timestamp, logType) {
             logMessage = `\x1b[32mNEW ITEM: ${logMessage}, NAME: ${item.market_name}, PRICE: ${item.price}, ABOVE RECOMMENDED: ${item.above_recommended_price}\x1b[0m`;
             break;
         case 'ITEM_UPDATED':
-            logMessage = `\x1b[38;5;208mITEM UPDATED: ${logMessage}, HIGHEST BID: ${item.auction_highest_bid}, ABOVE RECOMMENDED: ${item.above_recommended_price}, NO. BIDDERS: ${item.auction_number_of_bids}\x1b[0m`;
+            logMessage = `\x1b[38;5;208mITEM UPDATED: ${logMessage}, NAME: ${item.market_name}, HIGHEST BID: ${item.purchase_price}, ABOVE RECOMMENDED: ${item.above_recommended_price}, BIDDERS: ${item.auction_number_of_bids}\x1b[0m`;
             break;
         case 'ITEM_DELETED':
             logMessage = `\x1b[31mITEM DELETED: ${logMessage}\x1b[0m`;
@@ -199,6 +225,34 @@ function logItem(item, timestamp, logType) {
     console.log(logMessage);
 }
 
+// Function to log deleted item information
+function logDeletedItemInfo(itemId) {
+    // Find the item in the storage
+    const item = filteredItemStorage.find(i => i.id === itemId);
+    if (item) {
+        // Determine the price to log (highest bid if available, otherwise regular price)
+        console.log(item);
 
+        const priceToLog = item.purchase_price;
+
+        // Construct the log message
+        const logMessage = `${item.id}, ${item.market_name}, ${priceToLog}, ${item.above_recommended_price}\n`;
+
+        // Append the log message to the file
+        fs.appendFile(logFilePath, logMessage, (err) => {
+            if (err) {
+                console.error('Error writing to the log file:', err);
+            } else {
+                console.log('Logged deleted item to file:', logMessage);
+            }
+        });
+
+        // Optionally, remove the item from the storage to keep it up-to-date
+        const index = filteredItemStorage.indexOf(item);
+        if (index > -1) {
+            filteredItemStorage.splice(index, 1);
+        }
+    }
+}
 
 initSocket();
