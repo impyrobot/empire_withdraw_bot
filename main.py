@@ -101,8 +101,7 @@ class WithdrawalBot:
         #Gets items listed on the market
 
         endpoint = "api/v2/trading/items"
-        query_string = f"?per_page=160&not_category=Container&price_min={price_min}&price_max={price_max}&wear_min={wear_min}&wear_max={wear_max}&price_max_above=0&delivery_time_long_max=720&commodity=no&auction=yes&sort={sort}&order={order}&page={page}"
-        query_string = f"?per_page=160&page=1&not_category=Container&price_min=1000&price_max=30000&wear_min=0&wear_max=0.38&price_max_above=-6&delivery_time_long_max=720&commodity=no&auction=no&sort=desc&order=market_value"
+        query_string = f"?per_page=160&not_category=Container&price_min={price_min}&price_max={price_max}&wear_min={wear_min}&wear_max={wear_max}&price_max_above=0&delivery_time_long_max=720&commodity=no&auction=no&sort={sort}&order={order}&page={page}"
         url = f"{endpoint}{query_string}"
 
         response = self.send_request(url)
@@ -192,8 +191,6 @@ class WithdrawalBot:
 
 def main(api_key, run_duration, price_min, price_max, wear_min, wear_max, sort, order, max_requests_per_minute, metadata_flag):
 
-    # config = load_config()  # Load configuration
-
     bot = WithdrawalBot(api_key)
 
     if metadata_flag:
@@ -229,9 +226,9 @@ if __name__ == "__main__":
     parser.add_argument("--api_key", type=str,default="c07ab365478208c4b7bd710509f7776b", required=False, help="API Key for authentication")
     parser.add_argument("--run_duration", type=int, default=600, help="Duration to run the bot in seconds")
     parser.add_argument("--price_min", type=int, default=1000, help="Minimum price filter")
-    parser.add_argument("--price_max", type=int, default=30000, help="Maximum price filter")
+    parser.add_argument("--price_max", type=int, default=50000, help="Maximum price filter")
     parser.add_argument("--wear_min", type=float, default=0, help="Minimum wear filter")
-    parser.add_argument("--wear_max", type=float, default=0.380, help="Maximum wear filter")
+    parser.add_argument("--wear_max", type=float, default=0.5, help="Maximum wear filter")
     parser.add_argument("--sort", type=str, default="asc", help="Sort order")
     parser.add_argument("--order", type=str, default="above_recommended_price", help="Order type")
     parser.add_argument("--max_requests_per_minute", type=int, default=30, help="Max requests per minute")

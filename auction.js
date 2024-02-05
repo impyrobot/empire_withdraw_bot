@@ -160,7 +160,7 @@ async function initSocket() {
                             
                             filteredItemStorage[storageItemIndex].purchase_price = item.auction_highest_bid;
                             filteredItemStorage[storageItemIndex].above_recommended_price = item.above_recommended_price;
-
+                            
                             // Assuming logItem is a function for logging, you might want to adjust its usage according to your implementation
                             logItem(filteredItemStorage[storageItemIndex], timestamp, 'ITEM_UPDATED');
                         }
