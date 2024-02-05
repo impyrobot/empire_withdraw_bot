@@ -48,12 +48,12 @@ fs.readFile('blacklist.txt', 'utf8', (err, data) => {
 
 let filteredItemStorage = [];
 
-const reccomenedPrice= 0;
+const reccomenedPrice= -6;
 
 filters = {
     price_min: 1000,
-    // price_max: 50000,
-    price_max: 999999,
+    price_max: 50000,
+    // price_max: 999999,
     wear_max: 0.38,
     is_commodity: false,
 }
@@ -231,7 +231,6 @@ function logDeletedItemInfo(itemId) {
     const item = filteredItemStorage.find(i => i.id === itemId);
     if (item) {
         // Determine the price to log (highest bid if available, otherwise regular price)
-        console.log(item);
 
         const priceToLog = item.purchase_price;
 
