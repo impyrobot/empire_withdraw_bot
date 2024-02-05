@@ -48,7 +48,7 @@ fs.readFile('blacklist.txt', 'utf8', (err, data) => {
 
 let filteredItemStorage = [];
 
-const reccomenedPrice= -6;
+const reccomenedPrice= 0;
 
 filters = {
     price_min: 1000,
