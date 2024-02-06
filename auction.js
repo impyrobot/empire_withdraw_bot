@@ -8,6 +8,8 @@ const logFilePath = 'final_price.txt'; // Path to your log file
 
 // main.js
 const api = require('./api');
+const { getBuff } = require('./priceEmpireApi');
+
 
 // Use the imported functions
 api.getBalance().then(() => {
@@ -114,7 +116,7 @@ async function initSocket() {
             socket.on('timesync', (data) => console.log(`Timesync: ${JSON.stringify(data)}`));
             socket.on("disconnect", (reason) => console.log(`Socket disconnected: ${reason}`));
             // socket.on('updated_item', (data) => console.log(`updated_item: ${JSON.stringify(data)}`));
-            // socket.on('trade_status', (data) => console.log(`trade_status: ${JSON.stringify(data)}`));
+            socket.on('trade_status', (data) => console.log(`trade_status: ${JSON.stringify(data)}`));
             
 
             //LISTED FOR NEW_ITEMS, filters items and then adds them to the storage array and prints to console
@@ -230,12 +232,21 @@ function logDeletedItemInfo(itemId) {
     // Find the item in the storage
     const item = filteredItemStorage.find(i => i.id === itemId);
     if (item) {
-        // Determine the price to log (highest bid if available, otherwise regular price)
 
-        const priceToLog = item.purchase_price;
+        // Get the buff percentage
+        let buffPercentage = getBuff(item.market_name, item.purchase_price);
+
+        // getBuff(item.market_name,item.purchase_price).then(result => {
+        //     if (result) {
+        //         buffPercentage = result.buffPercentage;
+        //     } else {
+        //         buffPercentage = "0.00%";
+        //       console.log('Failed to get buff details.');
+        //     }
+        //   }).catch(error => console.error(error));
 
         // Construct the log message
-        const logMessage = `${item.id}, ${item.market_name}, ${priceToLog}, ${item.above_recommended_price}\n`;
+        const logMessage = `${item.id},${item.market_name},${item.purchase_price},${item.above_recommended_price},${buffPercentage}%\n`;
 
         // Append the log message to the file
         fs.appendFile(logFilePath, logMessage, (err) => {

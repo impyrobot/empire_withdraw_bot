@@ -29,6 +29,8 @@ config.json
 item_logs/
 python_scripts/
 final_price.txt
+buffPercentage.txt
+coinsTobuffPercantageFile.py
 
 # Ignore all files in a directory named temp
 temp/*
