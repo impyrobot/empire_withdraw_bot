@@ -3,7 +3,7 @@ require('dotenv').config();
 const axios = require('axios');
 
 // Define the getBuff function
-const getBuff = async (item_name, coins) => {
+const getBuffItem = async (item_name, coins) => {
   // Convert coins to USD and round to 2 decimal places
   const coinsInUSD = parseFloat(((parseFloat(coins) / 100) * 0.6142808).toFixed(2));
 
@@ -25,7 +25,7 @@ const getBuff = async (item_name, coins) => {
       // Calculate the percentage of the item price in buff compared to the USD value of coins and round to 2 decimal places
       const buffPercentage = parseFloat(((coinsInUSD / buffPrice) * 100).toFixed(2));
 
-      return { usd: coinsInUSD, buffPrice, buffPercentage, buffLiquidity };
+      return {coinsInUSD, buffPrice, buffPercentage, buffLiquidity };
     } else {
       console.log(`Failed to fetch data: HTTP ${response.status}`);
       return null;
@@ -37,4 +37,13 @@ const getBuff = async (item_name, coins) => {
 };
 
 // Export the getBuff function for use in other files
-module.exports = { getBuff };
+module.exports = { getBuffItem };
+
+// (async () => {
+//   try {
+//       const result = await getBuffItem("AK-47 | Redline (Field-Tested)", 1900);
+//       console.log(result);
+//   } catch (error) {
+//       console.error('Failed to get buff data:', error);
+//   }
+// })();

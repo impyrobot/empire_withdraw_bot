@@ -5,6 +5,7 @@ const axios = require('axios');
 const domain = "csgoempire.com"; // Updated to match the new endpoint domain
 const API_KEY = process.env.CSGOEMPIRE_API_KEY;
 
+//Working
 const getBalance = async () => {
     // Set the authorization header for this request
     const headers = {
@@ -19,18 +20,21 @@ const getBalance = async () => {
 
         console.log('User Balance:', userBalance);
 
+        return userBalance;
+
     } catch (error) {
         // Log the error details
         console.error('Failed to fetch balance:', error.response ? error.response.data : error.message);
     }
 };
 
+
 const getActiveTrades = async () => {
     const headers = { Authorization: `Bearer ${API_KEY}` };
 
     try {
         const response = await axios.get(`https://${domain}/api/v2/trading/user/trades`, { headers });
-        console.log('Active Trades:', response.data);
+        console.log('Active Trades:', JSON.stringify(response.data, null, 2));
     } catch (error) {
         console.error('Failed to fetch active trades:', error.response ? error.response.data : error.message);
     }
@@ -94,6 +98,7 @@ const placeBid = async (depositId, bidValue) => {
     try {
         const response = await axios.post(`https://${domain}/api/v2/trading/deposit/${depositId}/bid`, body, { headers });
         console.log('Bid Response:', response.data);
+        console.log('Bid Response:', JSON.stringify(response.data, null, 2));
     } catch (error) {
         console.error('Failed to place a bid:', error.response ? error.response.data : error.message);
     }

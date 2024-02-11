@@ -4,20 +4,34 @@ const axios = require('axios');
 const http = require('http');
 const url = require('url');
 const fs = require('fs');
-const logFilePath = 'final_price.txt'; // Path to your log file
+const logFilePath = 'priceEmpireLog.txt'; // Path to your log file
 
 // main.js
 const api = require('./api');
-const { getBuff } = require('./priceEmpireApi');
+const { getBuff, cache } = require('./priceEmpireItemsPrices');
+const { getBuffItem } = require('./priceEmpireApi');
 
+// getBuff called to get buff data
+(async () => {
+    try {
+        // Example usage
+        const itemName = 'AK-47 | Redline (Field-Tested)'; // Use your actual item name
+        const coins = 1906; // Use your actual coins value
+        const result = await getBuff(itemName, coins);
+        // console.log(result);
+    } catch (error) {
+        console.error('Failed to get buff data:', error);
+    }
+})();
 
+let userBalance;
 // Use the imported functions
-api.getBalance().then(() => {
+api.getBalance().then((balance) => {
     console.log("Fetched balance successfully.");
+    userBalance = balance; // Use the resolved value directly
 }).catch((error) => {
     console.error("Error fetching balance:", error);
 });
-
 
 const csgoempireApiKey = process.env.CSGOEMPIRE_API_KEY;
 // Set the authorization header globally
@@ -50,14 +64,14 @@ fs.readFile('blacklist.txt', 'utf8', (err, data) => {
 
 let filteredItemStorage = [];
 
-const reccomenedPrice= 0;
+const reccomenedPrice= 15;
 
 filters = {
-    price_min: 1000,
-    price_max: 50000,
+    price_min: 0,
+    price_max: 5000000,
     // price_max: 999999,
-    wear_max: 0.38,
-    is_commodity: false,
+    // wear_max: 0.38,
+    // is_commodity: false,
 }
 
 
@@ -119,8 +133,34 @@ async function initSocket() {
             socket.on('trade_status', (data) => console.log(`trade_status: ${JSON.stringify(data)}`));
             
 
-            //LISTED FOR NEW_ITEMS, filters items and then adds them to the storage array and prints to console
-            socket.on('new_item', (data) => {
+            // //LISTED FOR NEW_ITEMS, filters items and then adds them to the storage array and prints to console
+            // socket.on('new_item', (data) => {
+
+            //     //SET TIMESTAMP
+            //     const now = new Date();
+            //     const options = { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', timeZoneName: 'short' };
+            //     const timestamp = now.toLocaleString(undefined, options);
+
+            //     const filteredItems = data.filter(item => 
+            //         whitelist.includes(item.market_name) && !blacklist.some(keyword => item.market_name.includes(keyword)) && item.above_recommended_price <= reccomenedPrice);
+
+            //             // Add the filtered items to the storage array
+            //             filteredItemStorage.push(...filteredItems);
+
+            //             // Process the filtered items
+            //             filteredItems.forEach(item => {
+            //                 // Log the item
+            //                 const logMessage = `NEW ITEM: ${timestamp}, ${item.id}, ${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}\n`;
+
+            //                 // Write to console
+            //                 console.log('\x1b[32m%s\x1b[0m', logMessage);
+            //             });
+            // });
+            
+
+            // socket.on('new_item', (data) => console.log(`New Item: ${JSON.stringify(data)}`));
+
+            socket.on('new_item', async (data) => { // Make the function async
 
                 const now = new Date();
                 const options = { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', timeZoneName: 'short' };
@@ -128,19 +168,32 @@ async function initSocket() {
             
                 const filteredItems = data.filter(item => 
                     whitelist.includes(item.market_name) && !blacklist.some(keyword => item.market_name.includes(keyword)) && item.above_recommended_price <= reccomenedPrice);
-
+            
                 // Add the filtered items to the storage array
                 filteredItemStorage.push(...filteredItems);
-
-                // Process the filtered items
-                filteredItems.forEach(item => {
-                    const logMessage = `NEW ITEM: ${timestamp}, ${item.id}, ${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}\n`;
-
-                    // Write to console
-                    console.log('\x1b[32m%s\x1b[0m', logMessage);
-                });
-
+            
+                // Process the filtered items with a for loop to await getBuff
+                for (const item of filteredItems) {
+                    try {
+                        const buffData = await getBuff(item.market_name, item.purchase_price);
+                        if (buffData && buffData.buffPercentage !== undefined) {
+                            let buffPercentage = buffData.buffPercentage.toFixed(2);
+                            
+                            const logMessage = `NEW ITEM: ${timestamp}, ${item.id}, ${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}, Buff Percentage: ${buffPercentage}\n`;
+            
+                            // Write to console
+                            console.log('\x1b[32m%s\x1b[0m', logMessage);
+                        } else {
+                            console.log('Buff data not found or buffPercentage is undefined for', item.market_name);
+                        }
+                    } catch (error) {
+                        console.error('Error fetching buff data for', item.market_name, error);
+                    }
+                }
             });
+            
+            
+            // socket.on('auction_update', (data) => console.log(`Auction Update: ${JSON.stringify(data, null, 2)}`));
 
             socket.on('auction_update', (data) => {
                 const now = new Date();
@@ -162,8 +215,10 @@ async function initSocket() {
                             
                             filteredItemStorage[storageItemIndex].purchase_price = item.auction_highest_bid;
                             filteredItemStorage[storageItemIndex].above_recommended_price = item.above_recommended_price;
+                            filteredItemStorage[storageItemIndex].auction_number_of_bids = item.auction_number_of_bids;
                             
                             // Assuming logItem is a function for logging, you might want to adjust its usage according to your implementation
+                            
                             logItem(filteredItemStorage[storageItemIndex], timestamp, 'ITEM_UPDATED');
                         }
             
@@ -171,7 +226,7 @@ async function initSocket() {
                     }
                 });
             });
-            
+
             
             socket.on('deleted_item', (data) => {
 
@@ -201,10 +256,9 @@ async function initSocket() {
     } catch (e) {
         console.log(`Error while initializing the Socket. Error: ${e}`);
     }
-};
+};  
 
-
-function logItem(item, timestamp, logType) {
+async function logItem(item, timestamp, logType) {
     // Define a base log message
     let logMessage = `TIMESTAMP: ${timestamp}, ID: ${item.id}`;
 
@@ -214,7 +268,7 @@ function logItem(item, timestamp, logType) {
             logMessage = `\x1b[32mNEW ITEM: ${logMessage}, NAME: ${item.market_name}, PRICE: ${item.price}, ABOVE RECOMMENDED: ${item.above_recommended_price}\x1b[0m`;
             break;
         case 'ITEM_UPDATED':
-            logMessage = `\x1b[38;5;208mITEM UPDATED: ${logMessage}, NAME: ${item.market_name}, HIGHEST BID: ${item.purchase_price}, ABOVE RECOMMENDED: ${item.above_recommended_price}, BIDDERS: ${item.auction_number_of_bids}\x1b[0m`;
+            logMessage = `\x1b[38;5;208mITEM UPDATED: ${logMessage}, NAME: ${item.market_name}, PURCHASE PRICE: ${item.purchase_price}, ABOVE RECOMMENDED: ${item.above_recommended_price}, BIDDERS: ${item.auction_number_of_bids}\x1b[0m`;
             break;
         case 'ITEM_DELETED':
             logMessage = `\x1b[31mITEM DELETED: ${logMessage}\x1b[0m`;
@@ -228,39 +282,36 @@ function logItem(item, timestamp, logType) {
 }
 
 // Function to log deleted item information
-function logDeletedItemInfo(itemId) {
+async function logDeletedItemInfo(itemId) {
     // Find the item in the storage
     const item = filteredItemStorage.find(i => i.id === itemId);
     if (item) {
+        try {
+            // Await the result from getBuff
+            result = await getBuff(item.market_name, item.purchase_price);
 
-        // Get the buff percentage
-        let buffPercentage = getBuff(item.market_name, item.purchase_price);
+            result.buffPercentage = result.buffPercentage.toFixed(2);
+            result.buffLiquidity = result.buffLiquidity.toFixed(2);
 
-        // getBuff(item.market_name,item.purchase_price).then(result => {
-        //     if (result) {
-        //         buffPercentage = result.buffPercentage;
-        //     } else {
-        //         buffPercentage = "0.00%";
-        //       console.log('Failed to get buff details.');
-        //     }
-        //   }).catch(error => console.error(error));
+            // Now logMessage will include the defined buffPercentage
+            const logMessage = `${item.id},${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}, ${result.buffPercentage}%, ${result.buffLiquidity}\n`;
 
-        // Construct the log message
-        const logMessage = `${item.id},${item.market_name},${item.purchase_price},${item.above_recommended_price},${buffPercentage}%\n`;
+            // Append the log message to the file
+            fs.appendFile(logFilePath, logMessage, (err) => {
+                if (err) {
+                    console.error('Error writing to the log file:', err);
+                } else {
+                    console.log('Logged deleted item to file:', logMessage);
+                }
+            });
 
-        // Append the log message to the file
-        fs.appendFile(logFilePath, logMessage, (err) => {
-            if (err) {
-                console.error('Error writing to the log file:', err);
-            } else {
-                console.log('Logged deleted item to file:', logMessage);
+            // Optionally, remove the item from the storage to keep it up-to-date
+            const index = filteredItemStorage.indexOf(item);
+            if (index > -1) {
+                filteredItemStorage.splice(index, 1);
             }
-        });
-
-        // Optionally, remove the item from the storage to keep it up-to-date
-        const index = filteredItemStorage.indexOf(item);
-        if (index > -1) {
-            filteredItemStorage.splice(index, 1);
+        } catch (error) {
+            console.error('Error getting buffPercentage:', error);
         }
     }
 }

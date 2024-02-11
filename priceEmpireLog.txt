@@ -1,0 +1,2328 @@
+223521075,StatTrak™ M4A4 | In Living Color (Field-Tested), 1577, -8.15, 92.2%, 85.1758530183727
+223521090,★ Driver Gloves | Rezan the Red (Field-Tested), 11764, -5.95, 93.3%, 98.69553902203494
+223521134,Desert Eagle | Code Red (Battle-Scarred), 1814, -1.91, 95.7%, 100
+223521942,Desert Eagle | Crimson Web (Minimal Wear), 2705, -4, 100.54%, 100
+223522411,AK-47 | Nightwish (Minimal Wear), 2642, -8.06, 97.65%, 100
+223522783,USP-S | Monster Mashup (Field-Tested), 1976, -7, 93.03%, 100
+223522524,StatTrak™ AWP | Chromatic Aberration (Minimal Wear), 3889, -7.03, 94.39%, 75.11263513513514
+223522812,StatTrak™ Desert Eagle | Kumicho Dragon (Field-Tested), 3868, -6, 99.25%, 74.81066464423607
+223522618,AK-47 | Nightwish (Minimal Wear), 2697, -6, 99.7%, 100
+223522637,AK-47 | Nightwish (Minimal Wear), 2697, -6, 99.7%, 100
+223522719,StatTrak™ AWP | Chromatic Aberration (Minimal Wear), 3889, -7.03, 94.39%, 75.11263513513514
+223524436,M4A4 | Temukau (Field-Tested), 2205, -6.99, 94.55%, 100
+223523043,AK-47 | Nightwish (Field-Tested), 1274, -1.06, 100.77%, 100
+223523119,StatTrak™ AWP | Chromatic Aberration (Minimal Wear), 3929, -6.03, 95.38%, 75.11263513513514
+223523128,AK-47 | Nightwish (Minimal Wear), 2642, -8.06, 97.65%, 100
+223524970,★ Navaja Knife | Tiger Tooth (Factory New), 17965, -2.97, 95.28%, 86.5839717147908
+223525412,AK-47 | Safety Net (Factory New), 1090, -1.09, 101.36%, 100
+223522264,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223522279,StatTrak™ AK-47 | Ice Coaled (Minimal Wear), 3125, -7.01, 92.66%, 100
+223522287,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1432, -6.97, 95.34%, 88.38709677419355
+223522275,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223522297,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223522284,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223522286,M4A4 | Temukau (Field-Tested), 2205, -6.99, 94.55%, 100
+223522267,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223522262,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223522246,Five-SeveN | Copper Galaxy (Factory New), 1134, -5.02, 96.54%, 98.19940029985007
+223522247,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223522273,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223522314,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223522589,★ Moto Gloves | Smoke Out (Field-Tested), 18835, -6, 94.11%, 91.56398104265404
+223522606,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223522744,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223522742,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223522724,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223522682,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223522808,AK-47 | Head Shot (Minimal Wear), 3710, -6.99, 94.49%, 100
+223522778,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223522815,StatTrak™ AK-47 | Slate (Minimal Wear), 1462, -7.02, 90.8%, 100
+223522781,AK-47 | Nightwish (Factory New), 8608, -7, 93.88%, 90.75978624535315
+223526663,AK-47 | Safety Net (Factory New), 1059, -4.08, 98.49%, 100
+223522904,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223522909,AK-47 | Point Disarray (Minimal Wear), 1617, -6.98, 95.39%, 100
+223522919,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223522873,MP9 | Starlight Protector (Factory New), 2413, -3.01, 93.09%, 94.62101851851853
+223522933,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223522977,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1432, -6.97, 95.34%, 88.38709677419355
+223522927,M4A4 | Temukau (Field-Tested), 2205, -6.99, 94.55%, 100
+223522684,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223522998,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1432, -6.97, 95.34%, 88.38709677419355
+223522775,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223522988,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223522921,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223522680,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223522669,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223522651,StatTrak™ MP9 | Starlight Protector (Field-Tested), 1011, -6.98, 93.24%, 96.32854030501089
+223522694,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223523169,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223523157,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223523252,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223523141,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223523140,AK-47 | Nightwish (Minimal Wear), 2697, -6.99, 99.7%, 100
+223523255,AK-47 | Nightwish (Field-Tested), 1202, -6.99, 94.98%, 100
+223523160,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223523211,AK-47 | Head Shot (Minimal Wear), 3710, -6.99, 94.49%, 100
+223523275,AWP | Duality (Factory New), 1681, -7, 98.57%, 79.92321525009643
+223523280,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223523176,UMP-45 | Wild Child (Factory New), 1643, -7.02, 102.96%, 72.12068076328003
+223523218,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223524574,M4A1-S | Control Panel (Minimal Wear), 1853, -7.01, 95.15%, 83.62616822429906
+223524544,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223524509,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223524206,StatTrak™ USP-S | Stainless (Field-Tested), 1550, -4.03, 92.79%, 86.6077506095909
+223524045,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223524144,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223523310,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223525280,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1432, -6.97, 95.34%, 88.38709677419355
+223525137,StatTrak™ UMP-45 | Wild Child (Minimal Wear), 1396, -6.99, 104.89%, 76.01934364419822
+223525077,AK-47 | Leet Museo (Minimal Wear), 3112, -4, 95.12%, 93.29577464788733
+223525022,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223525198,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223523931,Desert Eagle | Crimson Web (Minimal Wear), 2679, -4.98, 99.58%, 100
+223526458,AK-47 | Nightwish (Field-Tested), 1262, -2.05, 99.74%, 100
+223526400,AWP | Pink DDPAT (Minimal Wear), 4982, -1.01, 98.23%, 75.07975335803613
+223522342,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223522336,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223522350,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223522383,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223522343,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223522338,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223522462,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223522404,AK-47 | Cartel (Factory New), 2537, -1.98, 98.67%, 85.6073793755913
+223522425,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223522409,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223522464,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223522438,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223522475,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223522424,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223522426,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223522452,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223522429,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223522576,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223522554,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223522617,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223522579,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223522575,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223522597,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223522585,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223522574,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223522596,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223522562,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223522662,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223522668,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223522723,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223522922,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223522908,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223522925,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223522903,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223522802,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223522996,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223522819,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223522830,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223522843,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223523179,UMP-45 | Wild Child (Factory New), 1610, -9.01, 100.92%, 72.12068076328003
+223523109,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223523190,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223523143,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223523137,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223523173,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223523245,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223524444,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223524512,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223524939,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223525563,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223524785,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223524538,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223524853,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223524552,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223523411,M4A1-S | Guardian (Minimal Wear), 2542, -1, 96%, 95.72817133443164
+223524998,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223525763,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223526707,AK-47 | Safety Net (Factory New), 1039, -6, 96.52%, 100
+223526677,SG 553 | Integrale (Field-Tested), 1921, -8.98, 100.94%, 91.94882729211088
+223526613,Desert Eagle | Crimson Web (Minimal Wear), 2679, -4.98, 99.58%, 100
+223526684,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223526679,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223526692,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223526680,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223526672,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223526687,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223526693,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223526616,AK-47 | Cartel (Factory New), 2537, -1.98, 98.67%, 85.6073793755913
+223526583,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223526708,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223526723,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223526778,AK-47 | Nightwish (Minimal Wear), 2642, -9.01, 97.65%, 100
+223526800,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223526779,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223526784,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223526852,AWP | Pink DDPAT (Minimal Wear), 4935, -2, 97.3%, 75.07975335803613
+223526861,AK-47 | Nightwish (Field-Tested), 1214, -6, 96.01%, 100
+223526994,Desert Eagle | Kumicho Dragon (Factory New), 4290, 1.2, 93.34%, 91.38463968279312
+223526990,AK-47 | Safety Net (Factory New), 1029, -6.96, 95.61%, 100
+223527828,M4A4 | Temukau (Field-Tested), 2205, -6.99, 94.55%, 100
+223527858,AK-47 | Safety Net (Factory New), 1019, -7.92, 94.7%, 100
+223527051,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1417, -7.04, 94.26%, 88.38709677419355
+223527006,P2000 | Fire Elemental (Minimal Wear), 1862, -6, 102.88%, 80.26183259501049
+223527377,AK-47 | Nightwish (Field-Tested), 1190, -6.99, 94.08%, 100
+223527698,AK-47 | Nightwish (Factory New), 8521, -7.02, 92.92%, 90.75978624535315
+223527940,P2000 | Fire Elemental (Minimal Wear), 1845, -6.91, 101.89%, 80.26183259501049
+223527951,AK-47 | Head Shot (Field-Tested), 1769, -3, 91.96%, 100
+223527982,AK-47 | Nightwish (Factory New), 8606, -6.03, 93.86%, 90.75978624535315
+223527983,AK-47 | Head Shot (Minimal Wear), 3672, -7.01, 93.53%, 100
+223528022,★ Hand Wraps | Desert Shamagh (Field-Tested), 7304, -2.01, 93.25%, 100
+223526869,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223528079,★ Moto Gloves | Smoke Out (Field-Tested), 18835, -5, 94.11%, 91.56398104265404
+223528103,StatTrak™ AK-47 | Slate (Factory New), 4272, -6, 94.32%, 99.43482587064676
+223527740,AK-47 | Nightwish (Field-Tested), 1201, -7.07, 94.98%, 100
+223528260,P2000 | Fire Elemental (Minimal Wear), 1828, -6.86, 100.99%, 80.26183259501049
+223528019,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223523234,AK-47 | Redline (Field-Tested), 1900, -1.03, 95.5%, 100
+223528518,StatTrak™ AK-47 | Slate (Minimal Wear), 1461, -6.07, 90.7%, 100
+223528359,StatTrak™ AK-47 | Slate (Factory New), 4232, -6.94, 93.46%, 99.43482587064676
+223528841,StatTrak™ USP-S | Stainless (Field-Tested), 1550, -4.03, 92.79%, 86.6077506095909
+223528856,StatTrak™ AK-47 | Slate (Factory New), 4192, -6.89, 92.56%, 99.43482587064676
+223526836,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223526851,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223526838,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223526858,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223526863,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223526820,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223526882,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223526817,StatTrak™ MP9 | Starlight Protector (Field-Tested), 1001, -7.96, 92.34%, 96.32854030501089
+223526741,StatTrak™ AWP | Chromatic Aberration (Minimal Wear), 3890, -7.99, 94.43%, 75.11263513513514
+223526826,AK-47 | Nightwish (Minimal Wear), 2670, -7.98, 98.68%, 100
+223526896,StatTrak™ M4A1-S | Nightmare (Field-Tested), 2850, -3, 93.24%, 86.64567188638019
+223526899,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223526902,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1417, -8.01, 94.26%, 88.38709677419355
+223526904,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1417, -8.01, 94.26%, 88.38709677419355
+223528027,StatTrak™ AK-47 | Ice Coaled (Minimal Wear), 3125, -7.01, 92.66%, 100
+223526908,AK-47 | Neon Rider (Field-Tested), 3821, -4, 93.51%, 100
+223526934,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223526960,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223526937,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223526989,UMP-45 | Wild Child (Factory New), 1627, -7.99, 101.94%, 72.12068076328003
+223527040,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223526954,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223527042,M4A4 | Temukau (Field-Tested), 2205, -6.99, 94.55%, 100
+223527048,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223526932,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223526998,SG 553 | Integrale (Field-Tested), 1940, -8.02, 101.97%, 91.94882729211088
+223527009,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223527035,Glock-18 | Bullet Queen (Minimal Wear), 1776, -2.98, 93.49%, 100
+223527399,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223528767,AK-47 | Nightwish (Field-Tested), 1190, -6.99, 94.08%, 100
+223527407,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223527606,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223527651,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223527642,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223527861,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1417, -8.01, 94.26%, 88.38709677419355
+223527608,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223527815,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223527840,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223527814,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223527839,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1417, -8.01, 94.26%, 88.38709677419355
+223527617,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223527829,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223527823,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223527587,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223527784,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223527806,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223527915,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223527971,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223527938,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223527927,SG 553 | Integrale (Field-Tested), 1940, -8.02, 101.97%, 91.94882729211088
+223527977,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223527956,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223527981,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223527929,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223527935,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223527964,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223528014,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223528032,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1417, -8.01, 94.26%, 88.38709677419355
+223528029,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223528030,M4A4 | Temukau (Field-Tested), 2205, -6.99, 94.55%, 100
+223528039,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223527932,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223528017,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223528026,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223527609,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223527038,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223527384,M4A4 | Cyber Security (Field-Tested), 1881, -7, 97.96%, 93.51815573770492
+223527387,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223527266,Five-SeveN | Copper Galaxy (Factory New), 1134, -5.02, 96.54%, 98.19940029985007
+223527395,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223527088,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223527118,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223527441,UMP-45 | Wild Child (Factory New), 1594, -9.98, 99.9%, 72.12068076328003
+223527136,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223527611,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223527376,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223527769,StatTrak™ USP-S | Blueprint (Field-Tested), 1449, 0, 97.48%, 80.51262519396248
+223527801,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223527824,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223527834,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223527800,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223527702,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223527803,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223527885,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223527817,Five-SeveN | Copper Galaxy (Factory New), 1134, -5.02, 96.54%, 98.19940029985007
+223527831,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223527816,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223528350,★ Moto Gloves | Smoke Out (Field-Tested), 18835, -6, 94.11%, 91.56398104265404
+223528456,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223528492,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223528446,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223528485,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223528385,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223528500,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223528445,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223528442,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223528517,AK-47 | Head Shot (Minimal Wear), 3672, -8, 93.53%, 100
+223528559,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223528542,MP9 | Starlight Protector (Factory New), 2413, -3.01, 93.09%, 94.62101851851853
+223528574,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223528554,AK-47 | Point Disarray (Minimal Wear), 1600, -8.02, 94.43%, 100
+223528553,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223528597,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223528595,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1417, -8.01, 94.26%, 88.38709677419355
+223528505,AK-47 | Nightwish (Factory New), 8521, -8, 92.92%, 90.75978624535315
+223528504,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223528563,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223528603,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1417, -8.01, 94.26%, 88.38709677419355
+223528494,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223528571,M4A4 | Temukau (Field-Tested), 2205, -6.99, 94.55%, 100
+223528418,StatTrak™ MP9 | Starlight Protector (Field-Tested), 1001, -7.96, 92.34%, 96.32854030501089
+223528432,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223528760,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223528768,AWP | Duality (Factory New), 1664, -8, 97.52%, 79.92321525009643
+223528770,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223528721,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223528687,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223528731,UMP-45 | Wild Child (Factory New), 1627, -7.99, 101.94%, 72.12068076328003
+223528750,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223528685,AK-47 | Nightwish (Minimal Wear), 2670, -7.98, 98.68%, 100
+223528871,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223528747,AK-47 | Head Shot (Minimal Wear), 3672, -8, 93.53%, 100
+223528718,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223528778,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223528835,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223528828,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223528720,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223528874,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223528914,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223528877,M4A1-S | Control Panel (Minimal Wear), 1835, -7.98, 94.23%, 83.62616822429906
+223528913,StatTrak™ UMP-45 | Wild Child (Minimal Wear), 1382, -7.99, 103.79%, 76.01934364419822
+223527914,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223527923,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223527917,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223527944,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223528903,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223528910,AK-47 | Leet Museo (Minimal Wear), 3112, -4, 95.12%, 93.29577464788733
+223527969,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223527925,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223528922,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1417, -8.01, 94.26%, 88.38709677419355
+223529069,AK-47 | Nightwish (Minimal Wear), 2615, -10, 96.63%, 100
+223528062,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223528008,AK-47 | Cartel (Factory New), 2537, -1.98, 98.67%, 85.6073793755913
+223528092,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223528056,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223528070,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223528058,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223528525,UMP-45 | Wild Child (Factory New), 1594, -9.98, 99.9%, 72.12068076328003
+223528054,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223528095,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223528091,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223528085,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223528228,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223528174,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223528261,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223528258,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223528212,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223528273,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223528215,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223528245,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223528233,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223528127,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223528292,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223528289,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223528329,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223528343,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223528331,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223528345,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223528332,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223528348,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223528388,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223528325,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223528351,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223528306,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223528520,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223528532,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223528483,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223528688,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223528714,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223528566,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223528711,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223528480,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223528715,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223528439,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223528606,M4A1-S | Guardian (Minimal Wear), 2542, -1, 96%, 95.72817133443164
+223528686,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223528739,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223528676,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223528709,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223528684,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223528749,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223528815,AK-47 | Cartel (Factory New), 2537, -1.98, 98.67%, 85.6073793755913
+223528803,Desert Eagle | Crimson Web (Minimal Wear), 2679, -4.98, 99.58%, 100
+223528931,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223528902,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223528920,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223528904,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223528908,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223528881,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223528794,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223528935,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223528972,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223528996,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223528898,SG 553 | Integrale (Field-Tested), 1901, -9.99, 99.91%, 91.94882729211088
+223529072,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223529071,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223529076,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223529067,Glock-18 | Neo-Noir (Field-Tested), 1163, 1.21, 90.04%, 100
+223529054,AK-47 | Neon Rider (Minimal Wear), 7576, -3.02, 95.6%, 100
+223529166,StatTrak™ AWP | Chromatic Aberration (Minimal Wear), 3850, -8.02, 93.44%, 75.11263513513514
+223529424,USP-S | The Traitor (Field-Tested), 1283, -3.95, 87.36%, 100
+223529433,M4A4 | Temukau (Field-Tested), 2205, -6.99, 94.55%, 100
+223529291,Glock-18 | Neo-Noir (Field-Tested), 1163, 1.21, 90.04%, 100
+223529289,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1417, -7.04, 94.26%, 88.38709677419355
+223529295,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1417, -7.04, 94.26%, 88.38709677419355
+223529917,M4A4 | Temukau (Field-Tested), 2205, -6.99, 94.55%, 100
+223529644,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1417, -7.04, 94.26%, 88.38709677419355
+223529653,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1417, -7.04, 94.26%, 88.38709677419355
+223529742,StatTrak™ Desert Eagle | Conspiracy (Field-Tested), 1720, -0.98, 99.91%, 70.12817089452604
+223529921,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1417, -7.04, 94.26%, 88.38709677419355
+223529899,StatTrak™ Desert Eagle | Conspiracy (Factory New), 3213, -1, 100.3%, 92.1048951048951
+223530020,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223530073,AK-47 | Frontside Misty (Field-Tested), 1359, -0.95, 92.98%, 100
+223530002,AK-47 | Safety Net (Factory New), 1039, -6, 96.52%, 100
+223530160,StatTrak™ Desert Eagle | Conspiracy (Factory New), 3183, -1.98, 99.34%, 92.1048951048951
+223530702,Desert Eagle | Crimson Web (Minimal Wear), 2679, -4.98, 99.58%, 100
+223530412,AK-47 | Nightwish (Factory New), 8434, -8.04, 91.98%, 90.75978624535315
+223530687,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1431, -6.07, 95.23%, 88.38709677419355
+223530691,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1431, -6.07, 95.23%, 88.38709677419355
+223529290,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223529284,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223529271,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223529316,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223529317,M4A4 | Cyber Security (Field-Tested), 1881, -7, 97.96%, 93.51815573770492
+223529292,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223529337,UMP-45 | Wild Child (Factory New), 1594, -9.98, 99.9%, 72.12068076328003
+223529305,Five-SeveN | Copper Galaxy (Factory New), 1134, -5.02, 96.54%, 98.19940029985007
+223529367,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223529323,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223529324,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223529372,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223529442,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223529436,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223529450,Five-SeveN | Copper Galaxy (Factory New), 1134, -5.02, 96.54%, 98.19940029985007
+223529476,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223529466,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223529435,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223529455,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223529453,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223529429,StatTrak™ USP-S | Blueprint (Field-Tested), 1449, 0, 97.48%, 80.51262519396248
+223529416,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223529512,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223529563,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223529552,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223529600,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223529561,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223529555,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223529576,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223529634,AK-47 | Cartel (Factory New), 2537, -1.98, 98.67%, 85.6073793755913
+223529767,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223529732,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223529743,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223529671,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223529699,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223529681,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223529673,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223529666,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223529669,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223529924,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223529944,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223529913,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223529881,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223529997,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223529948,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223529925,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223529922,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223529927,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223529960,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223529934,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223530001,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223530064,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223530065,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223530041,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223530098,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223530040,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223530036,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223530059,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223530057,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223530038,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223529232,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223529257,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223529225,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223529215,AK-47 | Nightwish (Minimal Wear), 2642, -9.01, 97.65%, 100
+223529214,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223529220,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223529219,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223529228,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223529280,StatTrak™ M4A1-S | Nightmare (Field-Tested), 2850, -3, 93.24%, 86.64567188638019
+223529281,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223530157,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223530181,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223530188,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223530137,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223530162,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223530227,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223529308,AK-47 | Neon Rider (Field-Tested), 3821, -4, 93.51%, 100
+223529426,Glock-18 | Bullet Queen (Minimal Wear), 1776, -2.98, 93.49%, 100
+223529360,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223529334,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223529347,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223529335,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223529338,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223529404,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223529386,UMP-45 | Wild Child (Factory New), 1610, -9.01, 100.92%, 72.12068076328003
+223529392,SG 553 | Integrale (Field-Tested), 1921, -8.98, 100.94%, 91.94882729211088
+223529434,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223529432,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223530363,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223530419,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223530367,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223530448,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223530423,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223530640,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223530463,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223530655,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223530353,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223530246,M4A1-S | Guardian (Minimal Wear), 2542, -1, 96%, 95.72817133443164
+223530374,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223529494,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223529508,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223530957,AWP | Duality (Factory New), 1647, -8.06, 96.56%, 79.92321525009643
+223529527,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223529528,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223529532,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223529524,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223529568,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223529570,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223529622,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223529632,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223529614,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223529633,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223529639,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223529643,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223529636,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223530875,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223530706,AK-47 | Cartel (Factory New), 2537, -1.98, 98.67%, 85.6073793755913
+223530914,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223530896,SG 553 | Integrale (Field-Tested), 1881, -11, 98.8%, 91.94882729211088
+223530910,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223530930,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223530921,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223530906,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223530934,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223530696,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223530955,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223530980,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223529697,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223529828,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223529829,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223529836,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223529717,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223529728,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223529729,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223529704,SG 553 | Integrale (Field-Tested), 1921, -8.98, 100.94%, 91.94882729211088
+223529841,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223529703,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223529891,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223529895,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223529812,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223529909,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223529930,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223529916,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223531022,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223531031,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223531019,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223529882,StatTrak™ AWP | Neo-Noir (Field-Tested), 5545, -4.16, 101.88%, 82.4375
+223530289,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223530302,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223530198,★ Moto Gloves | Smoke Out (Field-Tested), 18835, -6, 94.11%, 91.56398104265404
+223530362,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223530361,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223530347,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223530298,AK-47 | The Empress (Field-Tested), 3596, -1.01, 94%, 100
+223530319,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223530306,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223530398,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223530663,AK-47 | Point Disarray (Minimal Wear), 1600, -8.02, 94.43%, 100
+223530660,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223530646,MP9 | Starlight Protector (Factory New), 2413, -3.01, 93.09%, 94.62101851851853
+223530678,M4A4 | Temukau (Field-Tested), 2205, -6.99, 94.55%, 100
+223530240,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223530679,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223530468,AK-47 | Head Shot (Minimal Wear), 3635, -8.99, 92.58%, 100
+223530405,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223530670,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223530689,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223530669,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223530859,AK-47 | Nightwish (Minimal Wear), 2642, -9.01, 97.65%, 100
+223530898,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223530865,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223530968,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223530919,UMP-45 | Wild Child (Factory New), 1610, -9.01, 100.92%, 72.12068076328003
+223530891,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.56%, 100
+223530959,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223530938,AK-47 | Head Shot (Minimal Wear), 3635, -8.99, 92.58%, 100
+223530913,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.11%, 100
+223530946,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.68%, 100
+223530952,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223531028,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223531020,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223531060,M4A1-S | Control Panel (Minimal Wear), 1816, -8.99, 93.31%, 83.62616822429906
+223531057,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 92.98%, 100
+223531072,AK-47 | Leet Museo (Minimal Wear), 3112, -4, 95.12%, 93.29577464788733
+223531071,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223531056,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223531074,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223531073,StatTrak™ UMP-45 | Wild Child (Minimal Wear), 1368, -7.99, 102.69%, 76.01934364419822
+223531077,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1431, -6.07, 95.23%, 88.38709677419355
+223530925,StatTrak™ Desert Eagle | Conspiracy (Factory New), 3153, -2.96, 98.42%, 92.1048951048951
+223530732,AK-47 | Jaguar (Field-Tested), 4162, -0.02, 99.11%, 86.9349593495935
+223531876,UMP-45 | Wild Child (Factory New), 1594, -9.01, 99.9%, 72.12068076328003
+223532087,StatTrak™ Desert Eagle | Printstream (Factory New), 21700, -6, 95.99%, 73.5041851304776
+223532035,AK-47 | Jaguar (Field-Tested), 4123, -1.01, 98.18%, 86.9349593495935
+223532311,AK-47 | Jaguar (Field-Tested), 3890, -5.95, 92.64%, 86.9349593495935
+223531217,StatTrak™ Desert Eagle | Conspiracy (Factory New), 3123, -3.94, 97.46%, 92.1048951048951
+223532340,StatTrak™ Desert Eagle | Printstream (Factory New), 21700, -6, 95.99%, 73.5041851304776
+223532434,StatTrak™ Desert Eagle | Printstream (Factory New), 21496, -5.95, 95.09%, 73.5041851304776
+223532333,StatTrak™ Desert Eagle | Conspiracy (Factory New), 3094, -3.88, 96.6%, 92.1048951048951
+223532410,USP-S | Whiteout (Field-Tested), 3541, -4.01, 99%, 97.57831325301204
+223531807,StatTrak™ AWP | Neo-Noir (Field-Tested), 5545, -4.16, 101.88%, 82.4375
+223535882,AK-47 | Point Disarray (Minimal Wear), 1600, -8.02, 94.43%, 100
+223532529,AK-47 | Nightwish (Field-Tested), 1214, -6, 96.13%, 100
+223531179,M4A4 | Cyber Security (Field-Tested), 1881, -7, 97.96%, 93.51815573770492
+223531150,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223531185,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223531184,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223531143,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223531197,UMP-45 | Wild Child (Factory New), 1594, -9.98, 99.9%, 72.12068076328003
+223531163,Five-SeveN | Copper Galaxy (Factory New), 1134, -5.02, 96.54%, 98.19940029985007
+223531178,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223531137,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223531149,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223531220,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223531224,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223531810,Five-SeveN | Copper Galaxy (Factory New), 1134, -5.02, 96.54%, 98.19940029985007
+223531766,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223531812,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223531835,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223531828,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223531842,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223531754,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223531510,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223531669,StatTrak™ USP-S | Blueprint (Field-Tested), 1449, 0, 97.48%, 80.51262519396248
+223531892,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223531740,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223531926,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223531958,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223531918,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223531923,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223531934,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223531916,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223532005,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223532051,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223532057,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223532004,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223532034,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223531976,AK-47 | Cartel (Factory New), 2537, -1.98, 98.67%, 85.6073793755913
+223532007,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223532003,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223532052,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223532017,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223534381,★ Hand Wraps | Constrictor (Field-Tested), 8200, -1.86, 93.11%, 90.2926923076923
+223532126,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223532129,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223532131,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223532146,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223532189,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223532130,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223532140,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223523229,AK-47 | Redline (Field-Tested), 1900, -1.03, 95.5%, 100
+223532108,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223532145,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223532163,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223532115,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223532193,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223529203,AK-47 | Neon Rider (Minimal Wear), 7575, -3.04, 95.72%, 100
+223532279,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223532287,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223532312,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223532332,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223532320,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223532284,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223532589,USP-S | Whiteout (Field-Tested), 3472, -6, 97.09%, 97.57831325301204
+223532289,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223532314,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223532319,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223532370,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223532440,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223532407,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223532384,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223532417,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223532383,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223536066,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 4467, -2.02, 104.77%, 70.09332687338501
+223532483,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223532488,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223532498,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223532489,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223532549,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223532504,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223532499,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223532500,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223532453,M4A1-S | Guardian (Minimal Wear), 2542, -1, 96%, 95.72817133443164
+223532582,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223532491,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223535859,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223535306,SG 553 | Integrale (Field-Tested), 1881, -11, 98.8%, 91.94882729211088
+223534877,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223535619,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223533391,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223535450,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223535865,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223535417,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223535787,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223533523,AK-47 | Cartel (Factory New), 2537, -1.98, 98.67%, 85.6073793755913
+223535942,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223535920,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223535971,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223535970,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223535977,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223536005,AK-47 | Nightwish (Minimal Wear), 2615, -9.05, 94.25%, 100
+223536249,AK-47 | Frontside Misty (Field-Tested), 1333, -3.02, 91.3%, 100
+223531205,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223531194,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223531232,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223531198,AK-47 | Nightwish (Minimal Wear), 2615, -10, 94.25%, 100
+223531531,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223531227,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223531511,StatTrak™ M4A1-S | Nightmare (Field-Tested), 2850, -3, 93.24%, 86.64567188638019
+223531221,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223531253,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223531208,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223531745,AK-47 | Neon Rider (Field-Tested), 3821, -4, 93.84%, 100
+223531844,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223531883,SG 553 | Integrale (Field-Tested), 1901, -9.99, 99.91%, 91.94882729211088
+223531905,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223531833,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223531830,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223531853,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223531825,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223531928,Glock-18 | Bullet Queen (Minimal Wear), 1776, -2.98, 93.65%, 100
+223531932,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223531935,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223531990,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223531980,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223532054,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223531989,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223531974,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223532016,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223532019,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223531986,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223531993,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223532073,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223532088,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223532090,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223532083,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223532084,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223532086,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223532270,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223532167,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223532155,SG 553 | Integrale (Field-Tested), 1901, -9.99, 99.91%, 91.94882729211088
+223532226,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223532166,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223532205,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223532271,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223532161,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223532194,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223532228,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223532201,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223532147,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223532277,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223532283,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223532164,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223532294,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223536217,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223536259,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223536268,Five-SeveN | Copper Galaxy (Factory New), 1134, -5.02, 96.54%, 98.19940029985007
+223536297,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223536285,UMP-45 | Wild Child (Factory New), 1594, -9.98, 99.9%, 72.12068076328003
+223536273,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223536261,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223536274,M4A4 | Cyber Security (Field-Tested), 1881, -7, 97.96%, 93.51815573770492
+223536278,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223536299,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223536279,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223536257,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223532556,★ Moto Gloves | Smoke Out (Field-Tested), 18835, -6, 94.11%, 91.56398104265404
+223533689,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223533821,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223534191,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223533667,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223533498,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223534384,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223533719,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223534390,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223534770,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223534723,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223535894,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223535919,M4A4 | Temukau (Field-Tested), 2205, -6.99, 97.34%, 100
+223535880,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223535937,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223532672,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223535807,MP9 | Starlight Protector (Factory New), 2413, -3.01, 93.09%, 94.62101851851853
+223535917,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223535233,AK-47 | Head Shot (Minimal Wear), 3635, -8.99, 91.74%, 100
+223535899,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223536042,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223536056,AK-47 | Head Shot (Minimal Wear), 3635, -8.99, 91.74%, 100
+223536076,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223536071,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223536031,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223536079,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223536045,UMP-45 | Wild Child (Factory New), 1594, -9.98, 99.9%, 72.12068076328003
+223536023,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223536059,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223536139,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223536232,USP-S | The Traitor (Factory New), 6389, -1, 98.35%, 81.21108112964855
+223536170,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223536193,AK-47 | Leet Museo (Minimal Wear), 3112, -4, 95.12%, 93.29577464788733
+223536197,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223536191,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223536008,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223536172,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223536152,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223536247,M4A1-S | Mecha Industries (Factory New), 9054, -2, 97.54%, 82.34319457308068
+223536171,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 4296, -6, 100.76%, 70.09332687338501
+223536175,M4A1-S | Control Panel (Minimal Wear), 1797, -9.04, 90.42%, 83.62616822429906
+223537096,AK-47 | Cartel (Factory New), 2537, -1.98, 98.67%, 85.6073793755913
+223536936,Five-SeveN | Copper Galaxy (Factory New), 1134, -5.02, 96.54%, 98.19940029985007
+223536137,USP-S | Whiteout (Field-Tested), 3439, -6.95, 96.18%, 97.57831325301204
+223536802,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 4256, -6.93, 99.81%, 70.09332687338501
+223537015,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223537129,USP-S | Whiteout (Field-Tested), 3407, -6.89, 95.27%, 97.57831325301204
+223537144,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 4216, -7.86, 98.89%, 70.09332687338501
+223537342,AK-47 | Legion of Anubis (Minimal Wear), 1280, -0.04, 97.4%, 100
+223537273,AK-47 | Baroque Purple (Factory New), 1770, -6, 102.84%, 81.56
+223537488,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 4176, -8.79, 97.94%, 70.09332687338501
+223537686,M4A1-S | Guardian (Minimal Wear), 2542, -1, 96%, 95.72817133443164
+223537526,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223537535,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223537536,SG 553 | Integrale (Field-Tested), 1881, -11, 98.8%, 91.94882729211088
+223537544,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223537540,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223537545,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223537568,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223537570,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223537573,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223537581,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223537583,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223537625,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223537626,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223537632,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223537641,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223537331,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223537652,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223537348,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223537352,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223537355,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223537357,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223537359,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223537368,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223537373,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223537376,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223537395,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223537499,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223537504,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223537510,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223537511,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223537694,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 4137, -9.7, 97.02%, 70.09332687338501
+223537426,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223537525,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223537527,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223537531,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223537537,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223537460,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223537556,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223538317,AK-47 | Cartel (Factory New), 2537, -1.98, 98.67%, 85.6073793755913
+223537709,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223537688,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223537711,UMP-45 | Wild Child (Factory New), 1594, -9.98, 99.9%, 72.12068076328003
+223537716,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223537712,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223536607,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223536876,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223536904,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223536938,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223536953,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223536792,StatTrak™ USP-S | Blueprint (Field-Tested), 1449, 0, 97.48%, 80.51262519396248
+223536959,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223536998,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223536875,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223536944,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223537027,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223537037,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223537039,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223537070,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223537050,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223537033,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223537147,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223537146,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223537184,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223537195,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223537201,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223537158,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223537197,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223537151,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223537143,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223537635,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223537636,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223537609,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223537741,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223537752,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223537777,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223537718,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223537766,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223537724,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223537759,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223537722,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223537977,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223537944,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223538713,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223538648,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223538748,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223538706,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223538274,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223538883,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223538876,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223539076,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223539242,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223538670,SG 553 | Integrale (Field-Tested), 1881, -11, 98.8%, 91.94882729211088
+223541046,SSG 08 | Dragonfire (Field-Tested), 1230, -4.03, 92.99%, 100
+223538812,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223539476,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223539509,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223539566,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223537607,AK-47 | Legion of Anubis (Minimal Wear), 1268, -1.03, 96.53%, 100
+223537054,StatTrak™ M4A1-S | Nightmare (Field-Tested), 2850, -3, 93.24%, 86.64567188638019
+223536992,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223536977,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223536979,AK-47 | Nightwish (Minimal Wear), 2588, -10.99, 93.31%, 100
+223536994,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223537031,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223537019,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223537058,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223537010,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223537080,AK-47 | Neon Rider (Field-Tested), 3821, -4, 93.84%, 100
+223537093,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223537149,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223537115,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223537132,SG 553 | Integrale (Field-Tested), 1881, -11, 98.8%, 91.94882729211088
+223537095,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223537180,Glock-18 | Bullet Queen (Minimal Wear), 1776, -2.98, 93.65%, 100
+223537107,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223537198,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223537193,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223537097,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223537353,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223537295,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223537327,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223537374,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223537340,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223537346,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223537429,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223537378,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223537465,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223537345,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223537474,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223537475,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223537455,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223537467,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223537470,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223541522,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223541563,Five-SeveN | Copper Galaxy (Factory New), 1134, -5.02, 96.54%, 98.19940029985007
+223541659,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223541526,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223541612,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223541637,UMP-45 | Wild Child (Factory New), 1594, -9.98, 99.9%, 72.12068076328003
+223541662,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223541465,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223541506,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223541602,M4A4 | Cyber Security (Field-Tested), 1881, -7, 97.96%, 93.51815573770492
+223541600,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223541609,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223541738,StatTrak™ USP-S | Blueprint (Field-Tested), 1449, 0, 97.48%, 80.51262519396248
+223541755,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223541751,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223541743,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223541763,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223541760,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223541721,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223541741,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223541744,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223538665,★ Moto Gloves | Smoke Out (Field-Tested), 18835, -6, 94.11%, 91.56398104265404
+223538822,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223539116,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223539153,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223539247,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223539385,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223539432,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223539166,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223539422,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223539606,AK-47 | Head Shot (Minimal Wear), 3635, -8.99, 91.74%, 100
+223539523,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223539181,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223541573,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223541436,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223539769,MP9 | Starlight Protector (Factory New), 2413, -3.01, 93.09%, 94.62101851851853
+223540478,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223539841,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223539940,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223541656,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223541180,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223541076,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223541231,UMP-45 | Wild Child (Factory New), 1594, -9.98, 99.9%, 72.12068076328003
+223541105,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223539974,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223540186,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223540134,M4A4 | Temukau (Field-Tested), 2205, -6.99, 97.34%, 100
+223541363,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223541054,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223539535,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223541631,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223541632,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223541350,AK-47 | Head Shot (Minimal Wear), 3635, -8.99, 91.74%, 100
+223541665,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223541422,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223541625,AK-47 | Legion of Anubis (Minimal Wear), 1256, -0.95, 95.66%, 100
+223541555,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223541405,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223541663,AK-47 | Leet Museo (Minimal Wear), 3112, -4, 95.12%, 93.29577464788733
+223537620,AK-47 | Baroque Purple (Factory New), 1753, -6.96, 101.89%, 81.56
+223536028,StatTrak™ AWP | Neo-Noir (Field-Tested), 5545, -4.16, 101.88%, 82.4375
+223535879,★ Broken Fang Gloves | Yellow-banded (Field-Tested), 9458, -3.01, 97.27%, 96.51059523809523
+223542258,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 3995, -13.01, 93.7%, 70.09332687338501
+223542799,AK-47 | Neon Rider (Field-Tested), 3821, -4, 93.84%, 100
+223542649,AK-47 | Baroque Purple (Factory New), 1737, -7.86, 100.95%, 81.56
+223543714,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 4038, -12.01, 94.69%, 70.09332687338501
+223543368,AWP | Pink DDPAT (Minimal Wear), 4887, -3.01, 96.37%, 75.07975335803613
+223543826,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 3995, -13.01, 93.7%, 70.09332687338501
+223543497,M4A4 | Asiimov (Field-Tested), 19102, 0, 97.71%, 100
+223543958,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 3997, -12.03, 93.74%, 70.09332687338501
+223537277,MAC-10 | Propaganda (Field-Tested), 3635, -4.04, 99.55%, 78.7862582781457
+223543730,M4A4 | Cyber Security (Field-Tested), 1881, -7, 97.96%, 93.51815573770492
+223543697,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223543743,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223543675,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223543961,M4A4 | Asiimov (Field-Tested), 18922, -1, 96.79%, 100
+223543766,UMP-45 | Wild Child (Factory New), 1594, -9.98, 99.9%, 72.12068076328003
+223543742,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223543692,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223543696,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223543799,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223543503,AK-47 | Baroque Purple (Factory New), 1721, -8.77, 100%, 81.56
+223543711,Five-SeveN | Copper Galaxy (Factory New), 1134, -5.02, 96.54%, 98.19940029985007
+223543803,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223543728,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223543872,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223543864,StatTrak™ USP-S | Blueprint (Field-Tested), 1449, 0, 97.48%, 80.51262519396248
+223543915,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223543942,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223541788,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223543868,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223543939,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223543841,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223543870,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223543893,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223542209,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223542523,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223541918,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223542237,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223542640,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223542007,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223542753,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223542755,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223542817,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223542802,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223542752,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223542815,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223542750,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223542828,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223542774,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223542979,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223543139,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223543143,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223543178,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223543142,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223543148,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223543157,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223543127,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223543198,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223543166,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223543209,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223543170,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223543312,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223543305,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223543273,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223543306,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223543332,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223543279,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223543283,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223543285,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223543310,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223543453,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223541701,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223541735,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223543399,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223541711,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223543452,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223543850,AWP | Pink DDPAT (Minimal Wear), 4841, -3.98, 95.47%, 75.07975335803613
+223543546,M4A1-S | Guardian (Minimal Wear), 2542, -1, 96%, 95.72817133443164
+223543620,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223543624,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223543621,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223543607,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223543635,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223543637,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223543670,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223543634,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223543640,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223543684,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223543724,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223543828,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223543831,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223543848,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223543816,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223543852,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223543835,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223543867,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223543900,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223543824,SG 553 | Integrale (Field-Tested), 1881, -11, 98.8%, 91.94882729211088
+223543844,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223543967,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223543986,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223543971,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223543112,StatTrak™ AWP | Neo-Noir (Field-Tested), 5545, -4.16, 101.88%, 82.4375
+223525311,★ Moto Gloves | Transport (Field-Tested), 8500, -3.93, 97.01%, 93.90818123393316
+223544078,AK-47 | Baroque Purple (Factory New), 1722, -7.75, 100.09%, 81.56
+223544082,M4A4 | Asiimov (Field-Tested), 18383, -2.97, 94.03%, 100
+223544103,★ Driver Gloves | Rezan the Red (Field-Tested), 12113, -4, 96.07%, 98.69553902203494
+223544163,AWP | Pink DDPAT (Minimal Wear), 4795, -4.95, 94.54%, 75.07975335803613
+223543253,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223542681,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223542694,AK-47 | Nightwish (Minimal Wear), 2588, -10.99, 93.31%, 100
+223542725,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223542713,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223542763,StatTrak™ M4A1-S | Nightmare (Field-Tested), 2850, -3, 93.24%, 86.64567188638019
+223542705,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223542768,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223542737,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223542702,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223542825,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223542837,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223542830,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223542945,SG 553 | Integrale (Field-Tested), 1881, -11, 98.8%, 91.94882729211088
+223543152,Glock-18 | Bullet Queen (Minimal Wear), 1776, -2.98, 93.65%, 100
+223543161,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223542962,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223542872,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223542891,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223543167,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223543348,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223543241,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223543286,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223543229,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223543292,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223543342,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223543252,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223543249,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223543261,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223543329,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223543363,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223543355,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223543373,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223543390,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223544306,★ Driver Gloves | Rezan the Red (Field-Tested), 11999, -4.96, 95.17%, 98.69553902203494
+223543527,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223543574,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223543495,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223543483,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223543531,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223543506,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223543538,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223543500,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223543493,SG 553 | Integrale (Field-Tested), 1881, -11, 98.8%, 91.94882729211088
+223543573,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223543505,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223543537,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223543522,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223543584,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223543588,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223543603,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223544211,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223544254,Five-SeveN | Copper Galaxy (Factory New), 1134, -5.02, 96.54%, 98.19940029985007
+223544276,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223544287,UMP-45 | Wild Child (Factory New), 1594, -9.98, 99.9%, 72.12068076328003
+223544275,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223544763,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223544307,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223544233,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223544238,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223544272,M4A4 | Cyber Security (Field-Tested), 1881, -7, 97.96%, 93.51815573770492
+223544241,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223544318,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223544271,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223544864,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223544657,StatTrak™ USP-S | Blueprint (Field-Tested), 1449, 0, 97.48%, 80.51262519396248
+223544416,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223544777,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223544750,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223544955,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223544758,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223544951,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223544917,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223545001,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223544140,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223543998,★ Moto Gloves | Smoke Out (Field-Tested), 18835, -6, 94.11%, 91.56398104265404
+223544127,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223544081,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223544077,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223544095,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223544151,AK-47 | Head Shot (Minimal Wear), 3635, -8.99, 91.74%, 100
+223544087,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223544083,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.46%, 100
+223544113,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223544124,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223544010,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223544142,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223544165,MP9 | Starlight Protector (Factory New), 2413, -3.01, 93.09%, 94.62101851851853
+223544171,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223544170,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223544174,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223544177,M4A4 | Temukau (Field-Tested), 2205, -6.99, 97.34%, 100
+223544178,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223544185,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223544245,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223544268,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.39%, 100
+223544274,UMP-45 | Wild Child (Factory New), 1594, -9.98, 99.9%, 72.12068076328003
+223544310,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223544256,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223544319,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.57%, 100
+223544289,AK-47 | Head Shot (Minimal Wear), 3635, -8.99, 91.74%, 100
+223544368,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223544425,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223544757,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 92.2%, 69.83387622149837
+223544308,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223544292,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.61%, 100
+223544253,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223544958,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223544953,AK-47 | Leet Museo (Minimal Wear), 3112, -4, 95.12%, 93.29577464788733
+223544950,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223544652,StatTrak™ M4A4 | Desolate Space (Field-Tested), 1937, -0.04, 100.68%, 93.29232658959538
+223544722,AWP | Pink DDPAT (Minimal Wear), 4750, -5.89, 93.68%, 75.07975335803613
+223545258,M4A1-S | Mecha Industries (Factory New), 8714, -4.91, 93.88%, 82.34319457308068
+223545066,StatTrak™ M4A4 | Desolate Space (Field-Tested), 1919, -1.02, 99.83%, 93.29232658959538
+223545364,StatTrak™ P250 | Asiimov (Field-Tested), 1266, 0.14, 92.18%, 94.26993147250543
+223544846,Desert Eagle | Midnight Storm (Minimal Wear), 2750, -3, 105.63%, 93.36842411720511
+223545037,★ Driver Gloves | Rezan the Red (Field-Tested), 11886, -5.92, 94.35%, 98.69553902203494
+223545230,AWP | Pink DDPAT (Minimal Wear), 4705, -6.84, 92.78%, 75.07975335803613
+223529330,AK-47 | Aquamarine Revenge (Field-Tested), 3515, -1.14, 94.49%, 100
+223545498,AWP | Pink DDPAT (Minimal Wear), 4650, -7.01, 91.69%, 75.07975335803613
+223544499,StatTrak™ AWP | Neo-Noir (Field-Tested), 5545, -4.16, 101.88%, 82.4375
+223545602,M4A1-S | Guardian (Factory New), 3295, -5, 92.72%, 96.59313106796117
+223549029,★ Driver Gloves | Rezan the Red (Field-Tested), 11793, -5.71, 93.62%, 98.69553902203494
+223549126,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223549093,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223549125,M4A4 | Cyber Security (Field-Tested), 1881, -7, 97.96%, 93.51815573770492
+223549144,UMP-45 | Wild Child (Factory New), 1594, -9.98, 99.9%, 72.12068076328003
+223549134,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223549132,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.81%, 100
+223549177,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223549075,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223549108,Five-SeveN | Copper Galaxy (Factory New), 1134, -5.02, 96.54%, 98.19940029985007
+223548994,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223549091,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223549168,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223549237,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223549253,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223549249,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223549251,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223545036,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223545009,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223545018,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223545022,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223545017,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223545011,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223545076,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223545077,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223545139,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223545081,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223545094,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223545140,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223545074,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223545129,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223545145,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223545251,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223545270,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223545280,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.81%, 100
+223545264,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223545271,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223545275,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223545344,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223545268,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223545279,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223545297,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.81%, 100
+223545269,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223545350,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223545407,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223545414,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223545411,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223545447,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223545433,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.67%, 100
+223545479,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223545437,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223545449,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.81%, 100
+223545415,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223545567,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223545532,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223545590,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223545507,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223545529,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223545556,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223545723,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.67%, 100
+223545658,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223545663,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223545701,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223546044,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223545744,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223545705,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.67%, 100
+223545666,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223545615,M4A1-S | Guardian (Minimal Wear), 2542, -1, 96%, 95.72817133443164
+223545654,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223546284,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223549033,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223547303,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223549078,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223549097,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.67%, 100
+223549001,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223549099,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223548990,SG 553 | Integrale (Field-Tested), 1881, -11, 98.8%, 91.94882729211088
+223549018,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223549142,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223548957,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223529119,AK-47 | Neon Revolution (Minimal Wear), 2890, -2.01, 93.18%, 100
+223549122,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223549199,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223549201,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223549185,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223549162,AK-47 | Head Shot (Field-Tested), 1752, -3.98, 91.03%, 100
+223549261,AWP | BOOM (Minimal Wear), 11168, -3.98, 93.87%, 100
+223549247,StatTrak™ USP-S | Blueprint (Field-Tested), 1449, 0, 97.48%, 80.51262519396248
+223549272,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.81%, 100
+223549285,StatTrak™ USP-S | Cyrex (Factory New), 1520, -5.01, 90.5%, 96.57847779215179
+223549384,★ Specialist Gloves | Buckshot (Field-Tested), 8426, -4, 92.81%, 95.70179936305732
+223549815,AK-47 | Redline (Field-Tested), 2037, 7.65, 102.46%, 100
+223545142,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223545259,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223545177,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.67%, 100
+223545147,AK-47 | Nightwish (Minimal Wear), 2588, -10.99, 93.31%, 100
+223545153,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223545151,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223545166,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.81%, 100
+223549320,★ Moto Gloves | Smoke Out (Field-Tested), 18835, -6, 94.11%, 91.56398104265404
+223545231,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223545257,StatTrak™ M4A1-S | Nightmare (Field-Tested), 2850, -3, 93.24%, 86.64567188638019
+223545301,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223545299,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223545422,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223545345,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223545334,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223545418,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223545410,Glock-18 | Bullet Queen (Minimal Wear), 1776, -2.98, 93.65%, 100
+223545305,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223545382,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223545369,SG 553 | Integrale (Field-Tested), 1881, -11, 98.8%, 91.94882729211088
+223550227,M4A4 | 龍王 (Dragon King) (Factory New), 3660, -4.99, 92.43%, 93
+223550223,M4A4 | 龍王 (Dragon King) (Factory New), 3697, -3.98, 93.38%, 93
+223550223,M4A4 | 龍王 (Dragon King) (Factory New), 3697, -3.98, 93.38%, 93
+223550223,M4A4 | 龍王 (Dragon King) (Factory New), 3697, -3.98, 93.38%, 93
+223550421,★ Specialist Gloves | Buckshot (Field-Tested), 8510, -2.98, 93.74%, 95.70179936305732
+223550259,StatTrak™ AWP | Chromatic Aberration (Field-Tested), 2065, 5.55, 91.16%, 94.04579635949943
+223550170,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223543186,StatTrak™ AK-47 | Nightwish (Field-Tested), 3119, -7.89, 96.33%, 94.41411658193468
+223532476,StatTrak™ USP-S | Stainless (Minimal Wear), 3332, -2.46, 98.13%, 73.07094594594595
+223549446,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223549388,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223549442,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.81%, 100
+223549460,UMP-45 | Wild Child (Factory New), 1594, -9.98, 99.9%, 72.12068076328003
+223549408,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223549420,Five-SeveN | Copper Galaxy (Factory New), 1134, -5.02, 96.54%, 98.19940029985007
+223549409,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223549509,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223549516,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223549404,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223549434,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223549433,M4A4 | Cyber Security (Field-Tested), 1881, -7, 97.96%, 93.51815573770492
+223549282,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.81%, 100
+223550044,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223550015,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223549939,StatTrak™ USP-S | Blueprint (Field-Tested), 1449, 0, 97.48%, 80.51262519396248
+223549277,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223549777,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223550032,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223549286,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223550094,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.81%, 100
+223549309,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223550305,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223550317,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223550279,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223550341,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223550265,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223550302,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223545480,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223545512,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223545578,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223545537,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.81%, 100
+223545588,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223545587,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 94.74%, 69.83387622149837
+223545506,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223545533,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223545603,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223545596,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223545490,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223545606,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223545568,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223545501,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223550390,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223550398,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223550403,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223550393,AK-47 | Head Shot (Field-Tested), 1770, -3.98, 91.96%, 100
+223550395,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223550414,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223545652,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223545662,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223545669,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223545804,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.81%, 100
+223545693,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223545687,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223545872,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 95.79%, 100
+223547066,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223546159,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.67%, 100
+223545916,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223546273,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223546998,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 94.74%, 69.83387622149837
+223545664,SG 553 | Integrale (Field-Tested), 1881, -11, 98.8%, 91.94882729211088
+223547284,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223547488,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223547686,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223550577,AK-47 | Bloodsport (Field-Tested), 10884, -2.96, 92.63%, 100
+223549373,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.48%, 100
+223549374,AK-47 | Leet Museo (Field-Tested), 1986, -0.02, 95.31%, 100
+223549375,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223549342,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223549410,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.67%, 100
+223549389,M4A4 | The Emperor (Minimal Wear), 4553, -5, 92.74%, 100
+223549405,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.67%, 100
+223549411,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223549367,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223549423,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.81%, 100
+223549424,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2663, -2.98, 98.08%, 83.69494858456328
+223549640,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223550590,USP-S | Monster Mashup (Minimal Wear), 3043, -5.01, 93.31%, 100
+223549570,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223549464,MP9 | Starlight Protector (Factory New), 2413, -3.01, 93.5%, 94.62101851851853
+223549435,AK-47 | Head Shot (Minimal Wear), 3635, -8.99, 92.01%, 100
+223549519,AUG | Carved Jade (Factory New), 2354, -6, 96.27%, 98.63211195361285
+223549560,M4A4 | Temukau (Field-Tested), 2205, -6.99, 97.34%, 100
+223549514,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223549492,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223550115,AK-47 | Cartel (Minimal Wear), 1296, -2.98, 95.44%, 100
+223550117,StatTrak™ M4A4 | Magnesium (Factory New), 1073, -3.02, 93.08%, 79.54416666666667
+223550164,AK-47 | Ice Coaled (Factory New), 2233, -7.02, 95.81%, 100
+223550168,M4A4 | Buzz Kill (Factory New), 3591, -6.99, 94.96%, 83.39393939393939
+223550077,AK-47 | Neon Revolution (Field-Tested), 1618, -3.01, 94.13%, 100
+223550150,UMP-45 | Wild Child (Factory New), 1594, -9.98, 99.9%, 72.12068076328003
+223550162,AK-47 | Head Shot (Minimal Wear), 3635, -8.99, 92.01%, 100
+223550129,AK-47 | Point Disarray (Field-Tested), 1013, -1.03, 93.67%, 100
+223550171,MP7 | Nemesis (Factory New), 1301, -2.99, 94.67%, 77.86195877935772
+223550304,AK-47 | Phantom Disruptor (Factory New), 1157, -1.01, 94.55%, 100
+223550369,StatTrak™ P2000 | Wicked Sick (Minimal Wear), 1424, -5.01, 102.94%, 70.20905459387484
+223550311,AK-47 | Frontside Misty (Field-Tested), 1359, -2.02, 93.09%, 100
+223550339,StatTrak™ FAMAS | Mecha Industries (Minimal Wear), 1231, -2.99, 94.74%, 69.83387622149837
+223550362,M4A4 | Spider Lily (Factory New), 1889, -4.98, 91.84%, 86.62921348314607
+223550364,AK-47 | Leet Museo (Minimal Wear), 3112, -4, 95.12%, 93.29577464788733
+223550622,AK-47 | Neon Revolution (Minimal Wear), 2862, -1.97, 92.28%, 100
+223551046,AK-47 | Asiimov (Field-Tested), 3111, -3.02, 95.41%, 100
+223549203,StatTrak™ AWP | Neo-Noir (Field-Tested), 5545, -4.16, 101.88%, 82.4375
+223551223,AK-47 | Asiimov (Field-Tested), 3082, -3.98, 94.51%, 100
+223551422,StatTrak™ AWP | Chromatic Aberration (Field-Tested), 1870, -6, 82.6%, 94.04579635949943
+223551431,AK-47 | Asiimov (Field-Tested), 3053, -3.91, 93.61%, 100
+223551468,AK-47 | Neon Revolution (Field-Tested), 1587, -3.96, 92.33%, 100
+223551585,StatTrak™ AWP | Chromatic Aberration (Field-Tested), 1645, -18.03, 72.61%, 94.04579635949943
+223551626,AK-47 | Head Shot (Field-Tested), 1839, -0.01, 95.6%, 100
+223551654,AK-47 | Head Shot (Field-Tested), 1735, -6, 90.19%, 100
+223551765,AK-47 | Head Shot (Field-Tested), 1770, -2.95, 91.96%, 100
+223551905,AK-47 | Head Shot (Field-Tested), 1735, -6, 90.19%, 100
+223551636,AK-47 | Asiimov (Field-Tested), 3115, -1.86, 95.51%, 100
+223528315,M4A4 | Temukau (Minimal Wear), 7687, -0.07, 98.13%, 100
+223552012,AK-47 | Head Shot (Well-Worn), 1226, -0.04, 96.29%, 100
+223551462,StatTrak™ AWP | Neo-Noir (Field-Tested), 5545, -4.16, 101.88%, 82.4375
+223551966,AK-47 | Vulcan (Well-Worn), 17346, -0.01, 101.07%, 76.28365320979483
+223551967,StatTrak™ M4A1-S | Player Two (Field-Tested), 5699, -0.01, 98.54%, 82.73421568627451
+223552221,AK-47 | Vulcan (Well-Worn), 17183, -1, 100.12%, 76.28365320979483
+223552225,StatTrak™ M4A1-S | Player Two (Field-Tested), 5645, -1.02, 97.61%, 82.73421568627451
+223552097,AK-47 | Head Shot (Well-Worn), 1214, -1.07, 95.4%, 100
+223552265,AK-47 | Head Shot (Well-Worn), 1203, -0.99, 94.5%, 100
+223552094,AK-47 | Safety Net (Factory New), 1039, -6, 99.69%, 100
+223552960,AK-47 | Neon Rider (Factory New), 16696, -5, 92.47%, 89.63511325219743
+223552954,AK-47 | Safety Net (Factory New), 1029, -6.96, 98.75%, 100
+223552962,M4A4 | Desolate Space (Factory New), 2542, -4.01, 95.19%, 96.9804356846473
+223551614,M4A4 | Temukau (Minimal Wear), 7474, -3.01, 95.41%, 100
+223550636,StatTrak™ USP-S | The Traitor (Minimal Wear), 6870, -0.47, 97.89%, 71.74193548387096
+223553138,M4A4 | Temukau (Minimal Wear), 7404, -3.97, 94.51%, 100
+223553439,M4A4 | Temukau (Minimal Wear), 7334, -4.94, 93.62%, 100
+223552376,StatTrak™ AWP | Neo-Noir (Field-Tested), 5545, -4.16, 101.88%, 85.18471713810317
+223553446,AK-47 | Neon Revolution (Minimal Wear), 2863, -1.93, 92.34%, 100
+223555242,M4A4 | Temukau (Minimal Wear), 7257, -4.99, 92.64%, 100
+223552142,AK-47 | Safety Net (Factory New), 1101, -0.03, 103.05%, 100
+223551054,StatTrak™ USP-S | The Traitor (Minimal Wear), 6870, -0.47, 97.89%, 71.74193548387096
+223553496,StatTrak™ AK-47 | Legion of Anubis (Factory New), 7988, 0, 96.14%, 76.00272479564033
+223556785,StatTrak™ AK-47 | Legion of Anubis (Factory New), 7912, -1.01, 95.22%, 76.00272479564033
+223556929,StatTrak™ AK-47 | Legion of Anubis (Factory New), 7687, -2.97, 92.52%, 76.00272479564033
+223557839,M4A1-S | Guardian (Field-Tested), 2218, -0.89, 93.35%, 91.96192718261533
+223557840,AK-47 | Head Shot (Field-Tested), 1788, -1.91, 93.13%, 100
+223558043,AK-47 | Frontside Misty (Well-Worn), 1248, 2.25, 98.08%, 100
+223551594,★ Huntsman Knife | Damascus Steel (Field-Tested), 20501, -0.58, 97.89%, 66.13513513513513
+223558612,AWP | BOOM (Minimal Wear), 11590, -1.18, 97.51%, 100.00
+223558646,M4A4 | Asiimov (Field-Tested), 19102, 0, 97.54%, 100.00
+223558684,Desert Eagle | Printstream (Minimal Wear), 6039, -1.99, 93.92%, 100.00
+223558681,AK-47 | Bloodsport (Minimal Wear), 12861, -1.94, 95.15%, 100.00
+223558688,AWP | BOOM (Minimal Wear), 11481, -2.17, 96.59%, 100.00
+223558698,M4A4 | Asiimov (Field-Tested), 18922, -1, 96.62%, 100.00
+223558794,M4A4 | X-Ray (Minimal Wear), 1543, -5.03, 93.40%, 86.33
+223559158,AWP | BOOM (Minimal Wear), 11280, -2.96, 94.89%, 100.00
+223559515,M4A4 | Asiimov (Field-Tested), 18383, -2.97, 93.87%, 100.00
+223559365,SSG 08 | Turbo Peek (Factory New), 1747, -1.99, 95.89%, 80.19
+223559285,StatTrak™ AWP | Neo-Noir (Field-Tested), 5556, -3.96, 102.09%, 85.18
+223558743,StatTrak™ AWP | PAW (Factory New), 1678, -0.07, 103.00%, 94.96
+223560042,StatTrak™ AWP | Neo-Noir (Field-Tested), 5717, -1, 105.06%, 85.18
+223563515,P90 | Asiimov (Factory New), 4525, -3.99, 92.98%, 74.21
+223558788,★ Driver Gloves | Rezan the Red (Field-Tested), 12385, -1.71, 98.38%, 100.00
+223565042,★ Moto Gloves | Finish Line (Field-Tested), 18272, -0.9, 95.85%, 87.07
+223564576,★ Broken Fang Gloves | Jade (Field-Tested), 15134, 0, 99.18%, 94.35
+223565043,Glock-18 | Franklin (Factory New), 4796, -4, 94.15%, 80.90
+223565044,SG 553 | Integrale (Minimal Wear), 5100, -6, 97.94%, 85.74
+223558556,StatTrak™ USP-S | The Traitor (Minimal Wear), 6867, -0.52, 97.84%, 71.74
+223558678,StatTrak™ USP-S | The Traitor (Minimal Wear), 6866, -0.53, 97.84%, 71.74
+223564301,MP7 | Skulls (Field-Tested), 2532, -0.28, 98.11%, 65.03
+223564584,MP7 | Skulls (Field-Tested), 2532, -0.28, 98.11%, 65.03
+223563858,MP7 | Skulls (Field-Tested), 2532, -0.28, 98.11%, 65.03
+223565524,Galil AR | Eco (Minimal Wear), 3630, -1.03, 97.76%, 74.70
+223560043,AK-47 | Nightwish (Minimal Wear), 2887, -0.02, 103.62%, 100.00
+223563905,Glock-18 | Gamma Doppler (Factory New), 7679, -0.14, 99.73%, 82.33
+223562888,AK-47 | The Empress (Factory New), 16306, -3.06, 98.08%, 80.27
+223566528,AK-47 | Nightwish (Field-Tested), 1275, -0.98, 95.84%, 100.00
+223563586,StatTrak™ AWP | PAW (Factory New), 1678, -0.07, 103.10%, 94.96
+223566774,AK-47 | Nightwish (Field-Tested), 1238, -3.03, 93.02%, 100.00
+223566260,StatTrak™ AWP | Neo-Noir (Field-Tested), 5559, -3.91, 101.85%, 85.18
+223566778,AK-47 | Wasteland Rebel (Field-Tested), 2916, -6, 93.33%, 100.00
+223567290,AK-47 | The Empress (Field-Tested), 3529, -1.94, 91.67%, 100.00
+223567855,Glock-18 | Neo-Noir (Field-Tested), 1163, 1.21, 90.15%, 100.00
+223565421,StatTrak™ USP-S | The Traitor (Minimal Wear), 6865, -0.55, 97.77%, 71.74
+223567847,★ Broken Fang Gloves | Yellow-banded (Field-Tested), 9797, 1.75, 100.60%, 98.30
+223565554,StatTrak™ USP-S | The Traitor (Minimal Wear), 6864, -0.56, 97.75%, 71.74
+223567182,StatTrak™ AWP | Neo-Noir (Field-Tested), 5559, -3.91, 101.85%, 85.18
+223567076,StatTrak™ AWP | PAW (Factory New), 1678, -0.07, 103.10%, 94.96
+223571112,AWP | Electric Hive (Minimal Wear), 4384, -1.93, 93.51%, 89.92
+223565864,MP7 | Skulls (Field-Tested), 2533, -0.24, 98.11%, 65.03
+223566044,MP7 | Skulls (Field-Tested), 2533, -0.24, 98.11%, 65.03
+223565829,MP7 | Skulls (Field-Tested), 2533, -0.24, 98.11%, 65.03
+223566233,★ Huntsman Knife | Damascus Steel (Field-Tested), 20557, -0.29, 98.13%, 66.14
+223566477,AK-47 | The Empress (Factory New), 16313, -3.01, 98.13%, 80.27
+223572218,AK-47 | Ice Coaled (Minimal Wear), 1307, -6, 93.37%, 100.00
+223572308,AK-47 | Ice Coaled (Minimal Wear), 1295, -6.92, 92.44%, 100.00
+223559925,Five-SeveN | Hyper Beast (Field-Tested), 3759, -6, 92.21%, 68.56
+223572323,AK-47 | Ice Coaled (Minimal Wear), 1283, -7.84, 91.63%, 100.00
+223572436,AK-47 | Ice Coaled (Minimal Wear), 1271, -7.76, 90.81%, 100.00
+223571215,StatTrak™ AWP | Neo-Noir (Field-Tested), 5579, -3.54, 102.21%, 85.18
+223567919,StatTrak™ USP-S | The Traitor (Minimal Wear), 6863, -0.58, 98.37%, 71.74
+223569335,StatTrak™ USP-S | The Traitor (Minimal Wear), 6862, -0.59, 98.34%, 71.74
+223571317,StatTrak™ AWP | PAW (Factory New), 1676, -0.19, 103.10%, 94.96
+223572981,StatTrak™ AWP | Neo-Noir (Field-Tested), 5579, -3.54, 101.81%, 85.18
+223573889,AK-47 | Neon Rider (Minimal Wear), 7580, -1.94, 96.00%, 100.00
+223572230,★ Huntsman Knife | Damascus Steel (Field-Tested), 20562, -0.27, 98.13%, 66.14
+223573105,MAC-10 | Propaganda (Field-Tested), 3649, -3.64, 99.87%, 69.92
+223572290,AK-47 | The Empress (Factory New), 16316, -2.99, 98.00%, 80.27
+223574712,StatTrak™ AWP | Neo-Noir (Field-Tested), 5570, -3.7, 101.66%, 85.18
+223575476,StatTrak™ AK-47 | Asiimov (Field-Tested), 6560, -5.85, 92.37%, 98.26
+223575552,AK-47 | Neon Rider (Field-Tested), 3946, 0.38, 94.47%, 100.00
+223573975,StatTrak™ AWP | PAW (Factory New), 1676, -0.19, 103.10%, 94.96
+223565062,StatTrak™ USP-S | Stainless (Minimal Wear), 3334, -2.4, 98.13%, 74.34
+223575250,MAC-10 | Propaganda (Field-Tested), 3649, -3.64, 99.87%, 69.92
+223579345,AK-47 | Ice Coaled (Minimal Wear), 1359, -2.02, 97.55%, 100.00
+223575643,M4A4 | Cyber Security (Field-Tested), 2011, -0.16, 104.66%, 92.17
+223575652,M4A4 | Cyber Security (Field-Tested), 2011, -0.16, 104.66%, 92.17
+223575644,M4A4 | Cyber Security (Field-Tested), 2011, -0.16, 104.66%, 92.17
+223575649,M4A4 | Cyber Security (Field-Tested), 2011, -0.16, 104.66%, 92.17
+223573129,StatTrak™ USP-S | The Traitor (Minimal Wear), 6861, -0.61, 98.34%, 71.74
+223573289,StatTrak™ USP-S | The Traitor (Minimal Wear), 6860, -0.62, 98.32%, 71.74
+223580087,AK-47 | Ice Coaled (Minimal Wear), 1346, -3.02, 96.61%, 100.00
+223580993,★ Shadow Daggers | Autotronic (Field-Tested), 13614, 0, 98.61%, 76.05
+223581464,Desert Eagle | Printstream (Well-Worn), 3883, -5, 91.34%, 89.81
+223575313,AK-47 | The Empress (Factory New), 16338, -2.86, 98.12%, 80.27
+223565069,★ Broken Fang Gloves | Jade (Field-Tested), 14992, -0.99, 97.46%, 94.35
+223582878,★ Broken Fang Gloves | Jade (Field-Tested), 14277, -5, 92.81%, 94.35
+223579227,StatTrak™ AWP | PAW (Factory New), 1676, -0.19, 103.10%, 94.96
+223583593,AK-47 | Asiimov (Minimal Wear), 5700, -0.41, 93.56%, 100.00
+223584586,M4A4 | Temukau (Field-Tested), 2271, -2.99, 96.81%, 100.00
+223584592,SSG 08 | Dragonfire (Field-Tested), 1267, -0.91, 95.46%, 100.00
+223580510,StatTrak™ USP-S | The Traitor (Minimal Wear), 6859, -0.64, 98.48%, 71.74
+223580745,StatTrak™ USP-S | The Traitor (Minimal Wear), 6858, -0.65, 98.48%, 71.74
+223583912,StatTrak™ AWP | PAW (Factory New), 1678, -0.07, 103.20%, 94.96
+223581714,AK-47 | The Empress (Factory New), 16333, -2.89, 97.99%, 80.27
+223590193,★ Huntsman Knife | Ultraviolet (Field-Tested), 15084, -1, 96.18%, 68.93
+223590347,★ Huntsman Knife | Ultraviolet (Field-Tested), 14948, -0.91, 95.31%, 68.93
+223590208,AK-47 | Ice Coaled (Minimal Wear), 1307, -6, 93.05%, 100.00
+223590410,AK-47 | Ice Coaled (Minimal Wear), 1295, -5.92, 92.12%, 100.00
+223590602,Galil AR | Eco (Minimal Wear), 3458, -4.99, 92.83%, 74.70
+223585107,StatTrak™ USP-S | The Traitor (Minimal Wear), 6857, -0.67, 98.46%, 71.74
+223585425,StatTrak™ USP-S | The Traitor (Minimal Wear), 6834, -1.02, 98.13%, 71.74
+223589416,StatTrak™ AWP | PAW (Factory New), 1678, -0.07, 103.10%, 94.96
+223566152,AK-47 | Nightwish (Minimal Wear), 2860, -1.01, 100.46%, 100.00
+223591515,★ Moto Gloves | Transport (Field-Tested), 8328, -5, 93.82%, 96.79
+223592142,AK-47 | Aquamarine Revenge (Field-Tested), 3454, -1.91, 92.46%, 100.00
+223592153,Dual Berettas | Emerald (Factory New), 3716, -3.99, 94.69%, 82.90
+223592534,AK-47 | Frontside Misty (Field-Tested), 1359, -0.95, 90.96%, 100.00
+223591166,MP7 | Skulls (Field-Tested), 2532, -0.28, 90.94%, 65.03
+223591217,MP7 | Skulls (Field-Tested), 2532, -0.28, 90.94%, 65.03
+223591265,MP7 | Skulls (Field-Tested), 2532, -0.28, 90.94%, 65.03
+223591374,StatTrak™ AWP | PAW (Factory New), 1678, -0.07, 103.10%, 94.96
+223593269,M4A4 | Temukau (Field-Tested), 2338, -1.02, 99.72%, 100.00
+223590899,StatTrak™ USP-S | The Traitor (Minimal Wear), 6833, -1.04, 98.11%, 71.74
+223591035,StatTrak™ USP-S | The Traitor (Minimal Wear), 6832, -1.05, 98.11%, 71.74
+223596713,★ Bowie Knife | Ultraviolet (Field-Tested), 14767, -5, 94.50%, 71.75
+223589479,AK-47 | The Empress (Factory New), 16356, -2.74, 97.79%, 80.27
+223591348,AK-47 | Nightwish (Minimal Wear), 2833, -2, 99.49%, 100.00
+223596799,AK-47 | Nightwish (Minimal Wear), 2806, -2.99, 98.57%, 100.00
+223597027,AK-47 | Nightwish (Minimal Wear), 2780, -2.92, 97.66%, 100.00
+223597129,Tec-9 | Fuel Injector (Factory New), 1807, 12.35, 97.28%, 75.00
+223571462,Glock-18 | Gamma Doppler (Factory New), 7679, -0.14, 97.72%, 82.33
+223597848,AK-47 | The Empress (Field-Tested), 3666, 2.12, 94.78%, 100.00
+223596117,Desert Eagle | Code Red (Factory New), 8666, -0.63, 96.14%, 75.39
+223597728,StatTrak™ AK-47 | Neon Rider (Field-Tested), 9111, -0.14, 101.86%, 75.40
+223596119,StatTrak™ USP-S | The Traitor (Minimal Wear), 6831, -1.07, 98.08%, 71.74
+223598081,★ Moto Gloves | Transport (Field-Tested), 8744, -1, 98.39%, 96.79
+223575107,★ Huntsman Knife | Damascus Steel (Field-Tested), 20555, -0.3, 98.07%, 66.14
+223596738,AK-47 | The Empress (Factory New), 16412, -2.39, 98.60%, 80.27
+223599418,M4A4 | Bullet Rain (Minimal Wear), 2061, -6, 103.43%, 82.73
+223599923,Desert Eagle | Kumicho Dragon (Field-Tested), 1685, -4.99, 91.84%, 100.00
+223599800,AK-47 | Asiimov (Field-Tested), 3195, 0.82, 96.99%, 100.00
+223599757,M4A4 | Bullet Rain (Minimal Wear), 2042, -6.92, 102.45%, 82.73
+223601621,M4A1-S | Hyper Beast (Field-Tested), 2628, 3.26, 96.70%, 100.00
+223603766,★ Moto Gloves | Transport (Field-Tested), 8661, -2, 97.45%, 96.79
+223597824,Glock-18 | Gamma Doppler (Factory New), 7540, -2.06, 95.68%, 82.33
+223603551,M4A4 | Bullet Rain (Minimal Wear), 2023, -7.84, 101.55%, 82.73
+223603924,M4A4 | Bullet Rain (Minimal Wear), 2004, -8.77, 100.57%, 82.73
+223604537,M4A4 | Bullet Rain (Minimal Wear), 1985, -9.69, 99.59%, 82.73
+223604761,M4A4 | Bullet Rain (Minimal Wear), 1966, -9.64, 98.69%, 82.73
+223604011,Glock-18 | Gamma Doppler (Factory New), 7679, -0.14, 97.44%, 82.33
+223579378,MAC-10 | Propaganda (Field-Tested), 3635, -4.04, 99.51%, 69.92
+223596593,StatTrak™ USP-S | The Traitor (Minimal Wear), 6830, -1.08, 98.08%, 71.74
+223604726,AK-47 | Head Shot (Field-Tested), 1839, -0.01, 91.50%, 100.00
+223604869,AK-47 | Head Shot (Field-Tested), 1858, 2.18, 92.39%, 100.00
+223580737,AK-47 | Ice Coaled (Minimal Wear), 1333, -4.01, 94.90%, 100.00
+223598316,StatTrak™ USP-S | The Traitor (Minimal Wear), 6829, -1.1, 98.06%, 71.74
+223598423,★ Huntsman Knife | Damascus Steel (Field-Tested), 20567, -0.24, 98.13%, 66.14
+223604870,StatTrak™ M4A1-S | Player Two (Field-Tested), 5646, -1, 97.47%, 80.48
+223605478,StatTrak™ M4A4 | Buzz Kill (Field-Tested), 2731, -6.04, 92.20%, 72.67
+223605424,StatTrak™ M4A1-S | Player Two (Field-Tested), 5377, -5, 92.83%, 80.48
+223605554,P2000 | Amber Fade (Factory New), 1203, -0.01, 89.14%, 100.00
+223603821,StatTrak™ AWP | PAW (Factory New), 1678, -0.07, 102.89%, 94.96
+223605582,P2000 | Amber Fade (Factory New), 1192, -0.98, 88.30%, 100.00
+223605604,StatTrak™ M4A4 | Buzz Kill (Field-Tested), 2759, -4.99, 93.13%, 72.67
+223605818,P2000 | Amber Fade (Factory New), 1181, -0.89, 87.77%, 100.00
+223604899,StatTrak™ USP-S | The Traitor (Minimal Wear), 6828, -1.12, 94.80%, 71.74
+223607356,StatTrak™ Glock-18 | Water Elemental (Factory New), 6419, -0.01, 101.23%, 75.29
+223605178,StatTrak™ USP-S | The Traitor (Minimal Wear), 6827, -1.13, 94.80%, 71.74
+223607378,AK-47 | Asiimov (Minimal Wear), 5562, -1.92, 94.47%, 100.00
+223607349,★ Moto Gloves | 3rd Commando Company (Field-Tested), 8169, -3.98, 93.69%, 94.06
+223607898,StatTrak™ Glock-18 | Water Elemental (Factory New), 6300, -1.97, 99.36%, 75.29
+223607189,Glock-18 | Gamma Doppler (Factory New), 7171, -6.15, 90.99%, 82.33
+223608190,AK-47 | The Empress (Minimal Wear), 5960, -2.97, 93.16%, 100.00
+223607367,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2585, -4.99, 93.96%, 83.32
+223607335,★ Driver Gloves | Overtake (Field-Tested), 12463, -0.93, 94.40%, 99.15
+223607373,AK-47 | The Empress (Field-Tested), 3564, -0.89, 90.94%, 100.00
+223607408,AK-47 | The Empress (Field-Tested), 3494, -2.96, 89.16%, 100.00
+223610372,AK-47 | Cartel (Factory New), 2463, -3.99, 92.31%, 90.56
+223610812,M4A4 | Temukau (Field-Tested), 2227, -5.01, 95.00%, 100.00
+223608666,StatTrak™ Glock-18 | Water Elemental (Factory New), 6200, -3.62, 97.79%, 75.29
+223610851,StatTrak™ AK-47 | Legion of Anubis (Minimal Wear), 3948, -7.12, 95.51%, 83.58
+223607320,Galil AR | Eco (Minimal Wear), 3596, -2.01, 96.84%, 74.70
+223608305,Glock-18 | Bullet Queen (Factory New), 5479, -0.89, 94.98%, 74.46
+223610848,AK-47 | Point Disarray (Minimal Wear), 1668, -3.86, 94.47%, 100.00
+223608745,AK-47 | Head Shot (Field-Tested), 1788, -1.91, 89.78%, 100.00
+223608642,AK-47 | Asiimov (Minimal Wear), 5560, -1.96, 94.42%, 100.00
+223608759,Glock-18 | Neo-Noir (Field-Tested), 1186, 3.31, 90.90%, 100.00
+223608965,Glock-18 | Bullet Queen (Factory New), 5479, -0.89, 94.98%, 74.46
+223609040,M4A1-S | Atomic Alloy (Factory New), 8983, 0.12, 91.72%, 69.64
+223610866,AK-47 | Legion of Anubis (Minimal Wear), 1276, 0.71, 94.12%, 100.00
+223609719,AWP | BOOM (Minimal Wear), 11391, -1.95, 94.11%, 100.00
+223610250,StatTrak™ AK-47 | The Empress (Field-Tested), 9752, -0.96, 94.85%, 80.76
+223610975,AK-47 | Asiimov (Field-Tested), 3202, -0.01, 95.86%, 100.00
+223610875,StatTrak™ Glock-18 | Water Elemental (Factory New), 6161, -3.24, 97.18%, 75.29
+223610890,Galil AR | Eco (Minimal Wear), 3562, -1.95, 95.92%, 74.70
+223610930,AK-47 | The Empress (Field-Tested), 3666, 2.12, 93.56%, 100.00
+223610973,M4A1-S | Atomic Alloy (Factory New), 9063, 1.06, 92.54%, 69.64
+223611585,★ Hydra Gloves | Rattler (Field-Tested), 5762, -2.97, 90.86%, 100.00
+223611005,StatTrak™ AK-47 | Nightwish (Field-Tested), 3050, -9.08, 94.55%, 96.09
+223599342,AWP | Hyper Beast (Minimal Wear), 6298, -0.24, 97.58%, 100.00
+223611070,AK-47 | Neon Rider (Minimal Wear), 7580, -1.94, 94.54%, 100.00
+223611167,AK-47 | Asiimov (Field-Tested), 3051, -3.98, 91.33%, 100.00
+223611582,★ Huntsman Knife | Bright Water (Field-Tested), 15000, -3.06, 95.72%, 72.22
+223611630,AK-47 | Bloodsport (Minimal Wear), 12861, -1.94, 94.97%, 100.00
+223612754,Desert Eagle | Code Red (Minimal Wear), 4105, -0.01, 96.44%, 100.00
+223611817,CZ75-Auto | Xiangliu (Factory New), 1608, -1.79, 103.24%, 72.63
+223611872,AK-47 | Aquamarine Revenge (Factory New), 10854, -2.98, 95.57%, 83.30
+223612017,USP-S | Monster Mashup (Factory New), 4592, -4, 93.04%, 82.45
+223612183,M4A4 | In Living Color (Factory New), 4072, -2.97, 91.54%, 85.75
+223612596,StatTrak™ AK-47 | Ice Coaled (Minimal Wear), 3252, -1.95, 94.51%, 100.00
+223612653,USP-S | Whiteout (Minimal Wear), 4593, 2.24, 94.41%, 100.00
+223613401,USP-S | Whiteout (Minimal Wear), 4550, 1.23, 93.54%, 100.00
+223612923,M4A4 | Asiimov (Field-Tested), 19102, 0, 96.96%, 100.00
+223612929,★ Bowie Knife | Rust Coat (Battle-Scarred), 13124, -0.01, 102.32%, 80.99
+223613277,M4A1-S | Hyper Beast (Minimal Wear), 5698, -4, 93.18%, 100.00
+223612873,CZ75-Auto | Xiangliu (Factory New), 1608, -1.79, 103.24%, 72.63
+223613658,M4A4 | Asiimov (Field-Tested), 19111, 1.11, 97.01%, 100.00
+223613805,AK-47 | Nightwish (Minimal Wear), 2724, -6, 94.68%, 100.00
+223613903,★ Driver Gloves | Rezan the Red (Field-Tested), 12385, -1.71, 98.64%, 100.00
+223613964,★ Driver Gloves | Queen Jaguar (Battle-Scarred), 7737, 1, 97.62%, 68.43
+223614141,AK-47 | Aquamarine Revenge (Field-Tested), 3352, -4.99, 89.99%, 100.00
+223614026,AK-47 | Frontside Misty (Field-Tested), 1373, 0.12, 90.06%, 100.00
+223614144,M4A1-S | Hyper Beast (Field-Tested), 2579, 1.25, 94.91%, 100.00
+223613864,CZ75-Auto | Xiangliu (Factory New), 1606, -1.92, 103.13%, 72.63
+223614072,AK-47 | Head Shot (Minimal Wear), 3855, -2.08, 96.46%, 100.00
+223614138,AK-47 | Nightwish (Minimal Wear), 2698, -5.96, 93.77%, 100.00
+223614333,AK-47 | Neon Rider (Factory New), 17400, -0.74, 96.05%, 86.31
+223614458,AK-47 | Neon Rider (Factory New), 17363, -0.96, 95.85%, 86.31
+223614517,AK-47 | Legion of Anubis (Minimal Wear), 1279, 0.95, 94.36%, 100.00
+223599422,M4A1-S | Control Panel (Minimal Wear), 1854, -6.96, 93.13%, 84.39
+223616110,AWP | Corticera (Field-Tested), 1650, -2.88, 95.39%, 92.47
+223616158,AWP | Corticera (Field-Tested), 1648, -2, 95.20%, 92.47
+223616162,M4A4 | The Emperor (Minimal Wear), 4599, -3.98, 93.39%, 100.00
+223616161,USP-S | Kill Confirmed (Battle-Scarred), 4309, -3.99, 99.96%, 100.00
+223616184,StatTrak™ M4A1-S | Basilisk (Field-Tested), 1898, -6, 91.09%, 80.52
+223616195,Desert Eagle | Night (Minimal Wear), 1231, 5.48, 90.76%, 94.22
+223616175,★ Navaja Knife | Tiger Tooth (Factory New), 18667, 0, 98.25%, 87.81
+223616549,StatTrak™ M4A1-S | Basilisk (Field-Tested), 1880, -5.95, 90.23%, 80.52
+223616454,P2000 | Amber Fade (Factory New), 1227, 3.16, 92.97%, 100.00
+223617022,★ Navaja Knife | Tiger Tooth (Factory New), 18491, -1, 97.33%, 87.81
+223616471,AK-47 | Neon Rider (Minimal Wear), 7580, -1.94, 95.76%, 100.00
+223616329,Glock-18 | Gamma Doppler (Factory New), 7334, -4.9, 93.43%, 82.33
+223616419,P2000 | Fire Elemental (Minimal Wear), 1965, -0.47, 107.29%, 80.75
+223617447,★ Broken Fang Gloves | Yellow-banded (Battle-Scarred), 7915, -2.97, 94.46%, 69.62
+223617377,★ Navaja Knife | Tiger Tooth (Factory New), 18315, -2, 96.40%, 87.81
+223617441,AK-47 | Head Shot (Field-Tested), 1770, -2.95, 92.28%, 100.00
+223617449,USP-S | Blueprint (Minimal Wear), 1157, -3, 97.00%, 100.00
+223617458,Glock-18 | Gamma Doppler (Factory New), 7265, -4.84, 92.55%, 82.33
+223617374,★ Driver Gloves | Queen Jaguar (Minimal Wear), 16812, -3, 98.98%, 70.05
+223617635,Glock-18 | Bullet Queen (Factory New), 5479, -0.89, 95.17%, 74.46
+223617675,AK-47 | Asiimov (Field-Tested), 3202, -0.01, 98.55%, 100.00
+223617629,★ Navaja Knife | Tiger Tooth (Factory New), 18139, -3, 95.47%, 87.81
+223617756,USP-S | Whiteout (Minimal Wear), 4590, 2.17, 94.50%, 100.00
+223617790,★ Navaja Knife | Tiger Tooth (Factory New), 17963, -2.98, 94.54%, 87.81
+223617666,★ Driver Gloves | Queen Jaguar (Minimal Wear), 16654, -3.97, 98.05%, 70.05
+223617759,AWP | Electric Hive (Field-Tested), 3821, -3.01, 89.85%, 92.04
+223617792,USP-S | Whiteout (Minimal Wear), 4543, 1.05, 93.53%, 100.00
+223619319,AK-47 | Neon Rider (Field-Tested), 3746, -5.01, 92.93%, 100.00
+223619295,★ Specialist Gloves | Buckshot (Field-Tested), 8510, -2.98, 92.12%, 97.21
+223616265,StatTrak™ AWP | PAW (Factory New), 1676, -0.19, 102.79%, 94.96
+223620829,★ Driver Gloves | Rezan the Red (Field-Tested), 12588, 0, 101.07%, 100.00
+223621068,Desert Eagle | Kumicho Dragon (Minimal Wear), 2853, 1.22, 93.00%, 100.00
+223617760,StatTrak™ Glock-18 | Water Elemental (Minimal Wear), 3209, -3.02, 96.05%, 89.44
+223621118,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1590, -6, 94.95%, 100.00
+223617755,AK-47 | Asiimov (Minimal Wear), 5613, -2.02, 95.33%, 100.00
+223621483,★ Hand Wraps | Duct Tape (Field-Tested), 7882, -1.95, 91.12%, 100.00
+223621253,USP-S | Orion (Factory New), 7036, -2.17, 97.10%, 99.64
+223621620,★ Huntsman Knife | Rust Coat (Battle-Scarred), 13160, -5, 92.54%, 84.35
+223621247,★ Driver Gloves | Rezan the Red (Field-Tested), 12300, -2.43, 98.76%, 100.00
+223621496,Glock-18 | Bullet Queen (Factory New), 5479, -0.89, 95.17%, 74.46
+223621323,StatTrak™ Glock-18 | Water Elemental (Minimal Wear), 3179, -3.98, 95.18%, 89.44
+223621437,AK-47 | Asiimov (Minimal Wear), 5560, -3, 94.42%, 100.00
+223622482,AK-47 | Asiimov (Minimal Wear), 5563, -1.91, 94.47%, 100.00
+223622475,StatTrak™ Glock-18 | Water Elemental (Minimal Wear), 3149, -4.94, 94.25%, 89.44
+223622682,Five-SeveN | Hyper Beast (Field-Tested), 3948, -0.97, 96.88%, 68.56
+223622685,Desert Eagle | Mecha Industries (Factory New), 1057, -0.88, 93.65%, 100.00
+223622789,M4A4 | Temukau (Field-Tested), 2227, -6, 94.54%, 100.00
+223622982,M4A4 | Temukau (Field-Tested), 2157, -8.16, 91.57%, 100.00
+223622714,StatTrak™ Glock-18 | Water Elemental (Minimal Wear), 3116, -6, 93.27%, 89.44
+223622804,SSG 08 | Big Iron (Minimal Wear), 1293, -6, 93.96%, 73.94
+223623031,AK-47 | Orbit Mk01 (Factory New), 2274, -6, 90.66%, 86.73
+223623030,AK-47 | Neon Rider (Field-Tested), 3783, -4, 93.86%, 100.00
+223622402,M4A4 | Temukau (Field-Tested), 2272, -3.98, 96.48%, 100.00
+223623027,SSG 08 | Big Iron (Minimal Wear), 1281, -6.93, 93.14%, 73.94
+223622990,StatTrak™ Glock-18 | Water Elemental (Minimal Wear), 3087, -6.93, 92.40%, 89.44
+223623160,M4A4 | Temukau (Field-Tested), 2158, -8.11, 91.64%, 100.00
+223623202,StatTrak™ Glock-18 | Water Elemental (Minimal Wear), 3058, -6.87, 91.52%, 89.44
+223623184,AK-47 | The Empress (Factory New), 16632, -1, 99.52%, 80.27
+223623366,AK-47 | Orbit Mk01 (Factory New), 2299, -3.89, 91.63%, 86.73
+223621769,★ Driver Gloves | Rezan the Red (Field-Tested), 12184, -3.41, 97.82%, 100.00
+223623522,AK-47 | The Empress (Factory New), 16476, -1.98, 98.59%, 80.27
+223623545,AWP | Hyper Beast (Minimal Wear), 6075, -2.96, 94.48%, 100.00
+223623544,AK-47 | Bloodsport (Minimal Wear), 12483, -5, 93.04%, 100.00
+223621433,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1575, -6.94, 93.97%, 100.00
+223623611,AK-47 | The Empress (Factory New), 16321, -2.96, 97.66%, 80.27
+223623674,AK-47 | Ice Coaled (Minimal Wear), 1307, -6, 92.62%, 100.00
+223624386,AK-47 | Ice Coaled (Minimal Wear), 1295, -6.92, 91.70%, 100.00
+223623597,★ Driver Gloves | Rezan the Red (Field-Tested), 12069, -4.37, 96.90%, 100.00
+223624420,AK-47 | Ice Coaled (Minimal Wear), 1241, -11.05, 87.89%, 100.00
+223624334,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1560, -7.89, 93.10%, 100.00
+223624383,AK-47 | The Empress (Factory New), 16168, -3.93, 96.75%, 80.27
+223624586,AK-47 | Ice Coaled (Minimal Wear), 1234, -10.67, 87.43%, 100.00
+223624421,M4A4 | Bullet Rain (Field-Tested), 1757, -3.99, 92.38%, 82.93
+223624422,P2000 | Amber Fade (Factory New), 1193, 0.17, 90.38%, 100.00
+223624635,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1560, -6.88, 93.10%, 100.00
+223624561,★ Hydra Gloves | Emerald (Battle-Scarred), 6944, 0, 100.00%, 70.01
+223624782,M4A4 | Hellfire (Minimal Wear), 5583, -6.04, 92.53%, 79.34
+223621223,★ Driver Gloves | Rezan the Red (Field-Tested), 12385, -1.71, 99.44%, 100.00
+223624793,AK-47 | Asiimov (Minimal Wear), 5461, -3.81, 92.76%, 100.00
+223624669,AK-47 | The Empress (Factory New), 16016, -4.89, 95.83%, 80.27
+223624791,AK-47 | Neon Rider (Field-Tested), 3821, -2.98, 94.79%, 100.00
+223624827,AK-47 | The Empress (Factory New), 15865, -5.84, 95.06%, 80.27
+223624826,★ Huntsman Knife | Rust Coat (Battle-Scarred), 13750, -1.52, 95.47%, 84.35
+223624482,★ Driver Gloves | Rezan the Red (Field-Tested), 11956, -5.33, 95.99%, 100.00
+223624829,AK-47 | Neon Revolution (Field-Tested), 1649, -1.04, 94.94%, 100.00
+223625263,Desert Eagle | Midnight Storm (Minimal Wear), 2670, -6, 102.05%, 89.58
+223625094,AK-47 | The Empress (Factory New), 15873, -4.79, 95.10%, 80.27
+223625159,★ Specialist Gloves | Buckshot (Field-Tested), 8491, -3.21, 93.86%, 97.21
+223622775,AK-47 | The Empress (Factory New), 16388, -2.54, 98.20%, 80.27
+223625604,Desert Eagle | Kumicho Dragon (Field-Tested), 1752, -2.02, 97.55%, 100.00
+223625844,USP-S | Purple DDPAT (Factory New), 1918, -0.03, 99.66%, 99.37
+223626672,AK-47 | Leet Museo (Factory New), 6717, 3.21, 95.22%, 76.06
+223625112,AK-47 | Neon Revolution (Field-Tested), 1634, -1.99, 94.10%, 100.00
+223622056,StatTrak™ M4A1-S | Player Two (Field-Tested), 5699, -0.01, 98.40%, 80.48
+223626875,M4A4 | Asiimov (Well-Worn), 13798, 0, 99.08%, 76.15
+223626876,Glock-18 | Dragon Tattoo (Factory New), 11132, 0, 93.30%, 96.47
+223626877,Desert Eagle | Golden Koi (Factory New), 11069, -0.01, 96.82%, 84.49
+223626879,USP-S | Orion (Factory New), 7254, -0.01, 100.72%, 99.64
+223625097,★ Huntsman Knife | Rust Coat (Battle-Scarred), 13621, -2.5, 94.57%, 84.35
+223621540,AK-47 | Neon Rider (Field-Tested), 3955, -0.42, 95.93%, 100.00
+223626757,Desert Eagle | Kumicho Dragon (Field-Tested), 1736, -2.97, 96.65%, 100.00
+223626616,StatTrak™ AWP | PAW (Factory New), 1647, -2.02, 101.00%, 94.96
+223627005,★ Huntsman Knife | Rust Coat (Battle-Scarred), 13686, -2, 95.03%, 84.35
+223626947,AK-47 | Neon Revolution (Field-Tested), 1619, -2.94, 93.25%, 100.00
+223622728,M4A4 | 龍王 (Dragon King) (Minimal Wear), 1621, -3.47, 98.22%, 100.00
+223627443,AK-47 | Neon Revolution (Field-Tested), 1604, -2.88, 92.31%, 100.00
+223627337,★ Falchion Knife | Rust Coat (Battle-Scarred), 12417, -3.99, 92.16%, 78.59
+223621243,AWP | Hyper Beast (Minimal Wear), 6201, -1.87, 97.27%, 100.00
+223621303,StatTrak™ M4A1-S | Leaded Glass (Minimal Wear), 2111, -3.72, 98.03%, 80.88
+223627459,StatTrak™ AK-47 | Slate (Factory New), 4272, -4.99, 92.52%, 100.00
+223627806,AK-47 | Nightwish (Field-Tested), 1275, -0.98, 95.02%, 100.00
+223617347,MAC-10 | Propaganda (Field-Tested), 3635, -4.04, 99.51%, 69.92
+223627260,StatTrak™ AWP | Fever Dream (Field-Tested), 2136, 0, 97.26%, 77.60
+223623474,StatTrak™ USP-S | The Traitor (Minimal Wear), 6822, -1.21, 94.73%, 71.74
+223626981,StatTrak™ Desert Eagle | Conspiracy (Field-Tested), 1654, -6, 96.21%, 68.61
+223630146,USP-S | The Traitor (Well-Worn), 1062, 1.19, 91.06%, 100.00
+223630229,AK-47 | Redline (Field-Tested), 1846, -3.02, 92.87%, 100.00
+223626894,AK-47 | Asiimov (Minimal Wear), 5667, -1.02, 96.43%, 100.00
+223630514,StatTrak™ Desert Eagle | Conspiracy (Field-Tested), 1638, -6.97, 95.27%, 68.61
+223631650,Five-SeveN | Fairy Tale (Minimal Wear), 2945, -3.24, 91.59%, 69.00
+223631870,Glock-18 | Gamma Doppler (Factory New), 7538, -2.08, 97.09%, 82.33
+223631984,AWP | Electric Hive (Minimal Wear), 4428, -0.9, 95.37%, 89.92
+223626946,StatTrak™ M4A1-S | Player Two (Field-Tested), 5645, -1.02, 97.47%, 80.48
+223621064,MAC-10 | Propaganda (Field-Tested), 3565, -6, 97.59%, 69.92
+223630855,Glock-18 | Gamma Doppler (Factory New), 7538, -2.08, 97.09%, 82.33
+223631475,AWP | Hyper Beast (Minimal Wear), 6188, -2.09, 97.06%, 100.00
+223631725,StatTrak™ M4A1-S | Leaded Glass (Minimal Wear), 2111, -3.72, 98.03%, 80.88
+223632170,AK-47 | Head Shot (Well-Worn), 1157, -4.96, 89.77%, 100.00
+223632250,Tec-9 | Isaac (Factory New), 1257, -3.99, 89.56%, 73.34
+223632195,AK-47 | Bloodsport (Minimal Wear), 12483, -5, 92.88%, 100.00
+223632208,M4A1-S | Hyper Beast (Minimal Wear), 5698, -4, 93.71%, 100.00
+223626991,Desert Eagle | Kumicho Dragon (Field-Tested), 1720, -3.92, 95.83%, 100.00
+223632642,M4A4 | Asiimov (Field-Tested), 18383, -2.97, 93.31%, 100.00
+223632217,AWP | Duality (Factory New), 1798, -0.11, 102.51%, 100.00
+223632209,AWP | Duality (Factory New), 1798, -0.11, 102.51%, 100.00
+223632205,AWP | Duality (Factory New), 1798, -0.11, 102.51%, 100.00
+223625082,AK-47 | Fuel Injector (Well-Worn), 13973, -1, 96.71%, 80.11
+223631181,MAC-10 | Propaganda (Field-Tested), 3564, -6.03, 97.55%, 69.92
+223625081,AK-47 | Vulcan (Well-Worn), 17163, -1.12, 100.19%, 74.98
+223633239,★ Hand Wraps | Duct Tape (Field-Tested), 7728, -3.99, 93.72%, 100.00
+223633333,AK-47 | Redline (Field-Tested), 1900, -1.03, 95.58%, 100.00
+223633395,AK-47 | Redline (Field-Tested), 1846, -3.02, 92.87%, 100.00
+223624285,AK-47 | Aquamarine Revenge (Well-Worn), 2200, -6.18, 92.92%, 97.06
+223626745,MP9 | Starlight Protector (Factory New), 2466, -0.75, 98.12%, 97.43
+223633696,M4A4 | 龍王 (Dragon King) (Factory New), 3844, -0.97, 97.00%, 88.21
+223632804,StatTrak™ AK-47 | Legion of Anubis (Minimal Wear), 4032, -6, 97.33%, 83.58
+223626753,AK-47 | The Empress (Factory New), 16377, -2.61, 98.13%, 80.27
+223633708,StatTrak™ AK-47 | Legion of Anubis (Minimal Wear), 3994, -5.95, 96.39%, 83.58
+223633704,AWP | Duality (Factory New), 1731, -4.06, 98.70%, 100.00
+223633710,M4A4 | 龍王 (Dragon King) (Factory New), 3806, -2.01, 96.06%, 88.21
+223633843,★ Hand Wraps | Duct Tape (Field-Tested), 8110, 0, 98.36%, 100.00
+223633966,AWP | Duality (Factory New), 1715, -5, 97.77%, 100.00
+223634123,AK-47 | Frontside Misty (Field-Tested), 1333, -3.02, 90.60%, 100.00
+223633969,M4A4 | 龍王 (Dragon King) (Factory New), 3770, -2.99, 95.15%, 88.21
+223634129,USP-S | The Traitor (Well-Worn), 1062, 1.19, 91.06%, 100.00
+223634125,AWP | Duality (Factory New), 1699, -4.94, 96.94%, 100.00
+223634130,AWP | Hyper Beast (Minimal Wear), 6060, -3.21, 95.07%, 100.00
+223634149,M4A4 | 龍王 (Dragon King) (Factory New), 3660, -4.99, 92.36%, 88.21
+223634560,★ Specialist Gloves | Buckshot (Field-Tested), 8593, -1.97, 95.00%, 97.21
+223626994,StatTrak™ USP-S | The Traitor (Minimal Wear), 6821, -1.22, 94.71%, 71.74
+223634128,Desert Eagle | Midnight Storm (Minimal Wear), 2723, -4.01, 104.11%, 89.58
+223634822,Desert Eagle | Midnight Storm (Minimal Wear), 2697, -4.99, 103.11%, 89.58
+223627519,M4A4 | 龍王 (Dragon King) (Minimal Wear), 1620, -3.53, 98.13%, 100.00
+223634893,Glock-18 | Dragon Tattoo (Factory New), 10820, -1.94, 90.78%, 96.47
+223634898,USP-S | Orion (Factory New), 6912, -4, 95.54%, 99.64
+223634892,M4A4 | Asiimov (Well-Worn), 13147, -3.99, 94.40%, 76.15
+223634895,Desert Eagle | Golden Koi (Factory New), 10547, -4, 92.25%, 84.49
+223634914,StatTrak™ AK-47 | The Empress (Minimal Wear), 15957, -3.99, 92.17%, 70.42
+223634926,★ Specialist Gloves | Buckshot (Field-Tested), 8510, -2.98, 92.01%, 97.21
+223634931,★ Hand Wraps | Constrictor (Field-Tested), 8033, -2.96, 92.50%, 91.32
+223634953,M4A4 | The Emperor (Minimal Wear), 4553, -3.98, 92.65%, 100.00
+223634952,M4A4 | The Emperor (Minimal Wear), 4553, -3.98, 92.65%, 100.00
+223632290,StatTrak™ M4A1-S | Player Two (Field-Tested), 5592, -2, 96.54%, 80.48
+223635322,★ Driver Gloves | Overtake (Field-Tested), 12100, -5.01, 94.76%, 99.15
+223635000,Desert Eagle | Midnight Storm (Minimal Wear), 2672, -5.93, 102.12%, 89.58
+223634966,StatTrak™ AWP | Mortis (Factory New), 2038, 0.14, 95.43%, 85.71
+223634881,StatTrak™ AWP | Neo-Noir (Factory New), 10609, -6, 94.38%, 80.76
+223635395,Desert Eagle | Midnight Storm (Minimal Wear), 2647, -6.86, 101.18%, 89.58
+223635133,USP-S | Cortex (Factory New), 1195, 1, 95.08%, 100.00
+223631239,StatTrak™ USP-S | The Traitor (Minimal Wear), 6820, -1.24, 94.84%, 71.74
+223635138,AWP | Hyper Beast (Well-Worn), 2622, -0.02, 102.48%, 93.91
+223635465,StatTrak™ AWP | Neo-Noir (Factory New), 10609, -6, 94.38%, 80.76
+223635555,★ Driver Gloves | Overtake (Field-Tested), 11981, -5, 93.83%, 99.15
+223634917,StatTrak™ M4A4 | Temukau (Minimal Wear), 14808, -6, 96.87%, 76.76
+223634951,StatTrak™ AK-47 | Frontside Misty (Minimal Wear), 6950, -6, 93.01%, 71.70
+223635570,AWP | Hyper Beast (Well-Worn), 2597, -1.03, 101.46%, 93.91
+223635620,StatTrak™ AK-47 | Slate (Minimal Wear), 1507, -2.95, 88.78%, 100.00
+223634115,★ Hand Wraps | Duct Tape (Field-Tested), 8000, -1.44, 94.70%, 100.00
+223634998,StatTrak™ Glock-18 | Water Elemental (Field-Tested), 1669, -3.04, 98.27%, 100.00
+223635511,USP-S | Purple DDPAT (Factory New), 1900, -1.03, 98.73%, 99.37
+223635625,StatTrak™ M4A4 | Temukau (Minimal Wear), 14669, -6.94, 95.96%, 76.76
+223635627,StatTrak™ AK-47 | Frontside Misty (Minimal Wear), 6885, -6.94, 92.14%, 71.70
+223635573,StatTrak™ AWP | Neo-Noir (Factory New), 10509, -6.94, 93.48%, 80.76
+223624331,★ Hand Wraps | Duct Tape (Field-Tested), 8110, 0, 96.01%, 100.00
+223636233,StatTrak™ AK-47 | Frontside Misty (Minimal Wear), 6808, -7.06, 91.11%, 71.70
+223636228,StatTrak™ M4A4 | Temukau (Minimal Wear), 14507, -7.05, 94.90%, 76.76
+223636248,StatTrak™ AWP | Neo-Noir (Factory New), 10514, -5.91, 93.54%, 80.76
+223636246,M4A4 | Spider Lily (Factory New), 1965, 0.15, 93.06%, 84.71
+223636016,★ Hand Wraps | Duct Tape (Field-Tested), 7979, -0.67, 94.45%, 100.00
+223635606,StatTrak™ USP-S | Guardian (Factory New), 1325, -6, 93.14%, 94.88
+223636259,★ Hand Wraps | Duct Tape (Field-Tested), 8034, -0.99, 95.11%, 100.00
+223635641,AWP | Hyper Beast (Well-Worn), 2548, -3.01, 99.55%, 93.91
+223627371,★ Huntsman Knife | Rust Coat (Battle-Scarred), 13493, -3.47, 93.83%, 84.35
+223636484,StatTrak™ USP-S | Guardian (Factory New), 1326, -4.94, 93.25%, 94.88
+223635990,USP-S | Purple DDPAT (Factory New), 1882, -2.02, 97.80%, 99.37
+223636531,★ Huntsman Knife | Rust Coat (Battle-Scarred), 13366, -3.42, 92.95%, 84.35
+223636364,StatTrak™ MP9 | Starlight Protector (Field-Tested), 1021, -6, 95.87%, 93.49
+223625111,AK-47 | Asiimov (Minimal Wear), 5667, -1.02, 96.11%, 100.00
+223636814,USP-S | Purple DDPAT (Factory New), 1864, -3.02, 96.87%, 99.37
+223633792,AK-47 | The Empress (Factory New), 16365, -2.69, 97.99%, 80.27
+223633337,MAC-10 | Propaganda (Field-Tested), 3635, -4.04, 99.82%, 69.92
+223635055,M4A4 | 龍王 (Dragon King) (Minimal Wear), 1618, -3.66, 97.26%, 100.00
+223640132,AWP | Electric Hive (Factory New), 7282, 1.14, 92.40%, 86.06
+223621069,StatTrak™ M4A1-S | Emphorosaur-S (Factory New), 1446, -6, 91.45%, 86.80
+223626435,★ Broken Fang Gloves | Needle Point (Field-Tested), 7286, -1.63, 98.09%, 100.00
+223640578,★ Driver Gloves | Queen Jaguar (Field-Tested), 10328, 16, 111.24%, 97.70
+223640590,USP-S | The Traitor (Field-Tested), 1309, -1.91, 89.73%, 100.00
+223640801,P2000 | Amber Fade (Factory New), 1215, 2.11, 95.89%, 100.00
+223641881,AK-47 | Head Shot (Field-Tested), 1770, -2.95, 94.19%, 100.00
+223641882,StatTrak™ Desert Eagle | Mecha Industries (Field-Tested), 1063, -2.93, 92.23%, 100.00
+223641055,StatTrak™ Glock-18 | Water Elemental (Factory New), 6056, -6, 92.54%, 75.29
+223636871,AK-47 | Red Laminate (Field-Tested), 4735, -1.03, 95.72%, 96.20
+223642060,Desert Eagle | Mecha Industries (Factory New), 1026, -4.03, 94.17%, 100.00
+223641924,StatTrak™ Glock-18 | Water Elemental (Factory New), 5999, -5.95, 91.67%, 75.29
+223622732,AK-47 | Neon Rider (Minimal Wear), 7599, -2.71, 96.47%, 100.00
+223642294,AK-47 | Nightwish (Field-Tested), 1214, -5.01, 91.20%, 100.00
+223636638,AK-47 | Redline (Field-Tested), 1900, -1.03, 93.73%, 100.00
+223642209,USP-S | Purple DDPAT (Factory New), 1828, -5.01, 95.01%, 99.37
+223642396,Glock-18 | Water Elemental (Factory New), 1420, 1.26, 92.77%, 100.00
+223640817,MAC-10 | Propaganda (Field-Tested), 3649, -3.64, 100.22%, 69.92
+223642257,Desert Eagle | Code Red (Well-Worn), 1913, -5.01, 92.81%, 100.00
+223642284,AK-47 | Neon Rider (Minimal Wear), 7499, -3.05, 95.18%, 100.00
+223642457,StatTrak™ M4A4 | Magnesium (Factory New), 1062, -4.08, 91.96%, 78.04
+223642239,AWP | Duality (Factory New), 1698, -6, 98.03%, 100.00
+223642350,AK-47 | Redline (Field-Tested), 1882, -2.02, 92.85%, 100.00
+223642484,AK-47 | The Empress (Minimal Wear), 5901, -4, 94.60%, 100.00
+223642422,USP-S | Purple DDPAT (Factory New), 1811, -5.94, 94.08%, 99.37
+223642510,AK-47 | Redline (Field-Tested), 1864, -3.02, 91.97%, 100.00
+223642630,AK-47 | Redline (Field-Tested), 1810, -5.01, 89.32%, 100.00
+223634819,StatTrak™ USP-S | The Traitor (Minimal Wear), 6819, -1.25, 94.84%, 71.74
+223642480,AK-47 | Aquamarine Revenge (Field-Tested), 3704, 5.61, 100.35%, 100.00
+223642681,★ Hand Wraps | Constrictor (Field-Tested), 7953, -3.98, 91.57%, 91.32
+223642414,StatTrak™ AK-47 | Blue Laminate (Minimal Wear), 2702, -6, 94.32%, 85.85
+223642722,AK-47 | Asiimov (Minimal Wear), 5398, -6, 91.55%, 100.00
+223642578,USP-S | Purple DDPAT (Factory New), 1794, -5.89, 93.23%, 99.37
+223642704,StatTrak™ AK-47 | Blue Laminate (Minimal Wear), 2646, -7.11, 92.33%, 85.85
+223642776,StatTrak™ AK-47 | Blue Laminate (Field-Tested), 2400, -0.15, 98.40%, 94.19
+223635575,StatTrak™ USP-S | The Traitor (Minimal Wear), 6818, -1.27, 94.82%, 71.74
+223642870,MAC-10 | Stalker (Field-Tested), 1475, -3.24, 92.17%, 100.00
+223642901,P90 | Asiimov (Factory New), 4480, -5, 92.01%, 74.21
+223642910,Desert Eagle | Mecha Industries (Factory New), 1026, -4.03, 94.17%, 100.00
+223642989,StatTrak™ M4A4 | Temukau (Field-Tested), 4140, -5.01, 94.22%, 94.93
+223642991,M4A1-S | Hyper Beast (Field-Tested), 2528, -0.9, 92.28%, 100.00
+223642905,M4A4 | Buzz Kill (Factory New), 3627, -6, 99.15%, 78.81
+223642907,StatTrak™ Desert Eagle | Crimson Web (Field-Tested), 1519, -6, 96.78%, 85.27
+223642990,StatTrak™ Desert Eagle | Kumicho Dragon (Field-Tested), 3868, -6, 99.75%, 80.03
+223622940,Glock-18 | Gamma Doppler (Factory New), 7470, -3.02, 96.23%, 82.33
+223626737,Galil AR | Cerberus (Field-Tested), 2215, -0.02, 105.34%, 82.80
+223643181,M4A4 | Buzz Kill (Factory New), 3593, -6.94, 98.22%, 78.81
+223626763,Glock-18 | Gamma Doppler (Factory New), 7400, -3.99, 95.32%, 82.33
+223643182,StatTrak™ Desert Eagle | Crimson Web (Field-Tested), 1505, -6.92, 95.85%, 85.27
+223636479,★ Huntsman Knife | Damascus Steel (Field-Tested), 20554, -0.31, 97.81%, 66.14
+223643330,StatTrak™ M4A1-S | Nightmare (Minimal Wear), 5801, -0.95, 97.80%, 72.54
+223626653,★ Hand Wraps | Desert Shamagh (Field-Tested), 7445, -0.01, 96.54%, 100.00
+223626765,M4A4 | 龍王 (Dragon King) (Minimal Wear), 1644, -2.02, 98.83%, 100.00
+223643240,Glock-18 | Gamma Doppler (Factory New), 7400, -3.99, 95.32%, 82.33
+223643216,StatTrak™ Desert Eagle | Kumicho Dragon (Field-Tested), 3832, -6.93, 98.82%, 80.03
+223643350,StatTrak™ Desert Eagle | Crimson Web (Field-Tested), 1491, -6.86, 95.02%, 85.27
+223643334,Galil AR | Cerberus (Field-Tested), 2194, 0.03, 104.33%, 82.80
+223643340,M4A4 | Buzz Kill (Factory New), 3559, -7.87, 97.29%, 78.81
+223643557,M4A4 | Buzz Kill (Factory New), 3597, -5.83, 98.35%, 78.81
+223643512,Glock-18 | Neo-Noir (Minimal Wear), 2615, -1.02, 95.42%, 100.00
+223643788,Glock-18 | Neo-Noir (Minimal Wear), 2590, -0.98, 94.53%, 100.00
+223640733,AK-47 | Safety Net (Factory New), 1097, -0.42, 101.20%, 100.00
+223640739,StatTrak™ AWP | PAW (Factory New), 1678, -0.07, 102.89%, 94.96
+223643886,AK-47 | Nightwish (Field-Tested), 1238, -3.03, 92.91%, 100.00
+223643497,M4A4 | 龍王 (Dragon King) (Minimal Wear), 1629, -2.96, 97.95%, 100.00
+223643495,★ Hand Wraps | Desert Shamagh (Field-Tested), 7375, -1, 95.63%, 100.00
+223643916,P2000 | Amber Fade (Factory New), 1217, 2.28, 94.68%, 100.00
+223643986,M4A4 | 龍王 (Dragon King) (Minimal Wear), 1612, -4.04, 96.87%, 100.00
+223644226,★ Shadow Daggers | Ultraviolet (Field-Tested), 12251, 0, 96.70%, 71.96
+223644222,AK-47 | Neon Rider (Minimal Wear), 7798, -0.01, 98.52%, 100.00
+223644230,USP-S | Orion (Factory New), 7254, -0.01, 100.27%, 99.64
+223644239,AWP | Hyper Beast (Factory New), 12264, 0, 99.38%, 84.25
+223644252,AK-47 | Wasteland Rebel (Minimal Wear), 5201, -0.01, 97.74%, 78.36
+223644241,AK-47 | Frontside Misty (Factory New), 7252, 2.13, 92.83%, 76.21
+223644327,M4A4 | 龍王 (Dragon King) (Minimal Wear), 1597, -4.99, 95.99%, 100.00
+223644887,M4A4 | 龍王 (Dragon King) (Minimal Wear), 1549, -7.08, 93.15%, 100.00
+223644323,AK-47 | Neon Rider (Field-Tested), 3783, -4, 91.32%, 100.00
+223642482,AWP | Duality (Factory New), 1682, -6.94, 95.30%, 100.00
+223644994,AK-47 | Asiimov (Battle-Scarred), 2345, -1.96, 95.43%, 100.00
+223645000,StatTrak™ M4A4 | Temukau (Field-Tested), 4140, -6, 94.22%, 94.93
+223645010,MP9 | Starlight Protector (Factory New), 2366, -3.99, 94.97%, 97.43
+223645012,Tec-9 | Isaac (Factory New), 1283, -1.9, 91.42%, 73.34
+223643531,StatTrak™ Desert Eagle | Kumicho Dragon (Field-Tested), 3796, -7.86, 97.74%, 80.03
+223635568,Glock-18 | Bullet Queen (Minimal Wear), 1827, -0.03, 96.81%, 100.00
+223626892,USP-S | Purple DDPAT (Factory New), 1900, -1.03, 98.81%, 99.37
+223645035,M4A1-S | Hyper Beast (Field-Tested), 2550, -1.02, 94.22%, 100.00
+223645202,USP-S | Purple DDPAT (Factory New), 1882, -2.02, 97.88%, 99.37
+223645199,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1685, -0.03, 99.42%, 100.00
+223645201,StatTrak™ M4A1-S | Leaded Glass (Minimal Wear), 2187, -0.04, 101.59%, 80.88
+223644142,AK-47 | Head Shot (Minimal Wear), 3870, -2.72, 97.66%, 100.00
+223636448,AK-47 | Neon Rider (Minimal Wear), 7500, -4.06, 94.76%, 100.00
+223632312,AWP | Duality (Factory New), 1795, -0.29, 101.75%, 100.00
+223645231,StatTrak™ M4A1-S | Leaded Glass (Minimal Wear), 2125, -3.04, 98.71%, 80.88
+223645233,USP-S | Purple DDPAT (Factory New), 1864, -3.02, 96.95%, 99.37
+223624380,AK-47 | Ice Coaled (Minimal Wear), 1307, -6, 93.16%, 100.00
+223645234,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1637, -3.04, 96.64%, 100.00
+223645195,AK-47 | Asiimov (Field-Tested), 3021, -6, 91.38%, 100.00
+223645191,SG 553 | Integrale (Minimal Wear), 5100, -6, 96.25%, 85.74
+223648548,StatTrak™ M4A1-S | Leaded Glass (Minimal Wear), 2012, -7.55, 93.49%, 80.88
+223645221,M4A1-S | Hyper Beast (Field-Tested), 2526, -2.01, 93.38%, 100.00
+223648588,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1550, -7.51, 91.45%, 100.00
+223648568,USP-S | Purple DDPAT (Factory New), 1836, -3.57, 95.51%, 99.37
+223648680,SG 553 | Integrale (Minimal Wear), 5052, -5.94, 95.33%, 85.74
+223648734,M4A1-S | Hyper Beast (Field-Tested), 2527, -0.94, 93.38%, 100.00
+223642669,StatTrak™ USP-S | The Traitor (Minimal Wear), 6817, -1.28, 94.82%, 71.74
+223642516,MAC-10 | Propaganda (Field-Tested), 3635, -4.04, 99.82%, 69.92
+223644096,★ Hand Wraps | Desert Shamagh (Field-Tested), 7306, -1.99, 94.74%, 100.00
+223644091,M4A4 | 龍王 (Dragon King) (Minimal Wear), 1614, -3.91, 96.97%, 100.00
+223643308,AK-47 | Nightwish (Field-Tested), 1232, -4.52, 93.00%, 100.00
+223648874,AK-47 | Nightwish (Field-Tested), 1226, -4.02, 92.51%, 100.00
+223648786,M4A4 | Temukau (Field-Tested), 2271, -2.99, 95.48%, 100.00
+223633303,AK-47 | Vulcan (Well-Worn), 17163, -1.12, 100.19%, 74.98
+223648856,★ Hand Wraps | Desert Shamagh (Field-Tested), 7309, -0.9, 94.79%, 100.00
+223633690,MP9 | Starlight Protector (Factory New), 2455, -1.22, 98.56%, 97.43
+223641053,AK-47 | Head Shot (Minimal Wear), 3945, -0.72, 99.55%, 100.00
+223632858,AWP | Duality (Factory New), 1793, -0.41, 101.57%, 100.00
+223632861,AWP | Duality (Factory New), 1793, -0.41, 101.57%, 100.00
+223632867,AWP | Duality (Factory New), 1793, -0.41, 101.57%, 100.00
+223643005,StatTrak™ USP-S | The Traitor (Minimal Wear), 6816, -1.3, 94.79%, 71.74
+223649151,USP-S | Orion (Factory New), 7254, -0.01, 100.27%, 99.64
+223649143,StatTrak™ AK-47 | Head Shot (Minimal Wear), 10071, -1.01, 96.13%, 74.25
+223643385,★ Huntsman Knife | Damascus Steel (Field-Tested), 20444, -0.87, 98.18%, 66.14
+223649171,AK-47 | Vulcan (Well-Worn), 17002, -1.07, 99.25%, 74.98
+223649920,Glock-18 | Water Elemental (Factory New), 1418, 1.11, 92.76%, 100.00
+223650026,AK-47 | Neon Rider (Field-Tested), 3737, -5.25, 90.22%, 100.00
+223649371,AK-47 | The Empress (Field-Tested), 3630, -0.01, 94.29%, 100.00
+223649372,AWP | Duality (Factory New), 1781, -1.11, 100.92%, 100.00
+223649373,AWP | Duality (Factory New), 1781, -1.11, 100.92%, 100.00
+223649398,AWP | Duality (Factory New), 1781, -1.11, 100.92%, 100.00
+223637818,AK-47 | Asiimov (Minimal Wear), 5697, -0.46, 94.37%, 100.00
+223633207,AK-47 | Fuel Injector (Well-Worn), 13973, -1, 96.43%, 80.11
+223649743,Five-SeveN | Hyper Beast (Field-Tested), 3911, -1.96, 95.96%, 68.56
+223649937,StatTrak™ AK-47 | Head Shot (Minimal Wear), 9976, -2, 95.23%, 74.25
+223649938,USP-S | Orion (Factory New), 7186, -1, 99.32%, 99.64
+223649915,AUG | Carved Jade (Factory New), 2424, -3.03, 97.32%, 97.44
+223649914,SG 553 | Integrale (Minimal Wear), 5253, -3, 99.14%, 85.74
+223650395,Five-SeveN | Hyper Beast (Field-Tested), 3874, -2.94, 95.09%, 68.56
+223650118,AK-47 | The Empress (Field-Tested), 3596, -1.01, 93.40%, 100.00
+223650462,AK-47 | Ice Coaled (Minimal Wear), 1307, -5.01, 93.16%, 100.00
+223650467,AK-47 | Safety Net (Factory New), 1039, -5.04, 96.23%, 100.00
+223650614,AK-47 | Frontside Misty (Field-Tested), 1387, 1.19, 92.41%, 100.00
+223650343,StatTrak™ AWP | Chromatic Aberration (Field-Tested), 2086, 6.67, 92.09%, 92.05
+223650160,AWP | Duality (Factory New), 1781, -1.11, 100.92%, 100.00
+223650169,AWP | Duality (Factory New), 1781, -1.11, 100.92%, 100.00
+223650184,AWP | Duality (Factory New), 1781, -1.11, 100.92%, 100.00
+223650773,AK-47 | Green Laminate (Field-Tested), 1478, -4.99, 95.28%, 79.38
+223650628,AK-47 | Redline (Field-Tested), 1846, -3.02, 90.72%, 100.00
+223649058,MAC-10 | Propaganda (Field-Tested), 3649, -3.64, 100.22%, 69.92
+223650568,StatTrak™ AK-47 | Head Shot (Minimal Wear), 9882, -2.98, 94.33%, 74.25
+223650566,USP-S | Orion (Factory New), 7118, -2, 98.38%, 99.64
+223650634,AK-47 | The Empress (Field-Tested), 3562, -2, 92.52%, 100.00
+223650580,SG 553 | Integrale (Minimal Wear), 5204, -3.96, 98.22%, 85.74
+223650584,AUG | Carved Jade (Factory New), 2401, -4, 96.41%, 97.44
+223650802,StatTrak™ M4A4 | Temukau (Field-Tested), 4136, -5.11, 94.15%, 94.93
+223650799,M4A4 | Temukau (Field-Tested), 3850, 68.63, 161.88%, 100.00
+223650800,AK-47 | The Empress (Field-Tested), 3672, 2.29, 95.39%, 100.00
+223650797,StatTrak™ Desert Eagle | Trigger Discipline (Factory New), 1073, -0.08, 97.49%, 90.65
+223650422,AK-47 | Fuel Injector (Well-Worn), 13973, -1, 96.43%, 80.11
+223650894,AK-47 | The Empress (Field-Tested), 3564, -0.89, 92.56%, 100.00
+223650868,USP-S | Orion (Factory New), 7051, -2.98, 97.46%, 99.64
+223650870,StatTrak™ AK-47 | Head Shot (Minimal Wear), 9789, -3.95, 93.44%, 74.25
+223650970,AUG | Carved Jade (Factory New), 2378, -4.98, 95.49%, 97.44
+223650971,SG 553 | Integrale (Minimal Wear), 5155, -4.92, 97.30%, 85.74
+223651050,StatTrak™ Desert Eagle | Trigger Discipline (Factory New), 1063, -1.06, 96.60%, 90.65
+223651141,StatTrak™ AK-47 | Head Shot (Minimal Wear), 9697, -3.89, 92.57%, 74.25
+223651023,USP-S | The Traitor (Field-Tested), 1346, -0.02, 92.51%, 100.00
+223643335,Glock-18 | Gamma Doppler (Factory New), 7330, -4.95, 93.83%, 82.33
+223616652,AK-47 | Head Shot (Minimal Wear), 3947, -0.66, 99.63%, 100.00
+223651139,USP-S | Orion (Factory New), 6985, -3.94, 96.56%, 99.64
+223651262,Glock-18 | Gamma Doppler (Factory New), 7261, -4.9, 92.94%, 82.33
+223651173,USP-S | Whiteout (Minimal Wear), 4416, -1.94, 90.71%, 100.00
+223651284,USP-S | Orion (Factory New), 6919, -3.9, 95.63%, 99.64
+223651233,AK-47 | Wasteland Rebel (Minimal Wear), 4907, -6, 92.20%, 78.36
+223651169,SG 553 | Integrale (Minimal Wear), 5100, -6, 96.25%, 85.74
+223651171,AUG | Carved Jade (Factory New), 2354, -6, 94.51%, 97.44
+223651196,USP-S | The Traitor (Field-Tested), 1333, -0.02, 91.61%, 100.00
+223651370,SG 553 | Integrale (Minimal Wear), 5052, -5.94, 95.33%, 85.74
+223651176,StatTrak™ Desert Eagle | Trigger Discipline (Factory New), 1053, -2.05, 95.71%, 90.65
+223651290,★ Shadow Daggers | Freehand (Field-Tested), 12767, -4, 100.86%, 72.20
+223651372,AK-47 | Wasteland Rebel (Minimal Wear), 4850, -6.16, 91.13%, 78.36
+223642319,AK-47 | Asiimov (Field-Tested), 3172, -1, 95.91%, 100.00
+223651018,MAC-10 | Propaganda (Field-Tested), 3635, -4.04, 99.82%, 69.92
+223651852,★ Hydra Gloves | Case Hardened (Field-Tested), 13200, -2.01, 97.32%, 100.00
+223652338,AK-47 | Fuel Injector (Well-Worn), 13973, -1, 96.43%, 80.11
+223651436,StatTrak™ Desert Eagle | Trigger Discipline (Factory New), 1043, -3.04, 94.82%, 90.65
+223651439,★ Shadow Daggers | Freehand (Field-Tested), 12647, -4.96, 99.91%, 72.20
+223652451,★ Hydra Gloves | Case Hardened (Field-Tested), 13076, -2.98, 96.40%, 100.00
+223648860,M4A4 | 龍王 (Dragon King) (Minimal Wear), 1599, -4.86, 96.09%, 100.00
+223652802,M4A4 | Desolate Space (Factory New), 2542, -4.01, 92.43%, 96.98
+223646028,M4A4 | Temukau (Minimal Wear), 7423, -3.71, 91.31%, 100.00
+223652803,Glock-18 | Water Elemental (Factory New), 1434, 2.3, 93.82%, 100.00
+223652800,Desert Eagle | Crimson Web (Minimal Wear), 2652, -6, 98.01%, 100.00
+223652797,M4A4 | 龍王 (Dragon King) (Minimal Wear), 1584, -4.8, 95.21%, 100.00
+223649251,MP9 | Starlight Protector (Factory New), 2444, -1.69, 98.10%, 97.43
+223652879,Five-SeveN | Angry Mob (Factory New), 1274, -2.96, 92.66%, 73.47
+223652872,AK-47 | Frontside Misty (Field-Tested), 1359, -0.95, 90.56%, 100.00
+223651257,P250 | Whiteout (Minimal Wear), 4179, -1, 95.86%, 79.98
+223652779,★ Hydra Gloves | Case Hardened (Field-Tested), 12953, -3.95, 95.50%, 100.00
+223652723,★ Shadow Daggers | Freehand (Field-Tested), 12768, -2.97, 100.86%, 72.20
+223648804,StatTrak™ USP-S | The Traitor (Minimal Wear), 6815, -1.31, 94.77%, 71.74
+223652903,Tec-9 | Decimator (Minimal Wear), 2580, -11.06, 94.97%, 77.96
+223652899,Glock-18 | Gamma Doppler (Factory New), 7457, -2.17, 95.46%, 82.33
+223652982,★ Hydra Gloves | Case Hardened (Field-Tested), 12831, -3.9, 94.60%, 100.00
+223652918,AK-47 | Legion of Anubis (Minimal Wear), 1279, 0.95, 96.09%, 100.00
+223633487,AK-47 | Vulcan (Battle-Scarred), 10495, 0, 99.25%, 79.08
+223652942,Desert Eagle | Crimson Web (Minimal Wear), 2627, -6.94, 94.39%, 100.00
+223653223,Desert Eagle | Crimson Web (Minimal Wear), 2602, -6.9, 93.45%, 100.00
+223652974,AK-47 | Asiimov (Field-Tested), 3111, -1.99, 94.09%, 100.00
+223652970,P250 | Whiteout (Minimal Wear), 4140, -1.98, 94.96%, 79.98
+223635996,StatTrak™ Glock-18 | Water Elemental (Field-Tested), 1653, -4.03, 94.24%, 100.00
+223652977,M4A4 | Temukau (Field-Tested), 2293, -3.04, 95.53%, 100.00
+223652978,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 4424, -3.02, 102.84%, 68.82
+223649922,StatTrak™ USP-S | The Traitor (Minimal Wear), 6814, -1.33, 94.77%, 71.74
+223653304,P250 | Whiteout (Minimal Wear), 4101, -2.96, 94.06%, 79.98
+223650308,AK-47 | Asiimov (Minimal Wear), 5721, -0.02, 95.88%, 100.00
+223653269,USP-S | Orion (Factory New), 6844, -5.01, 94.60%, 99.64
+223653267,MP9 | Hot Rod (Factory New), 10212, -5, 91.47%, 90.05
+223653941,P250 | Whiteout (Minimal Wear), 4040, -3.49, 92.68%, 79.98
+223651371,AUG | Carved Jade (Factory New), 2332, -6.93, 93.66%, 97.44
+223653508,Five-SeveN | Copper Galaxy (Factory New), 1123, -6, 96.23%, 92.02
+223653948,UMP-45 | Wild Child (Factory New), 1909, 10.14, 117.07%, 71.63
+223653973,★ Hand Wraps | Desert Shamagh (Field-Tested), 7445, -0.01, 96.68%, 100.00
+223654482,StatTrak™ AWP | Duality (Field-Tested), 1060, -4.96, 93.80%, 100.00
+223654025,StatTrak™ MP9 | Rose Iron (Factory New), 2026, -0.97, 97.88%, 71.17
+223653933,AWP | Graphite (Factory New), 19860, 0, 96.37%, 100.00
+223624799,★ Driver Gloves | Rezan the Red (Field-Tested), 12269, -2.69, 98.51%, 100.00
+223654160,AK-47 | Legion of Anubis (Minimal Wear), 1220, -4.01, 91.68%, 100.00
+223652944,Five-SeveN | Berries And Cherries (Factory New), 10400, 0, 98.78%, 81.38
+223653799,M4A4 | Temukau (Field-Tested), 2271, -4.02, 94.58%, 100.00
+223653804,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 4382, -4, 101.85%, 68.82
+223654014,P90 | Asiimov (Minimal Wear), 2079, -1, 97.78%, 100.00
+223654624,P90 | Asiimov (Minimal Wear), 2059, -2.01, 96.86%, 100.00
+223654631,★ Moto Gloves | 3rd Commando Company (Field-Tested), 8252, -2.95, 95.14%, 94.06
+223654583,★ Driver Gloves | Rezan the Red (Field-Tested), 12154, -3.66, 97.58%, 100.00
+223654623,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 4341, -4.95, 100.91%, 68.82
+223654626,M4A4 | Temukau (Field-Tested), 2250, -4.97, 93.69%, 100.00
+223654803,StatTrak™ MP9 | Rose Iron (Factory New), 2007, -1.96, 96.93%, 71.17
+223653989,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 4422, -3.07, 102.76%, 68.82
+223617452,P2000 | Fire Elemental (Minimal Wear), 1963, -0.58, 107.20%, 80.75
+223624388,★ Survival Knife | Boreal Forest (Field-Tested), 11450, -2.6, 95.40%, 67.83
+223652467,MAC-10 | Propaganda (Field-Tested), 3649, -3.64, 100.22%, 69.92
+223656211,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 4300, -5.91, 99.92%, 68.82
+223656170,M4A4 | Temukau (Field-Tested), 2229, -5.91, 92.81%, 100.00
+223656892,AK-47 | Neon Revolution (Field-Tested), 1665, -0.02, 95.79%, 100.00
+223635314,StatTrak™ M4A1-S | Player Two (Field-Tested), 5539, -2.99, 95.64%, 80.48
+223635314,StatTrak™ M4A1-S | Player Two (Field-Tested), 5539, -2.99, 95.64%, 80.48
+223658147,AK-47 | Redline (Field-Tested), 2946, 58.36, 145.03%, 100.00
+223658147,AK-47 | Redline (Field-Tested), 2946, 58.36, 145.03%, 100.00
+223658298,M4A4 | Temukau (Field-Tested), 2252, -3.84, 93.76%, 100.00
+223658298,M4A4 | Temukau (Field-Tested), 2252, -3.84, 93.76%, 100.00
+223658340,AK-47 | Neon Revolution (Field-Tested), 1649, -1.04, 94.85%, 100.00
+223658340,AK-47 | Neon Revolution (Field-Tested), 1649, -1.04, 94.85%, 100.00
+223650297,AK-47 | Asiimov (Field-Tested), 3202, -0.01, 96.85%, 100.00
+223650297,AK-47 | Asiimov (Field-Tested), 3202, -0.01, 96.85%, 100.00
+223652706,StatTrak™ Desert Eagle | Trigger Discipline (Factory New), 1033, -4.03, 94.07%, 90.65
+223652706,StatTrak™ Desert Eagle | Trigger Discipline (Factory New), 1033, -4.03, 94.07%, 90.65
+223658003,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 4339, -5, 100.83%, 68.82
+223658003,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 4339, -5, 100.83%, 68.82
+223624687,StatTrak™ AWP | PAW (Factory New), 1678, -0.07, 101.68%, 94.96
+223624687,StatTrak™ AWP | PAW (Factory New), 1678, -0.07, 101.68%, 94.96
+223624692,StatTrak™ AWP | PAW (Factory New), 1678, -0.07, 101.68%, 94.96
+223624692,StatTrak™ AWP | PAW (Factory New), 1678, -0.07, 101.68%, 94.96
+223654689,Five-SeveN | Berries And Cherries (Factory New), 10301, -1.01, 97.84%, 81.38
+223654689,Five-SeveN | Berries And Cherries (Factory New), 10301, -1.01, 97.84%, 81.38
+223658299,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 4260, -6.84, 99.02%, 68.82
+223658299,StatTrak™ Glock-18 | Neo-Noir (Field-Tested), 4260, -6.84, 99.02%, 68.82
+223650046,★ Huntsman Knife | Damascus Steel (Field-Tested), 20432, -0.93, 98.12%, 66.14
+223650046,★ Huntsman Knife | Damascus Steel (Field-Tested), 20432, -0.93, 98.12%, 66.14
+223658271,CZ75-Auto | Emerald (Factory New), 3326, -2.03, 93.25%, 86.27
+223658271,CZ75-Auto | Emerald (Factory New), 3326, -2.03, 93.25%, 86.27
+223641073,AK-47 | Asiimov (Minimal Wear), 5600, -2.26, 93.86%, 100.00
+223641073,AK-47 | Asiimov (Minimal Wear), 5600, -2.26, 93.86%, 100.00
+223644033,AK-47 | Point Disarray (Minimal Wear), 1730, -0.06, 97.97%, 100.00
+223644033,AK-47 | Point Disarray (Minimal Wear), 1730, -0.06, 97.97%, 100.00
+223653013,StatTrak™ USP-S | The Traitor (Minimal Wear), 6813, -1.35, 94.75%, 71.74
+223653013,StatTrak™ USP-S | The Traitor (Minimal Wear), 6813, -1.35, 94.75%, 71.74
+223653855,StatTrak™ USP-S | The Traitor (Minimal Wear), 6812, -1.36, 94.72%, 71.74
+223653855,StatTrak™ USP-S | The Traitor (Minimal Wear), 6812, -1.36, 94.72%, 71.74
+223653946,AK-47 | Asiimov (Minimal Wear), 5614, -2, 94.11%, 100.00
+223653946,AK-47 | Asiimov (Minimal Wear), 5614, -2, 94.11%, 100.00
+223658080,P2000 | Fire Elemental (Minimal Wear), 1878, -5.14, 102.58%, 80.75
+223658080,P2000 | Fire Elemental (Minimal Wear), 1878, -5.14, 102.58%, 80.75
+223622765,AWP | Wildfire (Factory New), 16637, 0, 95.54%, 91.36
+223622765,AWP | Wildfire (Factory New), 16637, 0, 95.54%, 91.36
+223652772,AWP | Hyper Beast (Minimal Wear), 6299, -0.22, 98.80%, 100.00
+223652772,AWP | Hyper Beast (Minimal Wear), 6299, -0.22, 98.80%, 100.00
+223629833,StatTrak™ AWP | Fever Dream (Factory New), 3800, 0, 98.69%, 73.79
+223629833,StatTrak™ AWP | Fever Dream (Factory New), 3800, 0, 98.69%, 73.79
+223646365,AWP | Duality (Factory New), 1783, -0.99, 102.24%, 100.00
+223646365,AWP | Duality (Factory New), 1783, -0.99, 102.24%, 100.00
+223654827,★ Driver Gloves | Rezan the Red (Field-Tested), 12230, -3.02, 98.20%, 100.00
+223654827,★ Driver Gloves | Rezan the Red (Field-Tested), 12230, -3.02, 98.20%, 100.00
+223643876,StatTrak™ Desert Eagle | Conspiracy (Minimal Wear), 1959, -3.92, 100.59%, 99.64
+223643876,StatTrak™ Desert Eagle | Conspiracy (Minimal Wear), 1959, -3.92, 100.59%, 99.64
+224490697,AWP | Duality (Factory New), 1766, -0.94, 92.97%, 100.00
+224490695,AK-47 | The Empress (Field-Tested), 3564, -0.89, 85.61%, 100.00
+224490684,Galil AR | Cerberus (Field-Tested), 2132, -2.99, 92.51%, 82.80
+224490679,StatTrak™ M4A1-S | Cyrex (Field-Tested), 5770, -0.9, 85.73%, 70.70
+224491022,M4A4 | Temukau (Field-Tested), 2458, 5.5, 92.30%, 100.00
+224491276,M4A4 | 龍王 (Dragon King) (Minimal Wear), 1743, 5.32, 94.69%, 100.00
+224491385,★ Hand Wraps | Duct Tape (Field-Tested), 8041, 0.14, 82.86%, 100.00
+224491294,★ Moto Gloves | Transport (Field-Tested), 8758, 0.22, 87.59%, 96.79
+224491309,USP-S | The Traitor (Field-Tested), 1394, 4.87, 86.73%, 100.00
+224495972,StatTrak™ M4A4 | In Living Color (Field-Tested), 1676, -2.01, 93.64%, 84.25
+224496768,Desert Eagle | Printstream (Minimal Wear), 6373, -3.99, 91.03%, 100.00
+224500121,M4A4 | The Coalition (Field-Tested), 3397, 1.22, 90.19%, 88.69
+224500127,USP-S | The Traitor (Field-Tested), 1389, 4.47, 87.67%, 100.00
+224500125,Glock-18 | Bullet Queen (Minimal Wear), 1830, 1.19, 87.95%, 100.00
+224500124,Galil AR | Cerberus (Field-Tested), 2132, -2.99, 92.45%, 82.80
+224500129,StatTrak™ Five-SeveN | Monkey Business (Field-Tested), 697, -5, 91.85%, 85.90
+224500128,SSG 08 | Dragonfire (Field-Tested), 1400, 10.09, 91.30%, 100.00
+224503857,M4A1-S | Guardian (Field-Tested), 2258, 1.04, 91.85%, 91.96
+224503869,USP-S | The Traitor (Field-Tested), 1346, 1.01, 84.99%, 100.00
+224504461,AK-47 | Bloodsport (Field-Tested), 11095, -0.97, 86.10%, 100.00
+224506291,AK-47 | Legion of Anubis (Minimal Wear), 1345, 6.42, 87.41%, 100.00
+224506880,★ Moto Gloves | Finish Line (Field-Tested), 17986, -2.97, 88.93%, 87.07
+224506799,StatTrak™ AWP | Duality (Field-Tested), 1147, 3.25, 91.32%, 100.00
+224507108,Five-SeveN | Copper Galaxy (Factory New), 1180, 0.14, 95.02%, 92.02
+224507113,Glock-18 | Bullet Queen (Minimal Wear), 1885, 4.44, 90.61%, 100.00
+224506893,SG 553 | Cyrex (Minimal Wear), 800, -3.07, 88.79%, 78.97
+224507369,AK-47 | Phantom Disruptor (Minimal Wear), 743, 3.17, 87.36%, 100.00
+224507371,StatTrak™ AK-47 | Frontside Misty (Field-Tested), 3668, 5.56, 101.72%, 82.73
+224504896,M4A1-S | Mecha Industries (Factory New), 9199, -0.34, 97.10%, 78.97
+224508113,StatTrak™ Glock-18 | Umbral Rabbit (Factory New), 747, 0.95, 93.67%, 79.52
+224508434,M4A4 | Asiimov (Battle-Scarred), 7469, -0.92, 97.83%, 100.00
+224508514,StatTrak™ AK-47 | Slate (Minimal Wear), 1681, 8.96, 87.47%, 100.00
+224508467,M4A1-S | Atomic Alloy (Factory New), 9525, 6.51, 93.78%, 69.64
+224509048,StatTrak™ M4A4 | Temukau (Minimal Wear), 15548, -1, 94.09%, 76.76
+224509084,Desert Eagle | Mecha Industries (Factory New), 1089, 2.27, 89.20%, 100.00
+224509238,StatTrak™ M4A4 | Temukau (Minimal Wear), 15255, -1.95, 92.32%, 76.76
+224509547,MAC-10 | Disco Tech (Factory New), 1533, 3.32, 94.77%, 84.28
+224509550,Desert Eagle | Conspiracy (Minimal Wear), 769, 8.94, 83.25%, 100.00
+224509533,Desert Eagle | Conspiracy (Factory New), 1061, 3.39, 85.12%, 100.00
+224510260,M4A1-S | Atomic Alloy (Factory New), 9625, 7.7, 94.76%, 69.64
+224511069,AK-47 | Ice Coaled (Factory New), 2302, -2.94, 89.44%, 100.00
+224511054,AK-47 | Redline (Field-Tested), 1956, 3.17, 92.11%, 100.00
+224511168,StatTrak™ AK-47 | Asiimov (Field-Tested), 7014, 0, 96.31%, 98.26
+224514490,★ Hydra Gloves | Case Hardened (Field-Tested), 13455, 1.07, 94.32%, 100.00
+224514639,StatTrak™ AK-47 | Slate (Field-Tested), 844, -2.1, 75.07%, 100.00
+224514728,USP-S | The Traitor (Field-Tested), 1389, 4.47, 87.67%, 100.00
+224514888,USP-S | Monster Mashup (Field-Tested), 2036, -2.99, 87.00%, 100.00
+224514893,Desert Eagle | Conspiracy (Factory New), 1138, 11.24, 91.85%, 100.00
+224516028,AK-47 | Asiimov (Minimal Wear), 5613, -0.98, 86.46%, 100.00
+224516866,AWP | Duality (Minimal Wear), 864, -4.96, 80.45%, 100.00
+224517012,P90 | Nostalgia (Minimal Wear), 865, 7.8, 88.35%, 79.25
+224518157,★ Hand Wraps | Desert Shamagh (Field-Tested), 7748, 3.2, 85.84%, 100.00
+224518295,MP9 | Hot Rod (Factory New), 10931, 2.11, 89.49%, 90.05
+224518307,USP-S | Whiteout (Minimal Wear), 4672, 4.1, 90.19%, 100.00
+224518425,StatTrak™ M4A4 | Desolate Space (Field-Tested), 1921, 0.13, 95.24%, 91.69
+224518628,AWP | Graphite (Factory New), 19860, 1.06, 95.54%, 100.00
+224518802,USP-S | Monster Mashup (Factory New), 4853, 0.17, 92.26%, 82.45
+224518826,StatTrak™ AK-47 | Rat Rod (Field-Tested), 1103, 1.22, 88.74%, 75.19
+224518835,AK-47 | Nightwish (Field-Tested), 1276, 0.18, 90.95%, 100.00
+224519041,★ Driver Gloves | Rezan the Red (Field-Tested), 12607, 1.22, 94.61%, 100.00
+224519056,StatTrak™ Glock-18 | Water Elemental (Field-Tested), 1738, 2.27, 88.48%, 100.00
+224519059,StatTrak™ USP-S | Blueprint (Field-Tested), 1480, 3.36, 96.70%, 84.01
+224519011,AK-47 | Asiimov (Field-Tested), 3179, 1.07, 86.76%, 100.00
+224519060,StatTrak™ Desert Eagle | Mecha Industries (Field-Tested), 1106, 1.2, 89.70%, 100.00
+224519027,★ Hand Wraps | Giraffe (Field-Tested), 10138, 8.94, 95.77%, 80.12
+224519063,StatTrak™ Five-SeveN | Monkey Business (Field-Tested), 710, -4.13, 93.56%, 85.90
+224519206,StatTrak™ Five-SeveN | Monkey Business (Field-Tested), 703, -4.13, 92.70%, 85.90
+224519549,M4A1-S | Control Panel (Minimal Wear), 1945, -1.09, 93.80%, 84.39
+224519320,Dual Berettas | Twin Turbo (Factory New), 1038, 4.43, 90.88%, 81.45
+224522494,StatTrak™ AK-47 | Asiimov (Field-Tested), 6886, -0.89, 94.55%, 98.26
+224522804,AK-47 | Legion of Anubis (Field-Tested), 801, -2.94, 84.25%, 100.00
+224521684,AUG | Carved Jade (Factory New), 2401, -4, 96.15%, 97.44
+224523801,AK-47 | Legion of Anubis (Field-Tested), 817, -0.9, 85.96%, 100.00
+224524391,AK-47 | Green Laminate (Minimal Wear), 1600, -0.86, 92.47%, 76.72
+224524178,AK-47 | Frontside Misty (Minimal Wear), 2795, 3.21, 92.61%, 100.00
+224524377,★ Broken Fang Gloves | Jade (Field-Tested), 15146, -0.5, 95.93%, 94.35
+224524627,AK-47 | Nightwish (Factory New), 9000, -2.49, 98.49%, 92.47
+224524173,Desert Eagle | Printstream (Minimal Wear), 6688, -0.01, 95.56%, 100.00
+224524174,M4A4 | 龍王 (Dragon King) (Factory New), 3879, -0.02, 97.99%, 88.21
+224524176,P2000 | Fire Elemental (Factory New), 3666, -0.02, 99.96%, 69.75
+224524642,AK-47 | Nightwish (Factory New), 8999, -2.5, 98.47%, 92.47
+224524682,AK-47 | Nightwish (Factory New), 8990, -2.61, 98.36%, 92.47
+224524683,StatTrak™ Desert Eagle | Blue Ply (Factory New), 889, -2.9, 87.36%, 74.98
+224524689,StatTrak™ Glock-18 | Bunsen Burner (Factory New), 678, -0.62, 92.44%, 67.29
+224524724,StatTrak™ AK-47 | Frontside Misty (Field-Tested), 3520, -0.01, 97.61%, 82.73
+224524740,★ Hand Wraps | Giraffe (Field-Tested), 9631, 3.19, 90.97%, 80.12
+224524781,★ Broken Fang Gloves | Jade (Field-Tested), 15004, -0.45, 95.03%, 94.35
+224524648,Desert Eagle | Printstream (Minimal Wear), 6691, 1.1, 95.40%, 100.00
+224526229,AK-47 | Nightwish (Field-Tested), 1263, -0.89, 84.62%, 100.00
+224557211,Desert Eagle | Printstream (Battle-Scarred), 3365, 1.22, 87.77%, 100.00

@@ -1,25 +1,19 @@
 // fileUtils.js
 const fs = require('fs').promises;
 
-async function readAndParseFile(filePath) {
-    try {
-        const data = await fs.readFile(filePath, 'utf8');
-        return data.split('\n').map(line => line.trim());
-    } catch (err) {
-        console.error(`Error reading ${filePath}: ${err}`);
-        return [];
-    }
-}
-
-async function readWhitelistFile() {
-    return await readAndParseFile('whitelist.txt');
-}
-
-async function readBlacklistFile() {
-    return await readAndParseFile('blacklist.txt');
+// Function to read and parse a file, returning an array of trimmed lines
+function readFileAndParse(filePath, callback) {
+    fs.readFile(filePath, 'utf8', (err, data) => {
+        if (err) {
+            console.error(`Error reading the file from ${filePath}:`, err);
+            callback(err, null);
+            return;
+        }
+        const lines = data.split('\n').map(line => line.trim());
+        callback(null, lines);
+    });
 }
 
 module.exports = {
-    readWhitelistFile,
-    readBlacklistFile,
+    readFileAndParse
 };
