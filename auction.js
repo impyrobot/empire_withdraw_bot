@@ -133,39 +133,6 @@ async function initSocket() {
             socket.on('trade_status', (data) => console.log(`trade_status: ${JSON.stringify(data)}`));
             
 
-            // //LISTED FOR NEW_ITEMS, filters items and then adds them to the storage array and prints to console
-            // socket.on('new_item', async (data) => { // Make the function async
-
-            //     const now = new Date();
-            //     const options = { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', timeZoneName: 'short' };
-            //     const timestamp = now.toLocaleString(undefined, options);
-            
-            //     const filteredItems = data.filter(item => 
-            //         whitelist.includes(item.market_name) && !blacklist.some(keyword => item.market_name.includes(keyword)) && item.above_recommended_price <= reccomenedPrice);
-            
-            //     // Add the filtered items to the storage array
-            //     filteredItemStorage.push(...filteredItems);
-            
-            //     // Process the filtered items with a for loop to await getBuff
-            //     for (const item of filteredItems) {
-            //         try {
-            //             const buffData = await getBuff(item.market_name, item.purchase_price);
-            //             if (buffData && buffData.buffPercentage !== undefined) {
-            //                 let buffPercentage = buffData.buffPercentage.toFixed(2);
-                            
-            //                 const logMessage = `NEW ITEM: ${timestamp}, ${item.id}, ${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}, Buff Percentage: ${buffPercentage}\n`;
-            
-            //                 // Write to console
-            //                 console.log('\x1b[32m%s\x1b[0m', logMessage);
-            //             } else {
-            //                 console.log('Buff data not found or buffPercentage is undefined for', item.market_name);
-            //             }
-            //         } catch (error) {
-            //             console.error('Error fetching buff data for', item.market_name, error);
-            //         }
-            //     }
-            // });
-
             // Listen for new items, filters items, then adds them to the storage array and prints to console
             socket.on('new_item', async (data) => {
 
@@ -185,20 +152,22 @@ async function initSocket() {
                         const buffData = await getBuff(item.market_name, item.purchase_price);
                         if (buffData && buffData.buffPercentage !== undefined) {
                             let buffPercentage = parseFloat(buffData.buffPercentage.toFixed(2));
+                            let buffLiquidity = parseFloat(buffData.buffLiquidity.toFixed(2));
 
                             // Further filter out items where buffPercentage is greater than 94
                             if (buffPercentage <= 94) {
 
-                                console.log("Bid on item here")
-                                
                                 // Construct the log message for items that meet all criteria
-                                const logMessage = `NEW ITEM: ${timestamp}, ${item.id}, ${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}, Buff Percentage: ${buffPercentage}\n`;
+                                const logMessage = `NEW ITEM: ${timestamp}, ${item.id}, ${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}, ${buffPercentage}% buff, ${buffLiquidity} liquid\n`;
 
                                 // Write to console
                                 console.log('\x1b[32m%s\x1b[0m', logMessage);
 
                                 // Add the item to the furtherFilteredItems array
                                 furtherFilteredItems.push(item);
+
+                                console.log("Bid on item here")
+                                //BID HERE
                             } else {
                                 console.log(`Item ${item.market_name} with Buff Percentage: ${buffPercentage} filtered out as it's above the threshold.`);
                             }
@@ -218,37 +187,79 @@ async function initSocket() {
             
             // socket.on('auction_update', (data) => console.log(`Auction Update: ${JSON.stringify(data, null, 2)}`));
 
-            socket.on('auction_update', (data) => {
+            // socket.on('auction_update', (data) => {
+            //     const now = new Date();
+            //     const options = { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', timeZoneName: 'short' };
+            //     const timestamp = now.toLocaleString(undefined, options);
+            
+            //     // Normalize data to always be an array
+            //     const updated_items = Array.isArray(data) ? data : [data];
+
+            
+            //     updated_items.forEach(item => {
+            //         // Find the item in the storage
+            //         const storageItemIndex = filteredItemStorage.findIndex(storageItem => storageItem.id === item.id);
+            
+            //         if (storageItemIndex !== -1) {
+                    
+            //             // If the item exists in 'filteredItemStorage' and the update contains valid price data, update it
+            //             if (typeof item.auction_highest_bid !== 'undefined' && item.auction_highest_bid !== null) {
+                            
+            //                 filteredItemStorage[storageItemIndex].purchase_price = item.auction_highest_bid;
+            //                 filteredItemStorage[storageItemIndex].above_recommended_price = item.above_recommended_price;
+            //                 filteredItemStorage[storageItemIndex].auction_number_of_bids = item.auction_number_of_bids;
+                            
+            //                 // Assuming logItem is a function for logging, you might want to adjust its usage according to your implementation
+                            
+            //                 logItem(filteredItemStorage[storageItemIndex], timestamp, 'ITEM_UPDATED');
+            //             }
+            
+
+            //         }
+            //     });
+            // });
+
+            socket.on('auction_update', async (data) => {
                 const now = new Date();
                 const options = { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', timeZoneName: 'short' };
                 const timestamp = now.toLocaleString(undefined, options);
             
                 // Normalize data to always be an array
                 const updated_items = Array.isArray(data) ? data : [data];
-
             
-                updated_items.forEach(item => {
-                    // Find the item in the storage
+                for (const item of updated_items) {
                     const storageItemIndex = filteredItemStorage.findIndex(storageItem => storageItem.id === item.id);
             
                     if (storageItemIndex !== -1) {
-                    
-                        // If the item exists in 'filteredItemStorage' and the update contains valid price data, update it
-                        if (typeof item.auction_highest_bid !== 'undefined' && item.auction_highest_bid !== null) {
-                            
-                            filteredItemStorage[storageItemIndex].purchase_price = item.auction_highest_bid;
-                            filteredItemStorage[storageItemIndex].above_recommended_price = item.above_recommended_price;
-                            filteredItemStorage[storageItemIndex].auction_number_of_bids = item.auction_number_of_bids;
-                            
-                            // Assuming logItem is a function for logging, you might want to adjust its usage according to your implementation
-                            
-                            logItem(filteredItemStorage[storageItemIndex], timestamp, 'ITEM_UPDATED');
-                        }
+                        // Re-fetch buff data to calculate the latest buff percentage based on the updated bid
+                        try {
+                            const buffData = await getBuff(filteredItemStorage[storageItemIndex].market_name, item.auction_highest_bid);
+                            if (buffData && buffData.buffPercentage !== undefined) {
+                                let newBuffPercentage = parseFloat(buffData.buffPercentage.toFixed(2));
             
+                                // Check if the new buff percentage is <= 94
+                                if (newBuffPercentage <= 94) {
+                                    // Update the item with the new auction data
+                                    filteredItemStorage[storageItemIndex].purchase_price = item.auction_highest_bid;
+                                    filteredItemStorage[storageItemIndex].above_recommended_price = item.above_recommended_price;
+                                    filteredItemStorage[storageItemIndex].auction_number_of_bids = item.auction_number_of_bids;
+                                    filteredItemStorage[storageItemIndex].buffPercentage = newBuffPercentage;
+                                    // Log the updated item information
+                                    logItem(filteredItemStorage[storageItemIndex], timestamp, 'ITEM_UPDATED');
 
+                                    console.log("Bid on item here")
+                                    //BID HERE
+                                } else {
+                                    console.log(`Updated bid for item ${item.id} exceeds 94% buff value, not updating.`);
+                                }
+                            }
+                        } catch (error) {
+                            console.error('Error updating buff data for', item.id, error);
+                        }
                     }
-                });
+                }
             });
+            
 
             
             socket.on('deleted_item', (data) => {
@@ -288,10 +299,10 @@ async function logItem(item, timestamp, logType) {
     // Append details to the log message based on the log type
     switch(logType) {
         case 'NEW_ITEM':
-            logMessage = `\x1b[32mNEW ITEM: ${logMessage}, NAME: ${item.market_name}, PRICE: ${item.price}, ABOVE RECOMMENDED: ${item.above_recommended_price}\x1b[0m`;
+            logMessage = `\x1b[32mNEW ITEM: ${logMessage}, ${item.market_name}, ${item.price}, ${item.above_recommended_price}, ${item.buffPercentage}\x1b[0m`;
             break;
         case 'ITEM_UPDATED':
-            logMessage = `\x1b[38;5;208mITEM UPDATED: ${logMessage}, NAME: ${item.market_name}, PURCHASE PRICE: ${item.purchase_price}, ABOVE RECOMMENDED: ${item.above_recommended_price}, BIDDERS: ${item.auction_number_of_bids}\x1b[0m`;
+            logMessage = `\x1b[38;5;208mITEM UPDATED: ${logMessage}, ${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}, ${item.auction_number_of_bids} bids, ${item.buffPercentage}%\x1b[0m`;
             break;
         case 'ITEM_DELETED':
             logMessage = `\x1b[31mITEM DELETED: ${logMessage}\x1b[0m`;

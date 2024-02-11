@@ -2362,3 +2362,234 @@
 224665931,★ Huntsman Knife | Bright Water (Field-Tested), 15023, -1.95, 90.23%, 72.22
 224665936,Desert Eagle | Crimson Web (Minimal Wear), 2760, -0.87, 84.71%, 100.00
 224666523,Desert Eagle | Midnight Storm (Minimal Wear), 2723, -4.01, 93.31%, 89.58
+224666838,M4A1-S | Hyper Beast (Field-Tested), 2735, 7.71, 88.24%, 100.00
+224667146,AK-47 | Point Disarray (Minimal Wear), 1730, 0.98, 87.42%, 100.00
+224666953,StatTrak™ M4A1-S | Basilisk (Field-Tested), 2035, 2.27, 93.42%, 80.52
+224667089,Glock-18 | Water Elemental (Minimal Wear), 798, 1.47, 88.13%, 100.00
+224666917,Desert Eagle | Crimson Web (Field-Tested), 869, 9.07, 94.01%, 100.00
+224670218,Desert Eagle | Midnight Storm (Minimal Wear), 2670, -6, 91.47%, 89.58
+224670484,M4A4 | 龍王 (Dragon King) (Factory New), 3660, -4.99, 92.17%, 88.21
+224670236,AK-47 | Leet Museo (Minimal Wear), 3234, 0, 90.48%, 89.50
+224670566,StatTrak™ AWP | Chromatic Aberration (Minimal Wear), 3969, -4.99, 92.59%, 77.49
+224670514,AK-47 | Frontside Misty (Field-Tested), 1401, 2.26, 84.91%, 100.00
+224671263,P90 | Nostalgia (Minimal Wear), 914, 13.01, 93.97%, 79.25
+224671420,StatTrak™ AK-47 | Point Disarray (Field-Tested), 2561, -5.92, 92.04%, 83.32
+224671065,Desert Eagle | Conspiracy (Minimal Wear), 811, 13.97, 87.37%, 100.00
+224671931,AK-47 | Asiimov (Battle-Scarred), 2416, 1.21, 91.49%, 100.00
+224672440,StatTrak™ Desert Eagle | Conspiracy (Factory New), 3366, 4, 91.75%, 91.94
+224672663,StatTrak™ Desert Eagle | Conspiracy (Factory New), 3309, 3.22, 90.20%, 91.94
+224671982,Desert Eagle | Printstream (Minimal Wear), 6192, -6.89, 89.30%, 100.00
+224672523,P90 | Nostalgia (Minimal Wear), 906, 11.97, 93.30%, 79.25
+224672709,M4A4 | Temukau (Field-Tested), 2435, 4.42, 88.89%, 100.00
+224672335,Desert Eagle | Conspiracy (Minimal Wear), 804, 12.93, 86.67%, 100.00
+224672729,AK-47 | Asiimov (Field-Tested), 3182, 1.17, 87.39%, 100.00
+224672722,M4A4 | The Coalition (Field-Tested), 3328, -0.97, 90.56%, 88.69
+224672877,P90 | Nostalgia (Minimal Wear), 899, 11.06, 92.46%, 79.25
+224672827,★ Bowie Knife | Rust Coat (Battle-Scarred), 13001, -1, 89.45%, 80.99
+224673063,SSG 08 | Dragonfire (Field-Tested), 1293, 1.22, 87.16%, 100.00
+224673216,P90 | Nostalgia (Minimal Wear), 891, 10.02, 91.62%, 79.25
+224673180,M4A4 | Temukau (Minimal Wear), 8491, 11, 93.85%, 100.00
+224672914,Desert Eagle | Conspiracy (Minimal Wear), 798, 12.05, 85.96%, 100.00
+224672956,P90 | Nostalgia (Minimal Wear), 906, 11.97, 93.30%, 79.25
+224672991,AK-47 | Legion of Anubis (Field-Tested), 926, 11.96, 93.13%, 100.00
+224673699,Desert Eagle | Kumicho Dragon (Factory New), 4300, 0.38, 84.89%, 91.81
+224673496,AK-47 | Bloodsport (Well-Worn), 10809, 0.16, 87.15%, 72.13
+224673718,UMP-45 | Momentum (Factory New), 1099, 8.96, 93.36%, 96.90
+224673762,P90 | Nostalgia (Minimal Wear), 883, 8.97, 90.79%, 79.25
+224673713,AK-47 | Wasteland Rebel (Minimal Wear), 5103, -2.01, 93.03%, 78.36
+224673896,M4A4 | Temukau (Minimal Wear), 8418, 10, 93.04%, 100.00
+224673923,Desert Eagle | Conspiracy (Minimal Wear), 784, 9.98, 84.56%, 100.00
+224673993,P90 | Nostalgia (Minimal Wear), 891, 10.02, 91.62%, 79.25
+224674237,M4A1-S | Hyper Beast (Minimal Wear), 6206, 4, 93.18%, 100.00
+224674253,M4A4 | 龍王 (Dragon King) (Field-Tested), 833, -5.04, 84.21%, 100.00
+224674050,AK-47 | Legion of Anubis (Field-Tested), 911, 10.05, 91.65%, 100.00
+224674272,AK-47 | Aquamarine Revenge (Well-Worn), 2400, 2.89, 88.42%, 97.06
+224674042,AK-47 | Neon Rider (Battle-Scarred), 2928, 15.99, 93.16%, 100.00
+224674225,UMP-45 | Momentum (Factory New), 1090, 8.02, 92.67%, 96.90
+224674248,P90 | Nostalgia (Minimal Wear), 876, 8.06, 90.12%, 79.25
+224674136,AK-47 | Wasteland Rebel (Minimal Wear), 5055, -1.94, 92.14%, 78.36
+224674271,M4A4 | Temukau (Minimal Wear), 8273, 8, 91.44%, 100.00
+224674268,StatTrak™ AK-47 | Head Shot (Minimal Wear), 10935, 8, 93.87%, 74.25
+224674308,Desert Eagle | Conspiracy (Minimal Wear), 777, 8.94, 83.68%, 100.00
+224674351,SSG 08 | Big Iron (Minimal Wear), 1487, 9, 93.83%, 73.94
+224674532,AK-47 | Head Shot (Well-Worn), 1318, 9.04, 84.91%, 100.00
+224674336,UMP-45 | Momentum (Factory New), 1099, 8.96, 93.36%, 96.90
+224674358,P90 | Nostalgia (Minimal Wear), 883, 8.97, 90.79%, 79.25
+224674393,AK-47 | Legion of Anubis (Field-Tested), 903, 9.03, 90.83%, 100.00
+224674498,UMP-45 | Momentum (Factory New), 1080, 6.97, 91.70%, 96.90
+224674529,P90 | Nostalgia (Minimal Wear), 868, 7.02, 89.28%, 79.25
+224674551,AK-47 | Head Shot (Factory New), 8909, 7, 93.67%, 92.01
+224674558,AK-47 | Head Shot (Factory New), 8909, 7, 93.67%, 92.01
+224674568,M4A4 | Temukau (Minimal Wear), 8200, 6.99, 90.63%, 100.00
+224674570,StatTrak™ AK-47 | Head Shot (Minimal Wear), 10839, 7, 93.04%, 74.25
+224675642,AK-47 | Neon Rider (Field-Tested), 4016, 2.28, 89.38%, 100.00
+224675712,AK-47 | Head Shot (Factory New), 8830, 6, 92.83%, 92.01
+224675739,M4A4 | Temukau (Minimal Wear), 8128, 6, 89.83%, 100.00
+224675732,StatTrak™ AK-47 | Head Shot (Minimal Wear), 10743, 6, 92.22%, 74.25
+224675301,Desert Eagle | Conspiracy (Minimal Wear), 771, 8.05, 83.16%, 100.00
+224675535,SSG 08 | Big Iron (Minimal Wear), 1474, 8, 93.01%, 73.94
+224675544,P90 | Nostalgia (Minimal Wear), 876, 8.06, 90.12%, 79.25
+224675439,UMP-45 | Momentum (Factory New), 1090, 8.02, 92.67%, 96.90
+224675591,AK-47 | Legion of Anubis (Field-Tested), 895, 8.01, 90.02%, 100.00
+224675917,★ Hand Wraps | Desert Shamagh (Field-Tested), 7800, 2.85, 86.64%, 100.00
+224675667,P90 | Nostalgia (Minimal Wear), 860, 5.98, 88.44%, 79.25
+224675638,UMP-45 | Momentum (Factory New), 1071, 6.03, 91.01%, 96.90
+224675698,AK-47 | Head Shot (Factory New), 8830, 6, 92.83%, 92.01
+224675593,★ Moto Gloves | Turtle (Field-Tested), 17737, -1, 93.95%, 89.09
+224675922,AK-47 | Head Shot (Factory New), 8909, 7, 93.67%, 92.01
+224675931,StatTrak™ AK-47 | Head Shot (Minimal Wear), 10839, 7, 93.04%, 74.25
+224675933,M4A4 | Temukau (Minimal Wear), 8200, 6.99, 90.63%, 100.00
+224676018,AK-47 | Bloodsport (Minimal Wear), 13231, 1.05, 93.21%, 100.00
+224676147,StatTrak™ AK-47 | Head Shot (Minimal Wear), 10647, 5, 91.39%, 74.25
+224676071,Glock-18 | Water Elemental (Factory New), 1477, 5.59, 90.70%, 100.00
+224676082,AK-47 | Head Shot (Factory New), 8751, 5, 92.01%, 92.01
+224676135,AK-47 | Asiimov (Minimal Wear), 5992, 5, 93.62%, 100.00
+224676156,M4A4 | Temukau (Minimal Wear), 8055, 5, 89.02%, 100.00
+224675944,Desert Eagle | Conspiracy (Minimal Wear), 764, 7.02, 82.28%, 100.00
+224675942,AK-47 | Head Shot (Factory New), 8909, 7, 93.67%, 92.01
+224676004,P90 | Nostalgia (Minimal Wear), 868, 7.02, 89.28%, 79.25
+224675998,SSG 08 | Big Iron (Minimal Wear), 1461, 6.99, 92.19%, 73.94
+224675971,UMP-45 | Momentum (Factory New), 1080, 6.97, 91.70%, 96.90
+224676063,P90 | Nostalgia (Minimal Wear), 852, 4.94, 87.60%, 79.25
+224676036,UMP-45 | Momentum (Factory New), 1061, 4.98, 90.18%, 96.90
+224676095,AK-47 | Head Shot (Factory New), 8751, 5, 92.01%, 92.01
+224676048,AK-47 | Legion of Anubis (Field-Tested), 887, 6.99, 89.20%, 100.00
+224675958,★ Moto Gloves | Turtle (Field-Tested), 17570, -1.99, 93.08%, 89.09
+224676008,Desert Eagle | Printstream (Battle-Scarred), 3362, 1.13, 87.95%, 100.00
+224676534,Desert Eagle | Conspiracy (Minimal Wear), 757, 5.98, 81.58%, 100.00
+224676076,AWP | Duality (Minimal Wear), 927, 2.33, 87.81%, 100.00
+224676469,AK-47 | Bloodsport (Field-Tested), 11202, 0.05, 87.49%, 100.00
+224676518,AK-47 | Head Shot (Factory New), 8830, 6, 92.83%, 92.01
+224676548,UMP-45 | Momentum (Factory New), 1052, 4.04, 89.35%, 96.90
+224676609,P90 | Nostalgia (Minimal Wear), 845, 4.03, 86.93%, 79.25
+224676537,M4A4 | Temukau (Minimal Wear), 8128, 6, 89.83%, 100.00
+224676487,M4A4 | Asiimov (Field-Tested), 18922, -1, 93.98%, 100.00
+224676636,AK-47 | Head Shot (Factory New), 8672, 3.99, 91.17%, 92.01
+224676546,AK-47 | Head Shot (Factory New), 8830, 6, 92.83%, 92.01
+224676776,M4A4 | Temukau (Field-Tested), 2316, -0.97, 84.55%, 100.00
+224676780,Desert Eagle | Kumicho Dragon (Field-Tested), 1788, 1.18, 85.25%, 100.00
+224676731,Desert Eagle | Printstream (Well-Worn), 4081, 0.16, 86.39%, 89.81
+224676850,P90 | Nostalgia (Minimal Wear), 837, 2.98, 86.10%, 79.25
+224676768,StatTrak™ AK-47 | Slate (Field-Tested), 951, 11.2, 80.22%, 100.00
+224676812,UMP-45 | Momentum (Factory New), 1042, 3, 88.52%, 96.90
+224676793,AK-47 | Head Shot (Factory New), 8751, 5, 92.01%, 92.01
+224676871,AK-47 | Head Shot (Factory New), 8594, 3.01, 90.35%, 92.01
+224676810,M4A4 | Temukau (Minimal Wear), 8055, 5, 89.02%, 100.00
+224676801,AK-47 | Asiimov (Minimal Wear), 5992, 5, 93.62%, 100.00
+224676774,M4A4 | Asiimov (Field-Tested), 18744, -1.99, 93.10%, 100.00
+224676940,Desert Eagle | Crimson Web (Minimal Wear), 2811, 1.05, 87.53%, 100.00
+224677053,Galil AR | Chromatic Aberration (Factory New), 1112, 1.96, 93.95%, 94.37
+224676970,AWP | BOOM (Minimal Wear), 11587, -2.96, 90.02%, 100.00
+224676969,★ Specialist Gloves | Marble Fade (Battle-Scarred), 19342, -2.97, 86.54%, 70.97
+224677089,P90 | Nostalgia (Minimal Wear), 829, 1.94, 85.26%, 79.25
+224677052,UMP-45 | Momentum (Factory New), 1032, 1.95, 87.69%, 96.90
+224677002,AK-47 | Head Shot (Factory New), 8672, 3.99, 91.17%, 92.01
+224677111,AK-47 | Head Shot (Factory New), 8515, 2, 89.53%, 92.01
+224677021,M4A4 | Temukau (Factory New), 18294, 4, 93.93%, 99.58
+224677039,M4A4 | Temukau (Minimal Wear), 7983, 4, 88.23%, 100.00
+224677025,AK-47 | Asiimov (Minimal Wear), 5938, 4, 92.78%, 100.00
+224677394,M4A4 | Temukau (Minimal Wear), 7910, 3, 87.42%, 100.00
+224677185,★ Navaja Knife | Rust Coat (Battle-Scarred), 10024, -1.95, 88.90%, 81.73
+224676495,★ Moto Gloves | Turtle (Field-Tested), 17405, -2.97, 92.20%, 89.09
+224677138,M4A4 | Asiimov (Field-Tested), 18568, -1.93, 92.23%, 100.00
+224677502,StatTrak™ M4A1-S | Leaded Glass (Minimal Wear), 2208, 0.98, 93.71%, 80.88
+224677451,P90 | Nostalgia (Minimal Wear), 822, 1.03, 84.59%, 79.25
+224677389,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1701, 0.98, 93.97%, 100.00
+224677396,UMP-45 | Momentum (Factory New), 1023, 1.01, 86.86%, 96.90
+224677365,AK-47 | Head Shot (Factory New), 8594, 3.01, 90.35%, 92.01
+224677494,AK-47 | Head Shot (Factory New), 8436, 1, 88.69%, 92.01
+224677375,M4A4 | Temukau (Factory New), 18128, 3, 93.08%, 99.58
+224677384,AK-47 | Asiimov (Minimal Wear), 5884, 3, 91.91%, 100.00
+224678021,Desert Eagle | Kumicho Dragon (Minimal Wear), 2906, 3.19, 87.37%, 100.00
+224677387,Glock-18 | Bullet Queen (Minimal Wear), 1864, 3.22, 88.35%, 100.00
+224676828,AK-47 | Head Shot (Factory New), 8751, 5, 92.01%, 92.01
+224677552,★ Driver Gloves | Rezan the Red (Field-Tested), 12236, -1.94, 91.76%, 100.00
+224678135,Desert Eagle | Kumicho Dragon (Factory New), 4300, 0.38, 84.89%, 91.81
+224677511,★ Moto Gloves | Turtle (Field-Tested), 17241, -2.92, 91.33%, 89.09
+224674275,M4A1-S | Hyper Beast (Minimal Wear), 5980, -0.01, 89.78%, 100.00
+224676297,★ Navaja Knife | Ultraviolet (Field-Tested), 11000, -0.88, 92.63%, 72.87
+224678203,M4A4 | The Emperor (Minimal Wear), 4691, -0.9, 89.20%, 100.00
+224678100,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1685, -0.03, 93.08%, 100.00
+224678097,AK-47 | Head Shot (Factory New), 8515, 2, 89.53%, 92.01
+224678065,USP-S | The Traitor (Field-Tested), 1416, 6.6, 85.88%, 100.00
+224678094,AK-47 | Asiimov (Minimal Wear), 5830, 2, 91.07%, 100.00
+224678090,M4A4 | Temukau (Factory New), 17961, 2, 92.22%, 99.58
+224678132,AK-47 | Head Shot (Factory New), 8515, 2, 89.53%, 92.01
+224678108,UMP-45 | Momentum (Factory New), 1033, 3.1, 87.83%, 96.90
+224678149,P90 | Nostalgia (Minimal Wear), 822, 2.07, 84.59%, 79.25
+224670996,MP5-SD | Phosphor (Factory New), 1079, 9.28, 90.33%, 80.26
+224678176,AK-47 | Head Shot (Factory New), 8525, 3.21, 89.63%, 92.01
+224679549,AK-47 | Nightwish (Field-Tested), 1286, -0.07, 85.04%, 100.00
+224678559,AK-47 | Head Shot (Field-Tested), 2173, 8.97, 85.80%, 100.00
+224678340,AK-47 | Blue Laminate (Minimal Wear), 1325, -1.01, 93.78%, 100.00
+224678308,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1670, -0.97, 92.27%, 100.00
+224678629,AK-47 | Head Shot (Field-Tested), 2173, 8.97, 85.80%, 100.00
+224680122,AK-47 | Head Shot (Field-Tested), 2173, 8.97, 85.80%, 100.00
+224678303,AK-47 | Head Shot (Factory New), 8436, 1, 88.69%, 92.01
+224678311,StatTrak™ M4A1-S | Leaded Glass (Minimal Wear), 2208, 0.98, 93.71%, 80.88
+224678524,M4A4 | Temukau (Factory New), 17795, 1, 91.37%, 99.58
+224678371,AK-47 | Asiimov (Minimal Wear), 5776, 1, 90.23%, 100.00
+224680906,StatTrak™ Desert Eagle | Light Rail (Factory New), 1894, -2.93, 88.11%, 70.15
+224681044,AK-47 | Nightwish (Field-Tested), 1302, 2.32, 86.11%, 100.00
+224681042,StatTrak™ M4A4 | In Living Color (Field-Tested), 1628, -5.02, 90.17%, 84.25
+224681072,Desert Eagle | Ocean Drive (Well-Worn), 1761, 1.23, 89.72%, 93.94
+224680921,AK-47 | Nightwish (Well-Worn), 972, 9.12, 85.16%, 100.00
+224680960,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1654, -1.97, 91.37%, 100.00
+224680951,StatTrak™ M4A1-S | Leaded Glass (Minimal Wear), 2188, 0.01, 92.88%, 80.88
+224680953,AK-47 | Asiimov (Minimal Wear), 5722, 0, 89.39%, 100.00
+224680952,M4A4 | Temukau (Factory New), 17629, 0, 90.51%, 99.58
+224680949,AK-47 | Head Shot (Factory New), 8441, 2.13, 88.74%, 92.01
+224678482,AK-47 | Head Shot (Factory New), 8436, 1, 88.69%, 92.01
+224680969,AK-47 | Blue Laminate (Minimal Wear), 1312, -1.01, 92.86%, 100.00
+224676594,SSG 08 | Big Iron (Minimal Wear), 1448, 5.99, 91.37%, 73.94
+224676570,UMP-45 | Momentum (Factory New), 1071, 6.03, 91.01%, 96.90
+224676613,P90 | Nostalgia (Minimal Wear), 860, 5.98, 88.44%, 79.25
+224676659,AK-47 | Legion of Anubis (Field-Tested), 879, 5.97, 88.38%, 100.00
+224681563,M4A4 | The Coalition (Minimal Wear), 8183, -2.97, 88.24%, 88.03
+224681552,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1638, -2.98, 90.47%, 100.00
+224681687,StatTrak™ M4A1-S | Leaded Glass (Minimal Wear), 2167, -1.01, 91.98%, 80.88
+224682650,★ Ursus Knife | Rust Coat (Battle-Scarred), 14522, -0.97, 89.35%, 83.43
+224682920,Glock-18 | Neo-Noir (Well-Worn), 904, -3.99, 88.80%, 100.00
+224682960,SG 553 | Colony IV (Field-Tested), 965, 2.09, 89.17%, 74.19
+224682471,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1606, -4.99, 88.92%, 100.00
+224683076,AK-47 | Head Shot (Field-Tested), 2043, 3.15, 82.84%, 100.00
+224683473,SSG 08 | Big Iron (Minimal Wear), 1358, -0.97, 85.71%, 65.57
+224683535,AK-47 | Wasteland Rebel (Minimal Wear), 5054, -3, 91.95%, 81.71
+224683550,AK-47 | Legion of Anubis (Field-Tested), 871, 4.96, 86.71%, 100.00
+224683644,USP-S | Whiteout (Minimal Wear), 4550, 1.23, 87.87%, 100.00
+224683585,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1590, -6, 88.02%, 100.00
+224683733,★ Moto Gloves | Polygon (Battle-Scarred), 16000, -0.12, 87.32%, 65.18
+224683807,USP-S | The Traitor (Field-Tested), 1417, 6.68, 88.15%, 100.00
+224683985,AK-47 | Nightwish (Field-Tested), 1263, -0.89, 84.99%, 100.00
+224683832,SSG 08 | Big Iron (Minimal Wear), 1358, -0.97, 85.71%, 65.57
+224683881,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1574, -7.01, 87.12%, 100.00
+224683871,AK-47 | Legion of Anubis (Field-Tested), 871, 4.96, 86.71%, 100.00
+224683866,AK-47 | Wasteland Rebel (Minimal Wear), 5005, -2.98, 91.03%, 81.71
+224683917,AK-47 | Asiimov (Field-Tested), 3211, 2.14, 88.15%, 100.00
+224684166,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1574, -7.01, 87.12%, 100.00
+224684450,AK-47 | Point Disarray (Field-Tested), 1039, -5.04, 85.18%, 100.00
+224684493,Desert Eagle | Kumicho Dragon (Factory New), 4300, 0.38, 85.28%, 86.10
+224684306,AK-47 | Head Shot (Battle-Scarred), 973, 1.2, 84.11%, 100.00
+224673264,★ Bowie Knife | Rust Coat (Battle-Scarred), 12879, -1.99, 88.96%, 77.38
+224684676,AK-47 | Head Shot (Field-Tested), 2173, 8.97, 88.12%, 100.00
+224684526,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1574, -7.01, 87.12%, 100.00
+224684465,★ Hand Wraps | Desert Shamagh (Field-Tested), 7760, 3.38, 86.63%, 98.12
+224685062,Desert Eagle | Printstream (Battle-Scarred), 3234, -2.97, 81.23%, 100.00
+224685065,USP-S | Monster Mashup (Minimal Wear), 3157, -3.98, 87.54%, 97.51
+224685142,M4A1-S | Nightmare (Factory New), 4662, -4.01, 88.45%, 91.74
+224685116,StatTrak™ AK-47 | Ice Coaled (Field-Tested), 1574, -7.01, 87.12%, 100.00
+224685135,M4A1-S | Nightmare (Factory New), 4663, -5, 88.45%, 91.74
+224678206,M4A1-S | Hyper Beast (Minimal Wear), 5924, -1, 88.24%, 100.00
+224685768,AK-47 | Head Shot (Well-Worn), 1193, -1.85, 77.65%, 100.00
+224685170,StatTrak™ Glock-18 | Water Elemental (Field-Tested), 1687, -0.88, 86.69%, 99.23
+224685854,AK-47 | The Empress (Field-Tested), 3600, 0.16, 84.00%, 100.00
+224685810,Glock-18 | Neo-Noir (Factory New), 6643, -3.99, 88.99%, 69.33
+224684197,SSG 08 | Big Iron (Minimal Wear), 1358, -0.97, 85.71%, 65.57
+224684295,AK-47 | Legion of Anubis (Field-Tested), 871, 4.96, 86.71%, 100.00
+224686350,AK-47 | Ice Coaled (Field-Tested), 761, 1.1, 83.39%, 100.00
+224685761,M4A1-S | Hyper Beast (Minimal Wear), 6167, 4.4, 91.85%, 100.00
+224686483,SSG 08 | Big Iron (Minimal Wear), 1358, -0.97, 85.71%, 65.57
+224686522,AK-47 | Legion of Anubis (Field-Tested), 871, 4.96, 86.71%, 100.00
+224686878,AK-47 | Frontside Misty (Minimal Wear), 2690, -0.89, 86.90%, 100.00
+224686900,★ Moto Gloves | Transport (Field-Tested), 8841, 1.22, 87.92%, 95.00
+224686927,★ Specialist Gloves | Buckshot (Battle-Scarred), 7842, 0.14, 86.40%, 63.46
