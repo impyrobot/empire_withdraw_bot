@@ -68,7 +68,7 @@ const reccomenedPrice= 15;
 
 filters = {
     price_min: 0,
-    price_max: 5000000,
+    price_max: 3928,
     // price_max: 999999,
     // wear_max: 0.38,
     // is_commodity: false,
@@ -166,8 +166,14 @@ async function initSocket() {
                                 // Add the item to the furtherFilteredItems array
                                 furtherFilteredItems.push(item);
 
-                                console.log("Bid on item here")
-                                //BID HERE
+                                //// BID HERE
+                                // api.placeBid(item.id, item.purchase_price + 2).then((response) => {
+                                //     console.log(`Bid placed successfully ${item.market_name} @ ${item.purchase_price + 1}:` , response);
+                                // }).catch((error) => {
+                                //     console.error("Error placing bid:", error);
+                                // }
+                                // );
+
                             } else {
                                 console.log(`Item ${item.market_name} with Buff Percentage: ${buffPercentage} filtered out as it's above the threshold.`);
                             }

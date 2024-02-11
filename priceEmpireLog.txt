@@ -2593,3 +2593,7 @@
 224686878,AK-47 | Frontside Misty (Minimal Wear), 2690, -0.89, 86.90%, 100.00
 224686900,★ Moto Gloves | Transport (Field-Tested), 8841, 1.22, 87.92%, 95.00
 224686927,★ Specialist Gloves | Buckshot (Battle-Scarred), 7842, 0.14, 86.40%, 63.46
+224693852,SSG 08 | Big Iron (Minimal Wear), 1358, -0.97, 85.71%, 65.57
+224693894,AK-47 | Legion of Anubis (Field-Tested), 871, 4.96, 86.99%, 100.00
+224695285,SSG 08 | Big Iron (Minimal Wear), 1358, -0.97, 85.71%, 65.57
+224695323,AK-47 | Legion of Anubis (Field-Tested), 871, 4.96, 86.99%, 100.00
