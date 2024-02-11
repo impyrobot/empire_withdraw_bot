@@ -134,55 +134,74 @@ async function initSocket() {
             
 
             // //LISTED FOR NEW_ITEMS, filters items and then adds them to the storage array and prints to console
-            // socket.on('new_item', (data) => {
+            // socket.on('new_item', async (data) => { // Make the function async
 
-            //     //SET TIMESTAMP
             //     const now = new Date();
             //     const options = { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', timeZoneName: 'short' };
             //     const timestamp = now.toLocaleString(undefined, options);
-
+            
             //     const filteredItems = data.filter(item => 
             //         whitelist.includes(item.market_name) && !blacklist.some(keyword => item.market_name.includes(keyword)) && item.above_recommended_price <= reccomenedPrice);
-
-            //             // Add the filtered items to the storage array
-            //             filteredItemStorage.push(...filteredItems);
-
-            //             // Process the filtered items
-            //             filteredItems.forEach(item => {
-            //                 // Log the item
-            //                 const logMessage = `NEW ITEM: ${timestamp}, ${item.id}, ${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}\n`;
-
+            
+            //     // Add the filtered items to the storage array
+            //     filteredItemStorage.push(...filteredItems);
+            
+            //     // Process the filtered items with a for loop to await getBuff
+            //     for (const item of filteredItems) {
+            //         try {
+            //             const buffData = await getBuff(item.market_name, item.purchase_price);
+            //             if (buffData && buffData.buffPercentage !== undefined) {
+            //                 let buffPercentage = buffData.buffPercentage.toFixed(2);
+                            
+            //                 const logMessage = `NEW ITEM: ${timestamp}, ${item.id}, ${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}, Buff Percentage: ${buffPercentage}\n`;
+            
             //                 // Write to console
             //                 console.log('\x1b[32m%s\x1b[0m', logMessage);
-            //             });
+            //             } else {
+            //                 console.log('Buff data not found or buffPercentage is undefined for', item.market_name);
+            //             }
+            //         } catch (error) {
+            //             console.error('Error fetching buff data for', item.market_name, error);
+            //         }
+            //     }
             // });
-            
 
-            // socket.on('new_item', (data) => console.log(`New Item: ${JSON.stringify(data)}`));
-
-            socket.on('new_item', async (data) => { // Make the function async
+            // Listen for new items, filters items, then adds them to the storage array and prints to console
+            socket.on('new_item', async (data) => {
 
                 const now = new Date();
                 const options = { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', timeZoneName: 'short' };
                 const timestamp = now.toLocaleString(undefined, options);
-            
+
                 const filteredItems = data.filter(item => 
                     whitelist.includes(item.market_name) && !blacklist.some(keyword => item.market_name.includes(keyword)) && item.above_recommended_price <= reccomenedPrice);
-            
-                // Add the filtered items to the storage array
-                filteredItemStorage.push(...filteredItems);
-            
-                // Process the filtered items with a for loop to await getBuff
+
+                // Initialize a new array to hold items after further filtering based on buffPercentage
+                let furtherFilteredItems = [];
+
+                // Process the filtered items with a for loop to await getBuff and further filter by buffPercentage
                 for (const item of filteredItems) {
                     try {
                         const buffData = await getBuff(item.market_name, item.purchase_price);
                         if (buffData && buffData.buffPercentage !== undefined) {
-                            let buffPercentage = buffData.buffPercentage.toFixed(2);
-                            
-                            const logMessage = `NEW ITEM: ${timestamp}, ${item.id}, ${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}, Buff Percentage: ${buffPercentage}\n`;
-            
-                            // Write to console
-                            console.log('\x1b[32m%s\x1b[0m', logMessage);
+                            let buffPercentage = parseFloat(buffData.buffPercentage.toFixed(2));
+
+                            // Further filter out items where buffPercentage is greater than 94
+                            if (buffPercentage <= 94) {
+
+                                console.log("Bid on item here")
+                                
+                                // Construct the log message for items that meet all criteria
+                                const logMessage = `NEW ITEM: ${timestamp}, ${item.id}, ${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}, Buff Percentage: ${buffPercentage}\n`;
+
+                                // Write to console
+                                console.log('\x1b[32m%s\x1b[0m', logMessage);
+
+                                // Add the item to the furtherFilteredItems array
+                                furtherFilteredItems.push(item);
+                            } else {
+                                console.log(`Item ${item.market_name} with Buff Percentage: ${buffPercentage} filtered out as it's above the threshold.`);
+                            }
                         } else {
                             console.log('Buff data not found or buffPercentage is undefined for', item.market_name);
                         }
@@ -190,7 +209,11 @@ async function initSocket() {
                         console.error('Error fetching buff data for', item.market_name, error);
                     }
                 }
+
+                // Add the further filtered items to the storage array
+                filteredItemStorage.push(...furtherFilteredItems);
             });
+           
             
             
             // socket.on('auction_update', (data) => console.log(`Auction Update: ${JSON.stringify(data, null, 2)}`));

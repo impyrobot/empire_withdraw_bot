@@ -2326,3 +2326,39 @@
 224524648,Desert Eagle | Printstream (Minimal Wear), 6691, 1.1, 95.40%, 100.00
 224526229,AK-47 | Nightwish (Field-Tested), 1263, -0.89, 84.62%, 100.00
 224557211,Desert Eagle | Printstream (Battle-Scarred), 3365, 1.22, 87.77%, 100.00
+224663707,AK-47 | Point Disarray (Minimal Wear), 1700, -1.9, 85.86%, 100.00
+224663837,USP-S | Blueprint (Minimal Wear), 1203, 1.05, 92.03%, 100.00
+224663762,M4A1-S | Nightmare (Factory New), 4710, -2.97, 89.24%, 91.82
+224663943,AK-47 | Point Disarray (Minimal Wear), 1705, -0.55, 86.10%, 100.00
+224663789,StatTrak™ Glock-18 | Bunsen Burner (Factory New), 689, 0, 94.00%, 67.29
+224663932,AK-47 | Frontside Misty (Field-Tested), 1372, 0.04, 83.14%, 100.00
+224663750,Desert Eagle | Printstream (Minimal Wear), 6562, -2.01, 93.72%, 100.00
+224664601,StatTrak™ Glock-18 | Bunsen Burner (Factory New), 683, 0.15, 93.33%, 67.29
+224664726,Glock-18 | Nuclear Garden (Factory New), 900, -12.77, 88.62%, 100.00
+224664724,MP9 | Hot Rod (Factory New), 10947, 2.26, 89.30%, 90.05
+224664604,StatTrak™ M4A4 | Buzz Kill (Minimal Wear), 4732, 0.13, 87.17%, 67.72
+224664659,Desert Eagle | Printstream (Minimal Wear), 6500, -2.99, 92.84%, 100.00
+224664870,M4A4 | 龍王 (Dragon King) (Minimal Wear), 1629, -1.95, 88.43%, 100.00
+224664871,AK-47 | Frontside Misty (Field-Tested), 1307, -6, 79.19%, 100.00
+224664771,★ Driver Gloves | Overtake (Field-Tested), 14867, 20.08, 109.55%, 99.15
+224664950,M4A4 | Buzz Kill (Factory New), 3699, -4.01, 93.96%, 78.81
+224665207,M4A4 | Buzz Kill (Factory New), 3663, -5.01, 93.05%, 78.81
+224665248,StatTrak™ AK-47 | Ice Coaled (Minimal Wear), 3315, -1, 90.73%, 100.00
+224664951,AK-47 | Aquamarine Revenge (Factory New), 10780, -3.92, 93.66%, 83.30
+224665298,M4A4 | Buzz Kill (Factory New), 3627, -6, 92.14%, 78.81
+224665340,M4A4 | Buzz Kill (Factory New), 3554, -7.02, 90.28%, 78.81
+224664948,Desert Eagle | Printstream (Minimal Wear), 6439, -3.96, 91.96%, 100.00
+224665274,AK-47 | Neon Rider (Minimal Wear), 8003, 0, 93.11%, 100.00
+224665372,AK-47 | Neon Rider (Minimal Wear), 7550, -4.99, 87.84%, 100.00
+224665080,USP-S | The Traitor (Field-Tested), 1429, 7.62, 87.10%, 100.00
+224665229,AK-47 | Neon Rider (Factory New), 17307, -1.97, 93.53%, 86.31
+224665437,AK-47 | Frontside Misty (Field-Tested), 1335, -2.86, 80.87%, 100.00
+224665376,StatTrak™ AK-47 | Ice Coaled (Minimal Wear), 3283, -0.96, 89.88%, 100.00
+224665378,Desert Eagle | Printstream (Minimal Wear), 6378, -4.92, 91.10%, 100.00
+224665642,USP-S | The Traitor (Field-Tested), 1431, 7.78, 87.20%, 100.00
+224665627,Desert Eagle | Kumicho Dragon (Field-Tested), 1804, 2.13, 87.45%, 100.00
+224665981,SSG 08 | Dragonfire (Field-Tested), 1339, 3.93, 89.07%, 100.00
+224665653,M4A4 | Temukau (Field-Tested), 2360, 1.05, 86.98%, 100.00
+224665931,★ Huntsman Knife | Bright Water (Field-Tested), 15023, -1.95, 90.23%, 72.22
+224665936,Desert Eagle | Crimson Web (Minimal Wear), 2760, -0.87, 84.71%, 100.00
+224666523,Desert Eagle | Midnight Storm (Minimal Wear), 2723, -4.01, 93.31%, 89.58
