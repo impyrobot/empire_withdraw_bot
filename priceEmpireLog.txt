@@ -2597,3 +2597,17 @@
 224693894,AK-47 | Legion of Anubis (Field-Tested), 871, 4.96, 86.99%, 100.00
 224695285,SSG 08 | Big Iron (Minimal Wear), 1358, -0.97, 85.71%, 65.57
 224695323,AK-47 | Legion of Anubis (Field-Tested), 871, 4.96, 86.99%, 100.00
+226228698,StatTrak™ M4A4 | Tooth Fairy (Minimal Wear), 1193, 2.27, 92.55%, 92.00
+226228860,AK-47 | Legion of Anubis (Field-Tested), 895, 8.01, 93.22%, 100.00
+226228288,AK-47 | Cartel (Minimal Wear), 1522, 14.99, 93.97%, 100.00
+226228863,USP-S | Purple DDPAT (Factory New), 1997, -5, 92.19%, 100.00
+226228322,AK-47 | Legion of Anubis (Field-Tested), 895, 8.01, 93.22%, 100.00
+226228764,StatTrak™ Desert Eagle | Kumicho Dragon (Field-Tested), 3946, -2.98, 93.88%, 76.12
+226228766,AK-47 | Redline (Field-Tested), 1946, -4.03, 93.73%, 100.00
+226228577,AK-47 | Legion of Anubis (Field-Tested), 895, 8.01, 93.22%, 100.00
+226228589,AK-47 | Cartel (Minimal Wear), 1522, 14.99, 93.97%, 100.00
+226228765,AK-47 | Legion of Anubis (Field-Tested), 895, 8.01, 93.22%, 100.00
+226228828,AK-47 | Legion of Anubis (Field-Tested), 895, 8.01, 93.22%, 100.00
+226235343,Desert Eagle | Kumicho Dragon (Field-Tested), 1771, 0.17, 91.05%, 100.00
+226239728,Glock-18 | Water Elemental (Minimal Wear), 804, -5, 93.92%, 100.00
+226240766,M4A4 | The Coalition (Field-Tested), 3297, -1.94, 89.52%, 87.42

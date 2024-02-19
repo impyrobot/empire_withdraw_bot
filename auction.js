@@ -68,10 +68,10 @@ const reccomenedPrice= 15;
 
 filters = {
     price_min: 0,
-    price_max: 3928,
+    price_max: 3222,
     // price_max: 999999,
     // wear_max: 0.38,
-    // is_commodity: false,
+    jis_commodity: false,
 }
 
 
@@ -131,7 +131,6 @@ async function initSocket() {
             socket.on("disconnect", (reason) => console.log(`Socket disconnected: ${reason}`));
             // socket.on('updated_item', (data) => console.log(`updated_item: ${JSON.stringify(data)}`));
             socket.on('trade_status', (data) => console.log(`trade_status: ${JSON.stringify(data)}`));
-            
 
             // Listen for new items, filters items, then adds them to the storage array and prints to console
             socket.on('new_item', async (data) => {
@@ -166,13 +165,33 @@ async function initSocket() {
                                 // Add the item to the furtherFilteredItems array
                                 furtherFilteredItems.push(item);
 
-                                //// BID HERE
-                                // api.placeBid(item.id, item.purchase_price + 2).then((response) => {
-                                //     console.log(`Bid placed successfully ${item.market_name} @ ${item.purchase_price + 1}:` , response);
-                                // }).catch((error) => {
-                                //     console.error("Error placing bid:", error);
-                                // }
-                                // );
+                                // BID HERE
+                                if (item.auction_ends_at != null) {
+                                    // If the auction has an end time, attempt to create a withdrawal.
+                                    api.createWithdrawal(item.id, item.purchase_price).then((response) => {
+                                        console.log(`Withdrawal created successfully ${item.market_name} @ ${item.purchase_price}:`, response);
+                                    }).catch((error) => {
+                                        console.error("Error creating withdrawal:", error);
+                                    });
+                                } else {
+                                    // If the auction does not have an end time, place a bid instead.
+                                    
+                                    // Ensure item.purchase_price is treated as an integer and then add 2
+                                    let bidValue = parseInt(item.purchase_price, 10) + 2; // The second argument, 10, specifies the base for numerical parsing
+
+                                    // Use the integer bidValue in the API call
+                                    api.placeBid(item.id, bidValue).then((response) => {
+                                        if (response.success === true) { // Use strict equality for comparison
+                                            console.log(`Bid placed successfully for ${item.market_name} @ ${bidValue}:`, response);
+                                        } else {
+                                            console.log("Bid failed"); // This message will now be shown correctly only if the bid was not successful
+                                        }
+                                    }).catch((error) => {
+                                        console.error("Error placing bid:", error);
+                                    });
+
+                                }
+                                
 
                             } else {
                                 console.log(`Item ${item.market_name} with Buff Percentage: ${buffPercentage} filtered out as it's above the threshold.`);
@@ -224,6 +243,7 @@ async function initSocket() {
             //         }
             //     });
             // });
+            
 
             socket.on('auction_update', async (data) => {
                 const now = new Date();
@@ -253,8 +273,21 @@ async function initSocket() {
                                     // Log the updated item information
                                     logItem(filteredItemStorage[storageItemIndex], timestamp, 'ITEM_UPDATED');
 
-                                    console.log("Bid on item here")
-                                    //BID HERE
+                                    // console.log("Bid on item here")
+                                    
+                                    // Ensure item.purchase_price is treated as an integer and then add 2
+                                    let bidValue = parseInt(item.purchase_price, 10) + 2; // The second argument, 10, specifies the base for numerical parsing
+
+                                    // Use the integer bidValue in the API call
+                                    api.placeBid(item.id, bidValue).then((response) => {
+                                        if (response.success === true) { // Use strict equality for comparison
+                                            console.log(`Bid placed successfully for ${item.market_name} @ ${bidValue}:`, response);
+                                        } else {
+                                            console.log("Bid failed"); // This message will now be shown correctly only if the bid was not successful
+                                        }
+                                    }).catch((error) => {
+                                        console.error("Error placing bid:", error);
+                                    });
                                 } else {
                                     console.log(`Updated bid for item ${item.id} exceeds 94% buff value, not updating.`);
                                 }
