@@ -181,7 +181,7 @@ async function initSocket() {
                                     // If the auction does have an end time, place a bid instead.
                                     
                                     // Ensure item.purchase_price is treated as an integer and then add 2
-                                    let bidValue = parseInt(item.purchase_price) + 1;
+                                    let bidValue = parseInt(item.purchase_price) + 2;
                                     console.log(`Bid value: ${bidValue}`);
 
                                     // Use the integer bidValue in the API call
@@ -246,7 +246,7 @@ async function initSocket() {
                                     
                                     //POSSIBLY USER NEXT OFFER HERE?
                                     // Ensure item.purchase_price is treated as an integer and then add 2
-                                    let bidValue = parseInt(item.purchase_price) + 1;
+                                    let bidValue = parseInt(item.auction_highest_bid) + 2;
                                     console.log(`Bid value: ${bidValue}`);
 
 
@@ -255,13 +255,13 @@ async function initSocket() {
                                         if (response && response.success === true) { 
                                             console.log(`Bid placed successfully for ${item.market_name} @ ${bidValue}:`, response);
                                         } else {
-                                            console.log("Bid failed"); // This message will now be shown correctly only if the bid was not successful
+                                            console.log("Bid failed"); 
                                         }
                                     }).catch((error) => {
                                         console.error("Error placing bid:", error);
                                     });
                                 } else {
-                                    console.log(`Updated bid for item ${item.id} exceeds buffTarget% buff value, not updating.`);
+                                    console.log(`Updated bid for item ${item.id} @ ${newBuffPercentage} exceeds ${buffTarget}% buff value, not updating.`);
                                 }
                             }
                         } catch (error) {

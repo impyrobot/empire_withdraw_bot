@@ -2614,3 +2614,13 @@
 227203155,StatTrak™ Five-SeveN | Angry Mob (Field-Tested), 1017, -5.02, 92.05%, 64.66
 227204443,AK-47 | Legion of Anubis (Minimal Wear), 1620, 0.86, 99.20%, 100.00
 227213649,AK-47 | Point Disarray (Field-Tested), 1162, -6.68, 92.61%, 100.00
+227285739,AUG | Stymphalian (Factory New), 874, -4.97, 88.91%, 71.31
+227285865,AK-47 | Head Shot (Field-Tested), 2248, -3.01, 92.44%, 100.00
+227286425,AK-47 | Ice Coaled (Minimal Wear), 1467, -3.93, 91.47%, 100.00
+227287142,USP-S | The Traitor (Field-Tested), 1546, -3.03, 91.17%, 100.00
+227291484,StatTrak™ AWP | Phobos (Factory New), 798, -3.97, 92.80%, 84.75
+227291486,AK-47 | Redline (Field-Tested), 2080, -4.99, 92.81%, 100.00
+227291485,AK-47 | Redline (Field-Tested), 2080, -4.99, 92.81%, 100.00
+227291489,AK-47 | Redline (Field-Tested), 2080, -4.99, 92.81%, 100.00
+227291490,AK-47 | Redline (Field-Tested), 2080, -4.99, 92.81%, 100.00
+227291822,AK-47 | Cartel (Minimal Wear), 1631, -4.02, 92.69%, 97.43
