@@ -64,14 +64,15 @@ fs.readFile('blacklist.txt', 'utf8', (err, data) => {
 
 let filteredItemStorage = [];
 
-const reccomenedPrice= 15;
+const recommendedPrice= 15;
+const buffTarget = 93;
 
 filters = {
     price_min: 0,
-    price_max: 3222,
+    price_max: 3172,
     // price_max: 999999,
-    // wear_max: 0.38,
-    jis_commodity: false,
+    wear_max: 0.38,
+    is_commodity: false,
 }
 
 
@@ -123,7 +124,7 @@ async function initSocket() {
                         signature: userData.socket_signature
                     });
                 }
-            })
+            });
 
             // Listen for the following event to be emitted by the socket after we've identified the user
 
@@ -140,7 +141,7 @@ async function initSocket() {
                 const timestamp = now.toLocaleString(undefined, options);
 
                 const filteredItems = data.filter(item => 
-                    whitelist.includes(item.market_name) && !blacklist.some(keyword => item.market_name.includes(keyword)) && item.above_recommended_price <= reccomenedPrice);
+                    whitelist.includes(item.market_name) && !blacklist.some(keyword => item.market_name.includes(keyword)) && item.above_recommended_price <= recommendedPrice);
 
                 // Initialize a new array to hold items after further filtering based on buffPercentage
                 let furtherFilteredItems = [];
@@ -153,8 +154,10 @@ async function initSocket() {
                             let buffPercentage = parseFloat(buffData.buffPercentage.toFixed(2));
                             let buffLiquidity = parseFloat(buffData.buffLiquidity.toFixed(2));
 
-                            // Further filter out items where buffPercentage is greater than 94
-                            if (buffPercentage <= 94) {
+                            // Further filter out items where buffPercentage is greater than buffTarget
+                            if (buffPercentage <= buffTarget) {
+
+                                console.log(`Item: ${JSON.stringify(item)}`);
 
                                 // Construct the log message for items that meet all criteria
                                 const logMessage = `NEW ITEM: ${timestamp}, ${item.id}, ${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}, ${buffPercentage}% buff, ${buffLiquidity} liquid\n`;
@@ -166,7 +169,8 @@ async function initSocket() {
                                 furtherFilteredItems.push(item);
 
                                 // BID HERE
-                                if (item.auction_ends_at != null) {
+
+                                if (item.auction_ends_at == null) { // IF NULL NOT AUCTION SO CREATE WITHDRAWAL
                                     // If the auction has an end time, attempt to create a withdrawal.
                                     api.createWithdrawal(item.id, item.purchase_price).then((response) => {
                                         console.log(`Withdrawal created successfully ${item.market_name} @ ${item.purchase_price}:`, response);
@@ -174,14 +178,15 @@ async function initSocket() {
                                         console.error("Error creating withdrawal:", error);
                                     });
                                 } else {
-                                    // If the auction does not have an end time, place a bid instead.
+                                    // If the auction does have an end time, place a bid instead.
                                     
                                     // Ensure item.purchase_price is treated as an integer and then add 2
-                                    let bidValue = parseInt(item.purchase_price, 10) + 2; // The second argument, 10, specifies the base for numerical parsing
+                                    let bidValue = parseInt(item.purchase_price) + 1;
+                                    console.log(`Bid value: ${bidValue}`);
 
                                     // Use the integer bidValue in the API call
                                     api.placeBid(item.id, bidValue).then((response) => {
-                                        if (response.success === true) { // Use strict equality for comparison
+                                        if (response && response.success === true) {
                                             console.log(`Bid placed successfully for ${item.market_name} @ ${bidValue}:`, response);
                                         } else {
                                             console.log("Bid failed"); // This message will now be shown correctly only if the bid was not successful
@@ -207,42 +212,6 @@ async function initSocket() {
                 // Add the further filtered items to the storage array
                 filteredItemStorage.push(...furtherFilteredItems);
             });
-           
-            
-            
-            // socket.on('auction_update', (data) => console.log(`Auction Update: ${JSON.stringify(data, null, 2)}`));
-
-            // socket.on('auction_update', (data) => {
-            //     const now = new Date();
-            //     const options = { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', timeZoneName: 'short' };
-            //     const timestamp = now.toLocaleString(undefined, options);
-            
-            //     // Normalize data to always be an array
-            //     const updated_items = Array.isArray(data) ? data : [data];
-
-            
-            //     updated_items.forEach(item => {
-            //         // Find the item in the storage
-            //         const storageItemIndex = filteredItemStorage.findIndex(storageItem => storageItem.id === item.id);
-            
-            //         if (storageItemIndex !== -1) {
-                    
-            //             // If the item exists in 'filteredItemStorage' and the update contains valid price data, update it
-            //             if (typeof item.auction_highest_bid !== 'undefined' && item.auction_highest_bid !== null) {
-                            
-            //                 filteredItemStorage[storageItemIndex].purchase_price = item.auction_highest_bid;
-            //                 filteredItemStorage[storageItemIndex].above_recommended_price = item.above_recommended_price;
-            //                 filteredItemStorage[storageItemIndex].auction_number_of_bids = item.auction_number_of_bids;
-                            
-            //                 // Assuming logItem is a function for logging, you might want to adjust its usage according to your implementation
-                            
-            //                 logItem(filteredItemStorage[storageItemIndex], timestamp, 'ITEM_UPDATED');
-            //             }
-            
-
-            //         }
-            //     });
-            // });
             
 
             socket.on('auction_update', async (data) => {
@@ -263,8 +232,8 @@ async function initSocket() {
                             if (buffData && buffData.buffPercentage !== undefined) {
                                 let newBuffPercentage = parseFloat(buffData.buffPercentage.toFixed(2));
             
-                                // Check if the new buff percentage is <= 94
-                                if (newBuffPercentage <= 94) {
+                                // Check if the new buff percentage is <= buffTarget
+                                if (newBuffPercentage <= buffTarget) {
                                     // Update the item with the new auction data
                                     filteredItemStorage[storageItemIndex].purchase_price = item.auction_highest_bid;
                                     filteredItemStorage[storageItemIndex].above_recommended_price = item.above_recommended_price;
@@ -275,12 +244,15 @@ async function initSocket() {
 
                                     // console.log("Bid on item here")
                                     
+                                    //POSSIBLY USER NEXT OFFER HERE?
                                     // Ensure item.purchase_price is treated as an integer and then add 2
-                                    let bidValue = parseInt(item.purchase_price, 10) + 2; // The second argument, 10, specifies the base for numerical parsing
+                                    let bidValue = parseInt(item.purchase_price) + 1;
+                                    console.log(`Bid value: ${bidValue}`);
+
 
                                     // Use the integer bidValue in the API call
                                     api.placeBid(item.id, bidValue).then((response) => {
-                                        if (response.success === true) { // Use strict equality for comparison
+                                        if (response && response.success === true) { 
                                             console.log(`Bid placed successfully for ${item.market_name} @ ${bidValue}:`, response);
                                         } else {
                                             console.log("Bid failed"); // This message will now be shown correctly only if the bid was not successful
@@ -289,7 +261,7 @@ async function initSocket() {
                                         console.error("Error placing bid:", error);
                                     });
                                 } else {
-                                    console.log(`Updated bid for item ${item.id} exceeds 94% buff value, not updating.`);
+                                    console.log(`Updated bid for item ${item.id} exceeds buffTarget% buff value, not updating.`);
                                 }
                             }
                         } catch (error) {
@@ -298,8 +270,6 @@ async function initSocket() {
                     }
                 }
             });
-            
-
             
             socket.on('deleted_item', (data) => {
 

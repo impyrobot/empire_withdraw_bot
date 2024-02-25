@@ -2611,3 +2611,6 @@
 226235343,Desert Eagle | Kumicho Dragon (Field-Tested), 1771, 0.17, 91.05%, 100.00
 226239728,Glock-18 | Water Elemental (Minimal Wear), 804, -5, 93.92%, 100.00
 226240766,M4A4 | The Coalition (Field-Tested), 3297, -1.94, 89.52%, 87.42
+227203155,StatTrak™ Five-SeveN | Angry Mob (Field-Tested), 1017, -5.02, 92.05%, 64.66
+227204443,AK-47 | Legion of Anubis (Minimal Wear), 1620, 0.86, 99.20%, 100.00
+227213649,AK-47 | Point Disarray (Field-Tested), 1162, -6.68, 92.61%, 100.00

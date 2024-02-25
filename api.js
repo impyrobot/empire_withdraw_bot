@@ -66,6 +66,7 @@ const getTransactionHistory = async (pageNumber) => {
 
 
 const createWithdrawal = async (depositId, coinValue) => {
+
     const headers = { 
         Authorization: `Bearer ${API_KEY}`,
         'Content-Type': 'application/json'
@@ -86,6 +87,7 @@ const createWithdrawal = async (depositId, coinValue) => {
 
 
 const placeBid = async (depositId, bidValue) => {
+
     const headers = { 
         Authorization: `Bearer ${API_KEY}`,
         'Content-Type': 'application/json'
