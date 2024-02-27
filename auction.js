@@ -10,6 +10,7 @@ const logFilePath = 'priceEmpireLog.txt'; // Path to your log file
 const api = require('./api');
 const { getBuff, cache } = require('./priceEmpireItemsPrices');
 const { getBuffItem } = require('./priceEmpireApi');
+const { parse } = require('path');
 
 // getBuff called to get buff data
 (async () => {
@@ -42,6 +43,9 @@ const domain = "csgoempire.com"
 
 const socketEndpoint = `wss://trade.${domain}/trade`;
 
+
+
+//WHITELIST AND BLACKLIST
 // Read and parse the whitelist file
 let whitelist = [];
 fs.readFile('whitelist.txt', 'utf8', (err, data) => {
@@ -62,15 +66,17 @@ fs.readFile('blacklist.txt', 'utf8', (err, data) => {
     blacklist = data.split('\n').map(line => line.trim()); // Trim each line to remove whitespace
 });
 
+
+
+//FILTER CONFIGURATION
 let filteredItemStorage = [];
 
-const recommendedPrice= 15;
-const buffTarget = 93;
+const recommendedPrice= 15; //Buying below +15 empire
+const buffTarget = 93; //Buying below 93% buff
 
 filters = {
     price_min: 0,
-    price_max: 3172,
-    // price_max: 999999,
+    price_max: 999999,
     wear_max: 0.38,
     is_commodity: false,
 }
@@ -157,8 +163,6 @@ async function initSocket() {
                             // Further filter out items where buffPercentage is greater than buffTarget
                             if (buffPercentage <= buffTarget) {
 
-                                console.log(`Item: ${JSON.stringify(item)}`);
-
                                 // Construct the log message for items that meet all criteria
                                 const logMessage = `NEW ITEM: ${timestamp}, ${item.id}, ${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}, ${buffPercentage}% buff, ${buffLiquidity} liquid\n`;
 
@@ -180,24 +184,30 @@ async function initSocket() {
                                 } else {
                                     // If the auction does have an end time, place a bid instead.
                                     
-                                    // Ensure item.purchase_price is treated as an integer and then add 2
-                                    let bidValue = parseInt(item.purchase_price) + 2;
-                                    console.log(`Bid value: ${bidValue}`);
+                                    let bidValue = calculateNewBid(parseInt(item.purchase_price));
 
-                                    // Use the integer bidValue in the API call
-                                    api.placeBid(item.id, bidValue).then((response) => {
-                                        if (response && response.success === true) {
-                                            console.log(`Bid placed successfully for ${item.market_name} @ ${bidValue}:`, response);
-                                        } else {
-                                            console.log("Bid failed"); // This message will now be shown correctly only if the bid was not successful
+                                    const newBuffData = await getBuff(item.market_name, bidValue);
+
+                                    if (newBuffData && newBuffData.buffPercentage !== undefined) {
+                                        let newBuffPercentage = parseFloat(newBuffData.buffPercentage.toFixed(2));
+                                        console.log(`New bid buff percentage: ${newBuffPercentage}`);
+
+                                        if (newBuffPercentage <= buffTarget) {
+                                            console.log(`New bid buff percentage: ${newBuffPercentage} is less than ${buffTarget} so placing bid.`);
+
+                                            // Use the integer bidValue in the API call
+                                            api.placeBid(item.id, bidValue).then((response) => {
+                                                if (response && response.success === true) {
+                                                    console.log(`Bid placed successfully for ${item.market_name} @ ${bidValue}:`, response);
+                                                } else {
+                                                    console.log("Bid failed"); // This message will now be shown correctly only if the bid was not successful
+                                                }
+                                            }).catch((error) => {
+                                                console.error("Error placing bid:", error);
+                                            });
                                         }
-                                    }).catch((error) => {
-                                        console.error("Error placing bid:", error);
-                                    });
-
+                                    }
                                 }
-                                
-
                             } else {
                                 console.log(`Item ${item.market_name} with Buff Percentage: ${buffPercentage} filtered out as it's above the threshold.`);
                             }
@@ -242,24 +252,29 @@ async function initSocket() {
                                     // Log the updated item information
                                     logItem(filteredItemStorage[storageItemIndex], timestamp, 'ITEM_UPDATED');
 
-                                    // console.log("Bid on item here")
+                                    // Calculate new bid +1%+1 coin
+                                    let bidValue = calculateNewBid(parseInt(item.auction_highest_bid));
+
+                                    let newBidBuffDate = await getBuff(filteredItemStorage[storageItemIndex].market_name, bidValue);
                                     
-                                    //POSSIBLY USER NEXT OFFER HERE?
-                                    // Ensure item.purchase_price is treated as an integer and then add 2
-                                    let bidValue = parseInt(item.auction_highest_bid) + 2;
-                                    console.log(`Bid value: ${bidValue}`);
+                                    if (newBidBuffDate && newBidBuffDate.buffPercentage !== undefined) {
+                                        let newBidBuffPercentage = parseFloat(newBidBuffDate.buffPercentage.toFixed(2));
 
+                                        if (newBidBuffPercentage <= buffTarget) {
+                                            console.log(`New bid buff percentage: ${newBuffPercentage} is less than ${buffTarget} so placing bid.`);
+                                            // Use the integer bidValue in the API call
+                                            api.placeBid(item.id, bidValue).then((response) => {
+                                                if (response && response.success === true) { 
+                                                    console.log(`Bid placed successfully for ${item.market_name} @ ${bidValue}:`, response);
+                                                } else {
+                                                    console.log("Bid failed"); 
+                                                }
+                                            }).catch((error) => {
+                                                console.error("Error placing bid:", error);
+                                            });                                            
+                                        };
+                                    }
 
-                                    // Use the integer bidValue in the API call
-                                    api.placeBid(item.id, bidValue).then((response) => {
-                                        if (response && response.success === true) { 
-                                            console.log(`Bid placed successfully for ${item.market_name} @ ${bidValue}:`, response);
-                                        } else {
-                                            console.log("Bid failed"); 
-                                        }
-                                    }).catch((error) => {
-                                        console.error("Error placing bid:", error);
-                                    });
                                 } else {
                                     console.log(`Updated bid for item ${item.id} @ ${newBuffPercentage} exceeds ${buffTarget}% buff value, not updating.`);
                                 }
@@ -300,6 +315,13 @@ async function initSocket() {
         console.log(`Error while initializing the Socket. Error: ${e}`);
     }
 };  
+
+function calculateNewBid(currentBid) {
+    // let newBid = Math.round(currentBid * 1.01) + 1;
+    let newBid = currentBid + 3;
+    console.log(`New Bid value: ${newBid}`);
+    return newBid;
+}
 
 async function logItem(item, timestamp, logType) {
     // Define a base log message

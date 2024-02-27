@@ -2624,3 +2624,13 @@
 227291489,AK-47 | Redline (Field-Tested), 2080, -4.99, 92.81%, 100.00
 227291490,AK-47 | Redline (Field-Tested), 2080, -4.99, 92.81%, 100.00
 227291822,AK-47 | Cartel (Minimal Wear), 1631, -4.02, 92.69%, 97.43
+227557069,M4A4 | The Emperor (Minimal Wear), 5350, -3.92, 91.40%, 96.75
+227557427,M4A1-S | Player Two (Factory New), 13627, -5.95, 92.77%, 66.95
+227558805,AK-47 | Head Shot (Field-Tested), 2198, -5, 92.59%, 100.00
+227559154,AK-47 | Asiimov (Field-Tested), 3619, -7.06, 91.78%, 100.00
+227559862,AK-47 | Neon Revolution (Field-Tested), 1968, -4.98, 92.64%, 100.00
+227559865,AK-47 | Frontside Misty (Battle-Scarred), 1343, -4.05, 92.91%, 96.70
+227560158,★ Hand Wraps | Duct Tape (Field-Tested), 9829, -6, 92.95%, 77.44
+227560402,★ Hand Wraps | Duct Tape (Field-Tested), 9632, -7.03, 91.09%, 77.44
+227560388,StatTrak™ AK-47 | Phantom Disruptor (Factory New), 4535, -5.01, 92.93%, 61.33
+227560315,AK-47 | Green Laminate (Field-Tested), 1828, -4.96, 91.97%, 67.24
