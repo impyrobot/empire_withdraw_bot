@@ -48,9 +48,7 @@ const getBuff = async (item_name, coins) => {
             console.error(`An error occurred: ${error.message}`);
             return null;
         }
-    } else {
-        console.log("Using cached data...");
-    }
+    } 
 
     // Filter cache.data based on the whitelist
     let filteredPriceData = {};
