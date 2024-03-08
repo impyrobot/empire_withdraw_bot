@@ -136,22 +136,36 @@ async function initSocket() {
 
             socket.on('timesync', (data) => console.log(`Timesync: ${JSON.stringify(data)}`));
             socket.on("disconnect", (reason) => console.log(`Socket disconnected: ${reason}`));
-            
-
-            // // socket.on('updated_item', (data) => console.log(`updated_item: ${JSON.stringify(data)}`));
+            // socket.on('updated_item', (data) => console.log(`updated_item: ${JSON.stringify(data)}`));
             // socket.on('trade_status', (data) => console.log(`trade_status: ${JSON.stringify(data)}`));
-            // socket.on('trade_status', (data) => {
 
-            
-            //     // Extracting information from the trade_status
-            //     console.log(data.id);
-            //     console.log(data.market_name);
-            //     console.log(data.market_value);
-                
-            
-            //     // Log the extracted information
-            //     console.log("Trade ID:", id, "Market Name:", market_name, "Market Value:", market_value);
-            // });
+            socket.on('trade_status', (data) => {
+            // Check if the data is an array
+
+                data.forEach((tradeStatus) => {
+                // Check if the trade status is a withdrawal
+                if (tradeStatus.type === 'withdrawal') {
+                    const {
+                    id,
+                    item: { market_name },
+                    total_value,
+                    } = tradeStatus.data;
+
+                    const logMessage = `${id},${market_name}, ${total_value}\n`;
+
+
+                    // Append the log message to the file
+                    fs.appendFile('items_withdrawn_log.txt', logMessage, (err) => {
+                        if (err) {
+                        console.error('Error writing to the log file:', err);
+                        } else {
+                        console.log('Logged withdraw to file:', logMessage);
+                        }                   
+                    });
+                }
+                });
+
+            });
             
 
             // Listen for new items, filters items, then adds them to the storage array and prints to console
@@ -393,7 +407,7 @@ async function logDeletedItemInfo(itemId) {
                 }
             });
 
-            // Optionally, remove the item from the storage to keep it up-to-date
+            // Remove the item from the storage to keep it up-to-date
             const index = filteredItemStorage.indexOf(item);
             if (index > -1) {
                 filteredItemStorage.splice(index, 1);
