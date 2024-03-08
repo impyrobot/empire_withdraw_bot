@@ -140,7 +140,6 @@ async function initSocket() {
             // socket.on('trade_status', (data) => console.log(`trade_status: ${JSON.stringify(data)}`));
 
             socket.on('trade_status', (data) => {
-            // Check if the data is an array
 
                 data.forEach((tradeStatus) => {
                 // Check if the trade status is a withdrawal
