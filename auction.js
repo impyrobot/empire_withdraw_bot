@@ -76,7 +76,7 @@ const buffTarget = 93; //Buying below 93% buff
 
 filters = {
     price_min: 0,
-    price_max: 2877,
+    price_max: 1,
     wear_max: 0.38,
     is_commodity: false,
 }
