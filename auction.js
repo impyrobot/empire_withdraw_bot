@@ -75,8 +75,8 @@ const recommendedPrice= 15; //Buying below +15 empire
 const buffTarget = 93; //Buying below 93% buff
 
 filters = {
-    price_min: 0,
-    price_max: 1,
+    price_min: 1000,
+    price_max: 1595,
     wear_max: 0.38,
     is_commodity: false,
 }
@@ -139,31 +139,28 @@ async function initSocket() {
             // socket.on('updated_item', (data) => console.log(`updated_item: ${JSON.stringify(data)}`));
             // socket.on('trade_status', (data) => console.log(`trade_status: ${JSON.stringify(data)}`));
 
-            socket.on('trade_status', (data) => {
+            const withdrawnItems = new Set();
 
-                data.forEach((tradeStatus) => {
+            socket.on('trade_status', (data) => {
+              data.forEach((tradeStatus) => {
                 // Check if the trade status is a withdrawal
                 if (tradeStatus.type === 'withdrawal') {
-                    const {
-                    id,
-                    item: { market_name },
-                    total_value,
-                    } = tradeStatus.data;
-
-                    const logMessage = `${id},${market_name}, ${total_value}\n`;
-
-
+                  const { id, item: { market_name }, total_value } = tradeStatus.data;
+                  const logMessage = `${id},${market_name}, ${total_value}`;
+            
+                  // Check if the log message is already in the Set
+                  if (!withdrawnItems.has(logMessage)) {
+                    withdrawnItems.add(logMessage);
+            
                     // Append the log message to the file
-                    fs.appendFile('items_withdrawn_log.txt', logMessage, (err) => {
-                        if (err) {
+                    fs.appendFile('items_withdrawn_log.txt', `${logMessage}\n`, (err) => {
+                      if (err) {
                         console.error('Error writing to the log file:', err);
-                        } else {
-                        console.log('Logged withdraw to file:', logMessage);
-                        }                   
+                      }
                     });
+                  }
                 }
-                });
-
+              });
             });
             
 
