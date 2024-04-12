@@ -11,6 +11,7 @@ const api = require('./api');
 const { getBuff, cache } = require('./priceEmpireItemsPrices');
 const { getBuffItem } = require('./priceEmpireApi');
 const { parse } = require('path');
+const config = require('./config');
 
 // getBuff called to get buff data
 (async () => {
@@ -71,15 +72,19 @@ fs.readFile('blacklist.txt', 'utf8', (err, data) => {
 //FILTER CONFIGURATION
 let filteredItemStorage = [];
 
-const recommendedPrice= 15; //Buying below +15 empire
-const buffTarget = 93; //Buying below 93% buff
+// Access the configuration properties
+const filters = config.filters;
+const recommendedPrice = config.recommendedPrice;
+const buffTarget = config.buffTarget;
 
-filters = {
-    price_min: 1000,
-    price_max: 1595,
-    wear_max: 0.38,
-    is_commodity: false,
-}
+// Use the configuration properties as needed
+console.log(`Recommended Price: \x1b[32m${recommendedPrice}\x1b[0m`);
+console.log(`Buff Target: \x1b[32m${buffTarget}\x1b[0m`);
+console.log('Filters:');
+Object.entries(filters).forEach(([key, value]) => {
+    console.log(`  ${key}: \x1b[32m${value}\x1b[0m`);
+});
+console.log("");
 
 
 //CONNECT TO SOCKET
