@@ -118,7 +118,39 @@ const getListedItems = async (perPage, page) => {
     }
 };
 
-// api.js
+const sendDeposit = async (depositId) => {
+    const headers = { Authorization: `Bearer ${API_KEY}` };
+
+    try {
+        const response = await axios.post(`https://${domain}/api/v2/trading/deposit/${depositId}/sent`, {}, { headers });
+        console.log('Deposit Item Sent Response:', response.data);
+    } catch (error) {
+        console.error('Failed to send deposit:', error.response ? error.response.data : error.message);
+    }
+};
+
+const receiveDeposit = async (depositId) => {
+    const headers = { Authorization: `Bearer ${API_KEY}` };
+
+    try {
+        const response = await axios.post(`https://${domain}/api/v2/trading/deposit/${depositId}/received`, {}, { headers });
+        console.log('Deposit Item Received Response:', response.data);
+    } catch (error) {
+        console.error('Failed to mark deposit as received:', error.response ? error.response.data : error.message);
+    }
+};
+
+const disputeDeposit = async (depositId) => {
+    const headers = { Authorization: `Bearer ${API_KEY}` };
+
+    try {
+        const response = await axios.post(`https://${domain}/api/v2/trading/deposit/${depositId}/dispute`, {}, { headers });
+        console.log('Dispute Deposit Response:', response.data);
+    } catch (error) {
+        console.error('Failed to dispute deposit:', error.response ? error.response.data : error.message);
+    }
+};
+
 module.exports = {
     getBalance,
     getActiveTrades,
@@ -126,5 +158,8 @@ module.exports = {
     getTransactionHistory,
     createWithdrawal,
     placeBid,
-    getListedItems
+    getListedItems,
+    sendDeposit,
+    receiveDeposit,
+    disputeDeposit
 };
