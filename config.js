@@ -1,7 +1,7 @@
 module.exports = {
     filters: {
-      price_min: 0,
-      price_max: 1327,
+      price_min: 0, // 10000
+      price_max: 1327, // 200000
       wear_max: 0.38,
       is_commodity: false,
     },

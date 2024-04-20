@@ -12,6 +12,7 @@ const { getBuff, cache } = require('./priceEmpireItemsPrices');
 const { getBuffItem } = require('./priceEmpireApi');
 const { parse } = require('path');
 const config = require('./config');
+const { log } = require('console');
 
 // getBuff called to get buff data
 (async () => {
@@ -142,31 +143,85 @@ async function initSocket() {
             socket.on('timesync', (data) => console.log(`Timesync: ${JSON.stringify(data)}`));
             socket.on("disconnect", (reason) => console.log(`Socket disconnected: ${reason}`));
             // socket.on('updated_item', (data) => console.log(`updated_item: ${JSON.stringify(data)}`));
-            // socket.on('trade_status', (data) => console.log(`trade_status: ${JSON.stringify(data)}`));
 
             const withdrawnItems = new Set();
 
-            socket.on('trade_status', (data) => {
-              data.forEach((tradeStatus) => {
-                // Check if the trade status is a withdrawal
-                if (tradeStatus.type === 'withdrawal') {
-                  const { id, item: { market_name }, total_value } = tradeStatus.data;
-                  const logMessage = `${id},${market_name}, ${total_value}`;
-            
-                  // Check if the log message is already in the Set
-                  if (!withdrawnItems.has(logMessage)) {
-                    withdrawnItems.add(logMessage);
-            
-                    // Append the log message to the file
-                    fs.appendFile('items_withdrawn_log.txt', `${logMessage}\n`, (err) => {
-                      if (err) {
-                        console.error('Error writing to the log file:', err);
+            socket.on('trade_status', async (data) => {
+                for (const tradeStatus of data) {
+                  // Check if the trade status is a withdrawal
+                  if (tradeStatus.type === 'withdrawal') {
+                    const {
+                      id,
+                      item_id,
+                      item: { market_name },
+                      status,
+                      total_value
+                    } = tradeStatus.data;
+              
+                    // Get the status message based on the status code
+                    const statusMessage = getStatusMessage(status, item_id, market_name);
+                    console.log(statusMessage);
+                    
+                    try {
+                      const buffData = await getBuff(market_name, total_value);
+                      const { buffPercentage, buffLiquidity } = buffData;
+              
+                      // Construct a descriptive log message
+                      const logMessage = `${item_id},${id},${market_name},${total_value},${buffPercentage},${buffLiquidity}`;
+              
+                      // Check if the log message is already in the Set
+                      if (!withdrawnItems.has(logMessage)) {
+                        withdrawnItems.add(logMessage);
+              
+                        // Log the message to the console
+                        console.log(logMessage);
+              
+                        // Append the log message to the file
+                        fs.appendFile('items_withdrawn_log.txt', `${logMessage}\n`, (err) => {
+                          if (err) {
+                            console.error('Error writing to the log file:', err);
+                          }
+                        });
                       }
-                    });
+                    } catch (error) {
+                      console.error('Error fetching buff data:', error);
+                    }
                   }
                 }
               });
-            });
+              
+              // Helper function to get the status message based on the status code, item_id, and market_name
+              function getStatusMessage(status, item_id, market_name) {
+                const baseMessage = `(Item ID: ${item_id}, ${market_name})`;
+                switch (status) {
+                  case -1:
+                    return `\x1b[31mError\x1b[0m ${baseMessage}`;
+                  case 0:
+                    return `\x1b[33mPending\x1b[0m ${baseMessage}`;
+                  case 1:
+                    return `\x1b[32mReceived\x1b[0m ${baseMessage}`;
+                  case 2:
+                    return `\x1b[36mProcessing\x1b[0m ${baseMessage}`;
+                  case 3:
+                    return `\x1b[36mSending\x1b[0m ${baseMessage}`;
+                  case 4:
+                    return `\x1b[36mConfirming\x1b[0m ${baseMessage}`;
+                  case 5:
+                    return `\x1b[32mSent\x1b[0m ${baseMessage}`;
+                  case 6:
+                    return `\x1b[32mCompleted\x1b[0m ${baseMessage}`;
+                  case 7:
+                    return `\x1b[31mDeclined\x1b[0m ${baseMessage}`;
+                  case 8:
+                    return `\x1b[31mCanceled\x1b[0m ${baseMessage}`;
+                  case 9:
+                    return `\x1b[31mTimedOut\x1b[0m ${baseMessage}`;
+                  case 10:
+                    return `\x1b[32mCredited\x1b[0m ${baseMessage}`;
+                  default:
+                    return `\x1b[33mUnknown\x1b[0m ${baseMessage}`;
+                }
+              }
             
 
             // Listen for new items, filters items, then adds them to the storage array and prints to console
@@ -193,7 +248,7 @@ async function initSocket() {
                             if (buffPercentage <= buffTarget) {
 
                                 // Construct the log message for items that meet all criteria
-                                const logMessage = `NEW ITEM: ${timestamp}, ${item.id}, ${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}, ${buffPercentage}% buff, ${buffLiquidity} liquid\n`;
+                                const logMessage = `NEW ITEM: ${timestamp}, ${item.id}, ${item.market_name}, ${item.purchase_price}, ${buffPercentage}%, ${buffLiquidity}\n`;
 
                                 // Write to console
                                 console.log('\x1b[32m%s\x1b[0m', logMessage);
@@ -262,7 +317,6 @@ async function initSocket() {
                                 if (newBuffPercentage <= buffTarget) {
                                     // Update the item with the new auction data
                                     filteredItemStorage[storageItemIndex].purchase_price = item.auction_highest_bid;
-                                    filteredItemStorage[storageItemIndex].above_recommended_price = item.above_recommended_price;
                                     filteredItemStorage[storageItemIndex].auction_number_of_bids = item.auction_number_of_bids;
                                     filteredItemStorage[storageItemIndex].buffPercentage = newBuffPercentage;
                                     // Log the updated item information
@@ -368,10 +422,10 @@ async function logItem(item, timestamp, logType) {
     // Append details to the log message based on the log type
     switch(logType) {
         case 'NEW_ITEM':
-            logMessage = `\x1b[32mNEW ITEM: ${logMessage}, ${item.market_name}, ${item.price}, ${item.above_recommended_price}, ${item.buffPercentage}\x1b[0m`;
+            logMessage = `\x1b[32mNEW ITEM: ${logMessage}, ${item.market_name}, ${item.price}, ${item.buffPercentage}\x1b[0m`;
             break;
         case 'ITEM_UPDATED':
-            logMessage = `\x1b[38;5;208mITEM UPDATED: ${logMessage}, ${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}, ${item.auction_number_of_bids} bids, ${item.buffPercentage}%\x1b[0m`;
+            logMessage = `\x1b[38;5;208mITEM UPDATED: ${logMessage}, ${item.market_name}, ${item.purchase_price}, ${item.auction_number_of_bids} bids, ${item.buffPercentage}%\x1b[0m`;
             break;
         case 'ITEM_DELETED':
             logMessage = `\x1b[31mITEM DELETED: ${logMessage}\x1b[0m`;
@@ -397,7 +451,7 @@ async function logDeletedItemInfo(itemId) {
             result.buffLiquidity = result.buffLiquidity.toFixed(2);
 
             // Now logMessage will include the defined buffPercentage
-            const logMessage = `${item.id},${item.market_name}, ${item.purchase_price}, ${item.above_recommended_price}, ${result.buffPercentage}%, ${result.buffLiquidity}\n`;
+            const logMessage = `${item.id},${item.market_name}, ${item.purchase_price}, ${result.buffPercentage}%, ${result.buffLiquidity}\n`;
 
             // Append the log message to the file
             fs.appendFile(logFilePath, logMessage, (err) => {
