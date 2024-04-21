@@ -5,6 +5,7 @@ const http = require('http');
 const url = require('url');
 const fs = require('fs');
 const logFilePath = 'priceEmpireLog.txt'; // Path to your log file
+const mysql = require('mysql');
 
 // main.js
 const api = require('./api');
@@ -13,6 +14,9 @@ const { getBuffItem } = require('./priceEmpireApi');
 const { parse } = require('path');
 const config = require('./config');
 const { log } = require('console');
+const pool = require('./db');
+
+
 
 // getBuff called to get buff data
 (async () => {
