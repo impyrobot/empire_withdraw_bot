@@ -51,6 +51,26 @@ client.on('webSession', function(sessionID, cookies) {
 	community.setCookies(cookies);
 });
 
+// manager.on('newOffer', function(offer) {
+// 	console.log("New offer #" + offer.id + " from " + offer.partner.getSteam3RenderedID());
+// 	offer.accept(function(err, status) {
+// 		if (err) {
+// 			console.log("Unable to accept offer: " + err.message);
+// 		} else {
+// 			console.log("Offer accepted: " + status);
+// 			if (status == "pending") {
+// 				community.acceptConfirmationForObject("identitySecret", offer.id, function(err) {
+// 					if (err) {
+// 						console.log("Can't confirm trade offer: " + err.message);
+// 					} else {
+// 						console.log("Trade offer " + offer.id + " confirmed");
+// 					}
+// 				});
+// 			}
+// 		}
+// 	});
+// });
+
 manager.on('newOffer', function(offer) {
     console.log("New offer #" + offer.id + " from " + offer.partner.getSteam3RenderedID());
     offer.getExchangeDetails((err, status, tradeInitTime, receivedItems, sentItems) => {
