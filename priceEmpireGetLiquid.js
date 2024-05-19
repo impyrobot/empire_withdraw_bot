@@ -26,7 +26,7 @@ const getLiquidItems = async () => {
 
       // Filter the price data based on liquidity and blacklist
       const filteredPriceData = Object.entries(priceData)
-        .filter(([key, value]) => value.liquidity >= 80 && !blacklist.some(keyword => key.toLowerCase().includes(keyword)))
+        .filter(([key, value]) => value.liquidity >= 70 && !blacklist.some(keyword => key.toLowerCase().includes(keyword)))
         .map(([key, _]) => key);
 
       if (filteredPriceData.length > 0) {

@@ -317,7 +317,7 @@ async function initSocket() {
                             if (buffData && buffData.buffPercentage !== undefined) {
                                 let newBuffPercentage = parseFloat(buffData.buffPercentage.toFixed(2));
             
-                                // Check if the new buff percentage is <= buffTarget
+                                // Check if the new buff percentage(current bid in buff) is <= buffTarget
                                 if (newBuffPercentage <= buffTarget) {
                                     // Update the item with the new auction data
                                     filteredItemStorage[storageItemIndex].purchase_price = item.auction_highest_bid;
@@ -326,7 +326,7 @@ async function initSocket() {
                                     // Log the updated item information
                                     logItem(filteredItemStorage[storageItemIndex], timestamp, 'ITEM_UPDATED');
 
-                                    // Calculate new bid +1%+1 coin
+                                    // Calculate new bid +1%+5 coin
                                     let bidValue = calculateNewBid(parseInt(item.auction_highest_bid));
 
                                     let newBidBuffDate = await getBuff(filteredItemStorage[storageItemIndex].market_name, bidValue);
@@ -346,7 +346,7 @@ async function initSocket() {
                                             }).catch((error) => {
                                                 console.error("Error placing bid:", error);
                                             });                                            
-                                        } else {
+                                        } else { // If the new bid buff percentage is too high, try a lower bid value
                                             console.log(`Calculated bid too high using lower bid value.`);
                                             let bidValue = parseInt(item.auction_highest_bid) + 5;
                                             let newBidBuffDate = await getBuff(filteredItemStorage[storageItemIndex].market_name, bidValue);
@@ -370,7 +370,8 @@ async function initSocket() {
                                             };                       
                                         };
                                     }
-
+                          
+                                //MAYBE RETRY BID WITH LOWER VALUE??
                                 } else {
                                     console.log(`Updated bid for item ${item.id} @ ${newBuffPercentage} exceeds ${buffTarget}% buff value, not updating.`);
                                 }
@@ -413,7 +414,7 @@ async function initSocket() {
 };  
 
 function calculateNewBid(currentBid) {
-    let newBid = Math.round(currentBid * 1.01) + 1;
+    let newBid = Math.round(currentBid * 1.01) + 5;
     // let newBid = currentBid + 5;
     console.log(`New Bid value: ${newBid}`);
     return newBid;

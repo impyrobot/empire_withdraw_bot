@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
@@ -12,6 +12,12 @@
     "axios": "^1.6.7",
     "dotenv": "^16.4.1",
     "mysql": "^2.18.1",
-    "socket.io-client": "^2.5.0"
+    "socket.io-client": "^2.5.0",
+    "steam-tradeoffer-manager": "^2.11.4",
+    "steam-user": "^5.0.9",
+    "steamcommunity": "^3.48.3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
