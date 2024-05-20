@@ -79,7 +79,7 @@ const createWithdrawal = async (depositId, coinValue) => {
 
     try {
         const response = await axios.post(`https://${domain}/api/v2/trading/deposit/${depositId}/withdraw`, body, { headers });
-        console.log('Withdrawal Response:', response.data);
+        console.log('Withdrawal Response:', JSON.stringify(response.data, null, 2));
     } catch (error) {
         console.error('Failed to create withdrawal:', error.response ? error.response.data : error.message);
     }
@@ -99,10 +99,17 @@ const placeBid = async (depositId, bidValue) => {
 
     try {
         const response = await axios.post(`https://${domain}/api/v2/trading/deposit/${depositId}/bid`, body, { headers });
-        console.log('Bid Response:', response.data);
-        console.log('Bid Response:', JSON.stringify(response.data, null, 2));
+        const { success, auction_data } = response.data;
+        console.log(`Bid Success: \x1b[33m${success}\x1b[0m, id: ${auction_data.id}, "highest_bid": ${auction_data.auction_highest_bid}, "no. bids": ${auction_data.auction_number_of_bids} }`);
+
+        // console.log('Bid Response:', JSON.stringify(response.data, null, 2));
+        
     } catch (error) {
-        console.error('Failed to place a bid:', error.response ? error.response.data : error.message);
+
+        const { success, message } = error.response.data;
+        console.error(`Bid Success: \x1b[33m${success}\x1b[0m - ${message}`);
+  
+        // console.error('Failed to place a bid:', error.response ? error.response.data : error.message);
     }
 };
 
