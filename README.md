@@ -1,6 +1,7 @@
 # Auction Bot
 
 This is a bot for buying items in an auction system. Follow the instructions below to set up and run the bot.
+You will need to setup a .env w/ csgoempire api key and priceempire api key its is a personal project but I no longer trade so I made it public for anyone who wants to use the codebase.
 
 ## Configuration
 
